@@ -11,7 +11,7 @@ Personas são personagens fictícios criados para descrever diferentes tipos de 
 
 <center>
 
-![persona](../../assets/camila.png)
+![persona](../../assets/personaCamila.png)
   
 <figcaption>Imagem 1: Persona Camila Gomes Ribeiro.</figcaption>
 
@@ -31,7 +31,7 @@ Camila tem 83 anos, viúva, formada em Pedagogia e, atualmente, é aposentada. C
 
 <center>
 
-![persona](../../assets/luis.jpg)
+![persona](../../assets/personaLuis.png)
 
 <figcaption>Imagem 2: Persona Luís Oliveira Souza.</figcaption>
 
@@ -51,27 +51,27 @@ Luis tem 29 anos e é casado.Atualmente, Luís mora na cidade e trabalha como ra
 
 <center>
 
-![persona](../../assets/lara.jpg)
+![persona](../../assets/personaLara.png)
   
 <figcaption>Imagem 3: Persona Lara Barros Cavalcanti.</figcaption>
 
 </center>
 
-- Idade: 34.
+- Idade: 27.
 - Sexo: Feminino.
 - Escolaridade: Ensino fundamental completo.
 - Profissão: Dona de casa.
 - Expectativas: Deseja acessar o site da prefeitura para conhecer mais sobre a cidade.
 
 <p align="justify">
-Lara tem 34 anos e é uma nova habitante da cidade. Ela é casada e tem tres filhas. Ela passa o dia cuidando de sua casa e, ao final da tarde quando a programação da televisão aberta não lhe agrada, ela gosta de ler jornal para ver as notícias.
+Lara tem 27 anos e é uma nova habitante da cidade. Ela é casada e tem tres filhas. Ela passa o dia cuidando de sua casa e, ao final da tarde quando a programação da televisão aberta não lhe agrada, ela gosta de ler jornal para ver as notícias.
 </p>
   
 ## 3. Antipersona
 ### 3.1 Gustavo Capone
 <center>
 
-![persona](../../assets/capone.jpg)
+![persona](../../assets/antipersonaCapone.png)
 
 <figcaption>Imagem 4: Antipersona Gustavo Capone.</figcaption>
 
