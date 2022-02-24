@@ -106,7 +106,7 @@ O design centrado na comunicação (Barbosa et al., 2005) tem como base teórica
 Escolhemos o Mayhem após uma reunião com todo o time e a realização de uma votação.
 </p>
 
-## Referências
+## Bibliografia
 
 BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador, Rio de Janeiro, 2021.
 
