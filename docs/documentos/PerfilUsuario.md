@@ -27,6 +27,7 @@ O questionário foi criado a partir do Google Forms, aplicado de forma on-line e
 ## Bibliografia
  
 [1] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação HumanoComputador e Experiência do usuário. Autopublicação. 
+[2] Vazquez, Carlos E. Engenharia de requisitos software orientado a negocios. Rio de Janeiro. Ed. Abreu’s System, 2016
  
 ## Histórico de versionamento
  
