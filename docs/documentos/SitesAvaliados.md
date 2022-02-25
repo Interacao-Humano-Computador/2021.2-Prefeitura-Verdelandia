@@ -102,5 +102,5 @@ Segundo a avaliação de Valderson, os principais problemas de usabilidade são 
 
 | Data | Versão | Descrição | Autor |
 | - | - | - | - |
-| 12/02/2022 | 1.0.0 | Criação da página de sites avaliados. | Valderson Pontes e Antonio Igor |
-| 20/02/2022 | 1.0.1 | Erro de gramática corrigido. | Antonio Igor |
+| 12/02/2022 | 1.0.0 | Criação da página de sites avaliados. |[ValdersonPontes](https://github.com/valdersonjr) e [AntonioIgorCarvalho](https://github.com/AntonioIgorCarvalho) |
+| 20/02/2022 | 1.0.1 | Erro de gramática corrigido. | [AntonioIgorCarvalho](https://github.com/AntonioIgorCarvalho) |
