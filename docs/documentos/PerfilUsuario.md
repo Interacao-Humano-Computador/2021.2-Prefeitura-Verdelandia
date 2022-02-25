@@ -11,7 +11,7 @@ A elaboração de um perfil de usuário é um processo iterativo. Em geral, um d
 </p>
 
 ## 2. Objetivos
-<p style="text-align: justify">Um questionário é um formulário impresso ou on-line com perguntas que os usuários e demais participantes devem responder , também é uma maneira de otimizar o entendimento do processo. É uma técnica que permite a rápida obtenção de informações quantitativas e qualitativas de um público alvo.Diferente da técnica de entrevista, o questionário permite coletar dados de pessoas até dispersas geograficamente.</p>
+<p style="text-align: justify">Um questionário é um formulário impresso ou on-line com perguntas que os usuários e demais participantes devem responder , também é uma maneira de otimizar o entendimento do processo. É uma técnica que permite a rápida obtenção de informações quantitativas e qualitativas de um público alvo. Diferente da técnica de entrevista, o questionário permite coletar dados de pessoas até dispersas geograficamente.</p>
 
 
 ## 3. Questionário
