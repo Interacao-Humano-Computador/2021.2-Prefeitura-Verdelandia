@@ -66,4 +66,4 @@ A equipe utilizará como meio de comunicação:
  
 | Data  | Versão | Descrição | Autor |
 | :--:  | :----: | :-------: | :---: |
-| 10/02 | 1.0.0  | Abertura do documento | [EliseuKadesh67](https://github.com/eliseukadesh67 |
+| 10/02 | 1.0.0  | Abertura do documento | [EliseuKadesh67](https://github.com/eliseukadesh67) |
