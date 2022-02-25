@@ -6,6 +6,8 @@ O processo para conhecer os usuários inicia-se com o levantamento do perfil des
 
 ## 2. Objetivos
 
+
+
 ## 3. Questionário
 
 ## Bibliografia
@@ -17,3 +19,4 @@ O processo para conhecer os usuários inicia-se com o levantamento do perfil des
 | Data  | Versão | Descrição | Autor |
 | :--:  | :----: | :-------: | :---: |
 | 24/02 | 1.0.0  | Criação do documento de Perfil do Usuário | Douglas Monteles |
+|24/02 | 1.0.1  | Atualização do documento   |Erick Levy  |
