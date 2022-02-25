@@ -47,9 +47,9 @@ Levantamento de todas as ferramentas que serão utilizadas para o desenvolviment
 
 |Data|Versão|Descrição|Autor|Revisor
 |-|-|-|-|-|
-|03/02/2022|1.0.0|Criação da tabela de ferramentas.| Douglas Monteles | Erick Levy |
-|11/02/2022|1.0.1|Adicionando as imagens.| Douglas Monteles | Erick Levy |
-|11/02/2022|1.0.2|Adicionando mais algumas ferramentas.| Douglas Monteles| Erick Levy |
-|11/02/2022|1.0.3|Corringindo a axibição de algumas imagens das ferramentas.| Douglas Monteles | Erick Levy |
-|12/02/2022|1.0.4|Corringindo o caminho das imagens| Douglas Monteles | Erick Levy |
-|19/02/2022|1.0.5|Correções após o feedback da entrega 1| Douglas Monteles | Antonio Igor |
+|03/02/2022|1.0.0|Criação da tabela de ferramentas.| Douglas Monteles | [ErickLevy](https://github.com/ErickLevy) |
+|11/02/2022|1.0.1|Adicionando as imagens.| Douglas Monteles | [ErickLevy](https://github.com/ErickLevy) |
+|11/02/2022|1.0.2|Adicionando mais algumas ferramentas.| Douglas Monteles| [ErickLevy](https://github.com/ErickLevy) |
+|11/02/2022|1.0.3|Corringindo a axibição de algumas imagens das ferramentas.| Douglas Monteles | [ErickLevy](https://github.com/ErickLevy) |
+|12/02/2022|1.0.4|Corringindo o caminho das imagens| Douglas Monteles | [ErickLevy](https://github.com/ErickLevy) |
+|19/02/2022|1.0.5|Correções após o feedback da entrega 1| Douglas Monteles | [AntonioIgorCarvalho](https://github.com/AntonioIgorCarvalho) |
