@@ -44,6 +44,6 @@ O objetivo do cronograma do projeto é prover uma visualização rápida da divi
 
 | Data  | Versão | Descrição | Autor | Revisor |
 | :--:  | :----: | :-------: | :---: | :-----: |
-| 09/02 | 1.0.0  | Criação do cronograma                     | [AntonioIgorCarvalho](https://github.com/AntonioIgorCarvalho) | [Valderson](https://github.com/valdersonjr)
-| 10/02 | 1.0.1  | Alteração no formato do cronograma        | [AntonioIgorCarvalho](https://github.com/AntonioIgorCarvalho) | [Valderson](https://github.com/valdersonjr)
+| 09/02 | 1.0.0  | Criação do cronograma                     | [AntonioIgorCarvalho](https://github.com/AntonioIgorCarvalho) | [ValdersonPontes](https://github.com/valdersonjr)
+| 10/02 | 1.0.1  | Alteração no formato do cronograma        | [AntonioIgorCarvalho](https://github.com/AntonioIgorCarvalho) | [ValdersonPontes](https://github.com/valdersonjr)
 | 19/02 | 1.0.2  | Adição do tópico de objetivo ao documento | [AntonioIgorCarvalho](https://github.com/AntonioIgorCarvalho) | [EliseuKadesh](https://github.com/eliseukadesh67)
