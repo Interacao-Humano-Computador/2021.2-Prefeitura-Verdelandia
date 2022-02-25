@@ -28,12 +28,12 @@ O objetivo do cronograma do projeto é prover uma visualização rápida da divi
 ### 3.1 Sprint 1
 | Tarefas         | Responsável | Revisor   | Entrega Limite |
 | :-----:         | :---------: | :-----:   | :--------------: |
-| Implementação do GitHub Pages    | Rodrigo	    | Eliseu    | 11/02            |
-| Descrição dos processos de design | Levi	      | Levi      | 11/02            |
-| Descrição das metodologias | Eliseu      | Antonio   | 11/02            |
-| Criação do Cronograma | Antonio     | Valderson | 11/02            |
-| Criação das Ferramentas | Douglas     | Rodrigo | 11/02            |
-| Organização dos planejamentos de avaliação dos membros | Valderson   | Rodrigo   | 11/02            |
+| Implementação do GitHub Pages    | [Rodrigo](https://github.com/Rocsantos)	    | [EliseuKadesh](https://github.com/eliseukadesh67)    | 11/02            |
+| Descrição dos processos de design | [ErickLevy](https://github.com/ErickLevy)	      | [ErickLevy](https://github.com/ErickLevy)      | 11/02            |
+| Descrição das metodologias | [EliseuKadesh](https://github.com/eliseukadesh67)      | [AntonioIgorCarvalho](https://github.com/AntonioIgorCarvalho)   | 11/02            |
+| Criação do Cronograma | [AntonioIgorCarvalho](https://github.com/AntonioIgorCarvalho)     | [Valderson](https://github.com/valdersonjr) | 11/02            |
+| Criação das Ferramentas | [DouglasMonteles](https://github.com/DouglasMonteles)     | [Rodrigo](https://github.com/Rocsantos) | 11/02            |
+| Organização dos planejamentos de avaliação dos membros | [Valderson](https://github.com/valdersonjr)  | [Rodrigo](https://github.com/Rocsantos)   | 11/02            |
 | Gravação da apresentação 1  | Todos       | Todos     | 13/02            |
 
 <center>
