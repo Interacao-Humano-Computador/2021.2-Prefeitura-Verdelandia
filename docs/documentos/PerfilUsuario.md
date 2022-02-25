@@ -34,7 +34,7 @@ O questionário foi criado a partir do Google Forms, aplicado de forma on-line e
  
 | Data  | Versão | Descrição | Autor | Revisor |
 | :--:  | :----: | :-------: | :---: | :---: |
-| 24/02 | 1.0.0  | Criação do documento de Perfil do Usuário | Douglas Monteles | Erick Levy |
-| 24/02 | 1.1.0  | Completando a introdução com dados do livro | Douglas Monteles | Erick Levy |
-| 24/02 | 1.2.0  | Criando a definição do tópico de questionário | Douglas Monteles | Erick Levy |
-| 24/02 | 1.2.0  | Adicionando coluna de revisor | Douglas Monteles | Erick Levy |
+| 24/02 | 1.0.0  | Criação do documento de Perfil do Usuário | [DouglasMonteles](https://github.com/DouglasMonteles) | [ErickLevy](https://github.com/ErickLevy) |
+| 24/02 | 1.1.0  | Completando a introdução com dados do livro | [DouglasMonteles](https://github.com/DouglasMonteles) | [ErickLevy](https://github.com/ErickLevy) |
+| 24/02 | 1.2.0  | Criando a definição do tópico de questionário | [DouglasMonteles](https://github.com/DouglasMonteles) | [ErickLevy](https://github.com/ErickLevy) |
+| 24/02 | 1.2.0  | Adicionando coluna de revisor | [DouglasMonteles](https://github.com/DouglasMonteles) | [ErickLevy](https://github.com/ErickLevy) |
