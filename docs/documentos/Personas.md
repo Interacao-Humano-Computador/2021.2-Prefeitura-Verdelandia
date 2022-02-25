@@ -87,7 +87,7 @@ Lara tem 27 anos e é uma nova habitante da cidade. Ela é casada e tem tres fil
 Gustavo Capone é um jovem que mora em uma cidade no interior de Goiás com sua mãe. Pela manhã ele estuda em um pequeno colégio estadual e, no período vespertino, ajuda nas tarefas de casa. Como Gustavo mora em uma cidade muito pequena o acesso a internet ainda é muito difícil e limitado.
 </p>
 
-## 4. Referências
+## 4. Referências Bibliográficas
 <p align="justify">
 Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021);Interação Humano-Computador e Experiência do usuário.
 </p>
