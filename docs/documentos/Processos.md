@@ -112,11 +112,11 @@ BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador, Rio de Janeiro, 20
 
 ## Histórico de versionamento
 
-| Data  | Versão | Descrição | Autor |
-| :--:  | :----: | :-------: | :---: |
-| 13/02 | 1.0.0  | Criação do documento de processos de design | Erick Levy |
-| 10/02 | 1.0.1  | Atualização do documento | Antonio Igor |
-| 10/02 | 1.0.2 | Atualização do documento | Erick Levy |
+| Data  | Versão | Descrição | Autor |Revisor|
+| :--:  | :----: | :-------: | :---: |:---: |
+| 13/02 | 1.0.0  | Criação do documento de processos de design | [ErickLevy](https://github.com/ErickLevy) | [AntonioIgorCarvalho](https://github.com/AntonioIgorCarvalho)  |
+| 10/02 | 1.0.1  | Atualização do documento | [AntonioIgorCarvalho](https://github.com/AntonioIgorCarvalho) | [ErickLevy](https://github.com/ErickLevy)   |
+| 10/02 | 1.0.2 | Atualização do documento | [ErickLevy](https://github.com/ErickLevy) |  [AntonioIgorCarvalho](https://github.com/AntonioIgorCarvalho)   |
 
 
 
