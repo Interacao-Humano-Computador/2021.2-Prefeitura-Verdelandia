@@ -6,7 +6,7 @@ Levantamento de todas as ferramentas que serão utilizadas para o desenvolviment
 
 | Ferramenta | Descrição |
 |-|-|
-|<img style="width: 80px; border-radius: 40px" src="../../assets/git.png">| <p style="text-align: justify"> O Git é uma ferramenta de versionamento de código utilizando para controle de versões de um software, mas pode ser empregado para registar o histórico de versões de qualquer arquivo.</p>|
+|<img style="width: 80px; border-radius: 40px" src="../../assets/git.png">| <p style="text-align: justify"> O Git é uma ferramenta de versionamento de código utilizado para controle de versões de um software, mas pode ser empregado para registar o histórico de versões de qualquer arquivo.</p>|
 |<img style="width: 80px; border-radius: 40px" src="../../assets/github.jpg">| <p style="text-align: justify">GitHub é perfeito para a hospedagem remota de repositórios de código-fonte utilizando o Git e é também uma rede social utilizada amplamente pelos programadores espalhados pelo mundo. 
 |<img style="width: 80px; border-radius: 40px" src="../../assets/telegram.png">| <p style="text-align: justify">Optamos por utilizar o Telegram por sua praticidade em estabelecer uma comunicação em grupo e tendo em vista que todos os membros do grupo já utilizam essa plataforma para troca de mensagens.</p>|
 |<img style="width: 80px; border-radius: 40px" src="../../assets/trello.png">| <p style="text-align: justify">O Trello se mostrou uma eficaz ferramenta de gestão de projeto, auxiliando na distribuição de atividades, no monitoramento do progresso de cada integrante do grupo e na produtividade em geral.</p>|
