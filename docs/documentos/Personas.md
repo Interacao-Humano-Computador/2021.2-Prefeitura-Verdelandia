@@ -3,10 +3,10 @@
 ## 1. Introdução
 
 <p align="justify">
-Personas são personagens fictícios criados para descrever diferentes tipos de usuários dentro do sistema. A criação de personas tem o objetivo de chegar mais perto do usuário final do produto, dando um direcionamento à equipe.
+Personas são personagens fictícios criados para descrever diferentes tipos de usuários dentro do sistema. A criação de personas tem o objetivo de chegar mais perto do usuário final do produto, dando um direcionamento à equipe de quem utilizará o sistema.
 </p>
   
-## 2. Personas
+## 2. Personas Primárias
 ### 2.1 Camila Gomes Ribeiro
 
 <center>
@@ -77,17 +77,22 @@ Lara tem 27 anos e é uma nova habitante da cidade. Ela é casada e tem tres fil
 
 </center>
 
-- Idade: 21.
+- Idade: 15.
 - Sexo: Masculino.
-- Escolaridade: Cursando o Ensino Superior.
-- Profissão: Estudante e trabalhador na área de Tecnologia da Informação.
-- Expectativas: Deseja acessar o site da Prefeitura de Verdelândia para aprender mais sobre a cidade.
+- Escolaridade: Ensino Médio Incompleto.
+- Profissão: Estudante.
+- Expectativas: Deseja estudar bastante e tirar boas notas para entrar em uma faculdade futuramente.
 
 <p align="justify">
-Gustavo Capone é um jovem que mora em Goianésia (PA) com sua mãe. Pela manhã ele estuda na Faculdade de Tecnologia do Pará e, no período vespertino, faz estágio na empresa do seu tio. À noite, quando chega em casa, Gustavo gosta de acessar a internet e entreter-se com jogos online.
+Gustavo Capone é um jovem que mora em uma cidade no interior de Goiás com sua mãe. Pela manhã ele estuda em um pequeno colégio estadual e, no período vespertino, ajuda nas tarefas de casa. Como Gustavo mora em uma cidade muito pequena o acesso a internet ainda é muito difícil e limitado.
 </p>
-  
-## Versionamento
+
+## 4. Referências
+<p align="justify">
+Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021);Interação Humano-Computador e Experiência do usuário.
+</p>
+
+## 5. Versionamento
 
 | Data | Versão | Descrição | Autor |
 | - | - | - | - |
