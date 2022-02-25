@@ -11,7 +11,7 @@ A elaboração de um perfil de usuário é um processo iterativo. Em geral, um d
 </p>
 
 ## 2. Objetivos
-
+<p style="text-align: justify">Um questionário é um formulário impresso ou on-line com perguntas que os usuários e demais participantes devem responder , tambem e uma maneira de otimizar o entendimento do processo. É uma tecnica que permite a rapida obtenção de informações quantitativas e qualitativas de um publico alvo.Diferente da tecnica de entrevista, o questionario permite coletar dados de pessoas ate dispersas geograficamente.</p>
 
 
 ## 3. Questionário
@@ -30,16 +30,9 @@ O questionário foi criado a partir do Google Forms, aplicado de forma on-line e
  
 ## Histórico de versionamento
  
-<<<<<<< HEAD
-| Data  | Versão | Descrição | Autor |
-| :--:  | :----: | :-------: | :---: |
-| 24/02 | 1.0.0  | Criação do documento de Perfil do Usuário | Douglas Monteles |
-|24/02 | 1.0.1  | Atualização do documento   |Erick Levy  |
-=======
 | Data  | Versão | Descrição | Autor | Revisor |
 | :--:  | :----: | :-------: | :---: | :---: |
 | 24/02 | 1.0.0  | Criação do documento de Perfil do Usuário | Douglas Monteles | Erick Levy |
 | 24/02 | 1.1.0  | Completando a introdução com dados do livro | Douglas Monteles | Erick Levy |
 | 24/02 | 1.2.0  | Criando a definição do tópico de questionário | Douglas Monteles | Erick Levy |
 | 24/02 | 1.2.0  | Adicionando coluna de revisor | Douglas Monteles | Erick Levy |
->>>>>>> ba6e638df5e33deea0b4f1d874083551c1ca4dc6
