@@ -43,5 +43,5 @@ uma usabilidade e acessibilidade pensada para toda a população. </p>
 
 | Data | Versão | Descrição | Autor |
 | - | - | - | - |
-| 11/02/2022 | 1.0.0 | Criação da página do site escolhido. | Valderson Pontes e Antonio Igor |
-| 13/02/2022 | 1.0.1 | Atualização da página. | Valderson Pontes |
+| 11/02/2022 | 1.0.0 | Criação da página do site escolhido. | [ValdersonPontes](https://github.com/valdersonjr) e [AntonioIgorCarvalho](https://github.com/AntonioIgorCarvalho) |
+| 13/02/2022 | 1.0.1 | Atualização da página. | [ValdersonPontes](https://github.com/valdersonjr) |
