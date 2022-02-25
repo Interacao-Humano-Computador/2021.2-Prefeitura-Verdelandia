@@ -14,6 +14,14 @@ A elaboração de um perfil de usuário é um processo iterativo. Em geral, um d
 
 ## 3. Questionário
 
+<p style="text-align: justify">
+A fim de obter as características do perfil de usuário que usam sites relacionados a prefeituras, foi elaborado um questionário composto por questões que objetivam coletar dados que permitam identificar os traços do usuário, tais como o seu nível de instrução, sua faixa etária, sua experiência com o assunto abordado, etc.
+</p>
+
+<p style="text-align: justify">
+O questionário foi criado a partir do Google Forms, aplicado de forma on-line e respondido mantendo o anonimato do respondente. Abaixo estão o resultado das questões aplicadas, em forma de gráfico, para uma melhor visualização e rápida compreensão, além de facilitar no momento da análise das respostas, que servirão para facilitar a criação das personas. 
+</p>
+
 ## Bibliografia
  
 [1] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação HumanoComputador e Experiência do usuário. Autopublicação. 
@@ -24,3 +32,4 @@ A elaboração de um perfil de usuário é um processo iterativo. Em geral, um d
 | :--:  | :----: | :-------: | :---: |
 | 24/02 | 1.0.0  | Criação do documento de Perfil do Usuário | Douglas Monteles |
 | 24/02 | 1.1.0  | Completando a introdução com dados do livro | Douglas Monteles |
+| 24/02 | 1.2.0  | Criando a definição do tópico de questionário | Douglas Monteles |
