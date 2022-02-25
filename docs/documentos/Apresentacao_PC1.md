@@ -8,4 +8,4 @@
 
 | Data  | Versão | Descrição | Autor |
 | :--:  | :----: | :-------: | :---: |
-| 17/02 | 1.0.0  | Criação da página de apresentação | Douglas Monteles |
+| 17/02 | 1.0.0  | Criação da página de apresentação | [DouglasMonteles](https://github.com/DouglasMonteles) |
