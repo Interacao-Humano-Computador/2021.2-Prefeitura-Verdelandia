@@ -48,43 +48,43 @@ Abaixo estão as questões e o seu respectivo resultado após a divulgação do 
   <figcaption>Figura 1: Questão 1</figcaption>
 </figure>
 
-### 4.1 Questão 2
+### 4.2 Questão 2
 <figure>
   <img src="../../assets/questionario/q2.png" alt="Questão 2">
   <figcaption>Figura 2: Questão 2</figcaption>
 </figure>
 
-### 4.1 Questão 3
+### 4.3 Questão 3
 <figure>
   <img src="../../assets/questionario/q3.png" alt="Questão 3">
   <figcaption>Figura 3: Questão 3</figcaption>
 </figure>
 
-### 4.1 Questão 4
+### 4.4 Questão 4
 <figure>
   <img src="../../assets/questionario/q4.png" alt="Questão 4">
   <figcaption>Figura 4: Questão 4</figcaption>
 </figure>
 
-### 4.1 Questão 5
+### 4.5 Questão 5
 <figure>
   <img src="../../assets/questionario/q5.png" alt="Questão 5">
   <figcaption>Figura 5: Questão 5</figcaption>
 </figure>
 
-### 4.1 Questão 6
+### 4.6 Questão 6
 <figure>
   <img src="../../assets/questionario/q6.png" alt="Questão 6">
   <figcaption>Figura 6: Questão 6</figcaption>
 </figure>
 
-### 4.1 Questão 7
+### 4.7 Questão 7
 <figure>
   <img src="../../assets/questionario/q7.png" alt="Questão 7">
   <figcaption>Figura 7: Questão 7</figcaption>
 </figure>
 
-### 4.1 Questão 8
+### 4.8 Questão 8
 <figure>
   <img src="../../assets/questionario/q8.png" alt="Questão 8">
   <figcaption>Figura 8: Questão 8</figcaption>
@@ -93,11 +93,11 @@ Abaixo estão as questões e o seu respectivo resultado após a divulgação do 
 ## Conclusão
 
 <p style="text-align: justify">
-Em posse dos dados obtidos com a aplicação do questionário, podemos perceber que o público mais assíduo encontra-se na faixa de 18 à 22 anos, ou seja, trata-se de usuários jovens que já completaram o ensino superior ou ainda o  estão cursando e que não possuem dificuldade em utilizar-se da tecnoligia.
+Em posse dos dados obtidos com a aplicação do questionário, podemos perceber que o público mais assíduo encontra-se na faixa de 18 à 22 anos, ou seja, trata-se de usuários jovens que já completaram o ensino superior ou ainda o  estão cursando e que não possuem dificuldade em utilizar-se da tecnologia.
 </p>
 
 <p style="text-align: justify">
-Além disso, observa-se que a grande maioria dos usuários exigem simplicidade e intuitividade nos sites das prefeituras que acessam ou já precisaram acessar em algum momento. Comitante a isso, ao menos 38.5% julgaram ter tido uma experiência ruim ao acessar o site de alguma prefeitura. Apesar os inconvenientes, a maioria dos respondentes conseguiram atingir o seu objetivo ao acessar o site, e dentre os principais motivos para acessa-lo estão: Acompanhar as notícias de sua respectiva cidade, obter informações sobre o transporte urbano e matrículas em educação infantil. 
+Além disso, observa-se que a grande maioria dos usuários exigem simplicidade e intuitividade nos sites das prefeituras que acessam ou já precisaram acessar em algum momento. Concomitante a isso, ao menos 38.5% julgaram ter tido uma experiência ruim ao acessar o site de alguma prefeitura. Apesar os inconvenientes, a maioria dos respondentes conseguiram atingir o seu objetivo ao acessar o site, e dentre os principais motivos para acessa-lo estão: Acompanhar as notícias de sua respectiva cidade, obter informações sobre o transporte urbano e matrículas em educação infantil. 
 </p>
 
 ## Bibliografia
