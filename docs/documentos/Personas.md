@@ -10,6 +10,7 @@ Personas são personagens fictícios criados para descrever diferentes tipos de 
 
 <p align="justify">
 Para a criação das personas apresentadas nessa seção, foi utilizado o livro de Interação Humano-Computador (Barbosa e Silva). Dessa forma, segundo Courage e Baxter (2005), uma persona deve atender às seguintes características:
+</p>
 
 - Identidade: nome e sobrenome, idade, dados demográficos e foto.
 - Status: primária, secundária, outro <i>stakeholder</i> ou um antiusuário.
@@ -20,12 +21,14 @@ Para a criação das personas apresentadas nessa seção, foi utilizado o livro 
 - Requisitos: o que a persona precisa?
 - Expectativas: a visão que a persona possui do produto sobre seu funcionamento.
 
+Além disso personas podem ser divididas em:
 
-
-</p>
+- Primárias: representa usuários que utilizariam o sistema regularmente.
+- Secundárias: representam usuários que utilizariam o sistema ocasionalmente.
+- Antipersona: representa alguém que não utilizaria o sistema.
   
-## 3. Personas Primárias
-### 3.1 Camila Gomes Ribeiro
+## 3. Personas Primárias e Secundárias
+### 3.1 Camila Gomes Ribeiro - Persona Primária
 
 <center>
 
@@ -46,7 +49,7 @@ Para a criação das personas apresentadas nessa seção, foi utilizado o livro 
 Camila tem 83 anos, viúva, formada em Pedagogia e, atualmente, é aposentada. Camila mora sozinha em sua fazenda, nas redondezas de Verdelândia, e no final da semana ela gosta de passear no parque.
 </p>
   
-### 3.2 Luís Oliveira Souza
+### 3.2 Luís Oliveira Souza - Persona Secundária
 
 <center>
 
@@ -66,7 +69,7 @@ Camila tem 83 anos, viúva, formada em Pedagogia e, atualmente, é aposentada. C
 Luis tem 29 anos e é casado.Atualmente, Luís mora na cidade e trabalha como rancheiro na fazenda de seu patrão. À noite, quando chega em casa, Luís gosta de descansar assistindo novela. 
 </p>
 
-### 3.3 Lara Barros Cavalcanti
+### 3.3 Lara Barros Cavalcanti - Persona Secundária
 
 <center>
 
@@ -83,7 +86,7 @@ Luis tem 29 anos e é casado.Atualmente, Luís mora na cidade e trabalha como ra
 - Objetivo: Deseja acessar o site da prefeitura para conhecer mais sobre a cidade.
 
 <p align="justify">
-Lara tem 27 anos e é uma nova habitante da cidade. Ela é casada e tem tres filhas. Ela passa o dia cuidando de sua casa e, ao final da tarde quando a programação da televisão aberta não lhe agrada, ela gosta de ler jornal para ver as notícias.
+Lara tem 27 anos e é uma nova habitante da cidade. Ela é casada e tem três filhas. Ela passa o dia cuidando de sua casa e, ao final da tarde quando a programação da televisão aberta não lhe agrada, ela gosta de ler jornal para ver as notícias.
 </p>
   
 ## 4. Antipersona
