@@ -127,3 +127,4 @@ BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador, Rio de Janeiro, 20
 | 13/02 | 1.0.2  | Atualização do documento | Erick Levy | Antonio Igor
 | 24/02 | 1.0.3  | Correções após o feedback da entrega 1 | Erick Levy | Antonio Igor
 | 24/02 | 1.0.4  | Correções de padronização e adição de revisores | Eliseu Kadesh | Erick Levy
+
