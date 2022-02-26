@@ -113,6 +113,7 @@ Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; B
 
 ## 5. Versionamento
 
-| Data | Versão | Descrição | Autor |
-| - | - | - | - |
-| 24/02/2022 | 1.0.0 | Criação da página das personas. | Valderson Pontes e Antonio Igor |
+| Data | Versão | Descrição | Autor | Revisor |
+| - | - | - | - | - |
+| 24/02/2022 | 1.0.0 | Criação da página das personas. | Valderson Pontes e Antonio Igor | Eliseu Kadesh e Douglas Monteles
+| 25/02/2022 | 1.1.0 | Adição do tópico de metodologias | Valderson Pontes e Antonio Igor | Eliseu Kadesh, Douglas Monteles e Erick Levy
