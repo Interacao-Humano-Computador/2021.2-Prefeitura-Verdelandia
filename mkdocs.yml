@@ -20,5 +20,9 @@ nav:
       - Sites Avaliados: documentos/SitesAvaliados.md
       - Site Escolhido: documentos/SiteEscolhido.md
     - Processos de Design: documentos/Processos.md
+  - II. Perfil do usuário, Personas e Análise de tarefas:
+    - Análise de Tarefas:
+      - Análise de Tarefas Hierarquicas: documentos/AnaliseTarefas.md
+      - Representação Gráfica das Tarefas: documentos/RepresentacaoGrafica.md
   - Apresentações:
       - Ponto de controle 1: documentos/Apresentacao_PC1.md
