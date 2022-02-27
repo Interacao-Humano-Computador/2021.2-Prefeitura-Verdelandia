@@ -21,6 +21,9 @@ nav:
       - Site Escolhido: documentos/SiteEscolhido.md
     - Processos de Design: documentos/Processos.md
   - II. Perfil do usuário, Personas e Análise de tarefas:
+    - Análise de Tarefas:
+      - Análise de Tarefas: documentos/AnaliseTarefas.md
+      - Análise Hierárquica de Tarefas (AHT): documentos/AnaliseHierarquica.md
     - Personas: documentos/Personas.md
     - Perfil do Usuário: documentos/PerfilUsuario.md
   - Apresentações:
