@@ -66,6 +66,6 @@ A equipe utilizará como meio de comunicação:
  
 ## Histórico de versionamento
  
-| Data  | Versão | Descrição | Autor |
-| :--:  | :----: | :-------: | :---: |
-| 10/02 | 1.0.0  | Abertura do documento | [EliseuKadesh](https://github.com/eliseukadesh67) |
+| Data  | Versão | Descrição | Autor | Revisor |
+| :--:  | :----: | :-------: | :---: | :-----: |
+| 10/02 | 1.0.0  | Abertura do documento | [Eliseu Kadesh](https://github.com/eliseukadesh67) | [Antonio Igor](https://github.com/antonioigorcarvalho) e [Erick Levy](https://github.com/ericklevy) |

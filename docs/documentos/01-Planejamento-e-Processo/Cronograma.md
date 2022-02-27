@@ -28,22 +28,34 @@ O objetivo do cronograma do projeto é prover uma visualização rápida da divi
 ### 3.1 Sprint 1
 | Tarefas         | Responsável | Revisor   | Entrega Limite |
 | :-----:         | :---------: | :-----:   | :--------------: |
-| Implementação do GitHub Pages    | [Rodrigo](https://github.com/Rocsantos)	    | [EliseuKadesh](https://github.com/eliseukadesh67)    | 11/02            |
-| Descrição dos processos de design | [ErickLevy](https://github.com/ErickLevy)	      | [ErickLevy](https://github.com/ErickLevy)      | 11/02            |
-| Descrição das metodologias | [EliseuKadesh](https://github.com/eliseukadesh67)      | [AntonioIgorCarvalho](https://github.com/AntonioIgorCarvalho)   | 11/02            |
-| Criação do Cronograma | [AntonioIgorCarvalho](https://github.com/AntonioIgorCarvalho)     | [Valderson](https://github.com/valdersonjr) | 11/02            |
-| Criação das Ferramentas | [DouglasMonteles](https://github.com/DouglasMonteles)     | [Rodrigo](https://github.com/Rocsantos) | 11/02            |
-| Organização dos planejamentos de avaliação dos membros | [ValdersonPontes](https://github.com/valdersonjr)| [Rodrigo](https://github.com/Rocsantos)   | 11/02            |
+| Implementação do GitHub Pages    | [Rodrigo Carvalho](https://github.com/Rocsantos)	    | [Eliseu Kadesh](https://github.com/eliseukadesh67)    | 11/02            |
+| Descrição dos processos de design | [Erick Levy](https://github.com/ErickLevy)	      | [Erick Levy](https://github.com/ErickLevy)      | 11/02            |
+| Descrição das metodologias | [Eliseu Kadesh](https://github.com/eliseukadesh67)      | [Antonio Igor](https://github.com/antonioigorcarvalho)   | 11/02            |
+| Criação do Cronograma | [Antonio Igor](https://github.com/antonioigorcarvalho)     | [Valderson Pontes](https://github.com/valdersonjr) | 11/02            |
+| Criação das Ferramentas | [Douglas Monteles](https://github.com/DouglasMonteles)     | [Rodrigo Carvalho](https://github.com/Rocsantos) | 11/02            |
+| Organização dos planejamentos de avaliação dos membros | [Valderson Pontes](https://github.com/valdersonjr)| [Rodrigo Carvalho](https://github.com/Rocsantos)   | 11/02            |
 | Gravação da apresentação 1  | Todos       | Todos     | 13/02            |
 
 <center>
   Tabela 2 - Tarefas da Sprint 1
 </center>
 
-## Histórico de versionamento
+### 3.2 Sprint 2
+| Tarefas         | Responsável | Revisor   | Entrega Limite |
+| :-----:         | :---------: | :-----:   | :--------------: |
+| Criação do documento de personas  | [Antonio Igor](https://github.com/antonioigorcarvalho) e [Valderson Pontes](https://github.com/valdersonjr) | [Douglas Monteles](https://github.com/douglasmonteles), [Erick Levy](https://github.com/ericklevy) e [Eliseu Kadesh](https://github.com/eliseukadesh67)    | 25/02 |
+| Criação do documento de Análise de tarefas  | [Eliseu Kadesh](https://github.com/eliseukadesh67) e [Rodrigo Carvalho](https://github.com/Rocsantos) | [Antonio Igor](https://github.com/antonioigorcarvalho), [Douglas Monteles](https://github.com/douglasmonteles) e [Valderson Pontes](https://github.com/valdersonjr) | 25/02 |
+| Criação do documento de perfil do usuário  | [Erick Levy](https://github.com/ericklevy) e [Douglas Monteles](https://github.com/douglasmonteles) | [Antonio Igor](https://github.com/antonioigorcarvalho) e [Eliseu Kadesh](https://github.com/eliseukadesh67) | 25/02 |
+| Gravação da apresentação 2  | Todos       | Todos     | 27/02 |
+
+<center>
+  Tabela 3 - Tarefas da Sprint 2
+</center>
+
+## 4. Histórico de versionamento
 
 | Data  | Versão | Descrição | Autor | Revisor |
 | :--:  | :----: | :-------: | :---: | :-----: |
-| 09/02 | 1.0.0  | Criação do cronograma                     | [AntonioIgorCarvalho](https://github.com/AntonioIgorCarvalho) | [ValdersonPontes](https://github.com/valdersonjr)
-| 10/02 | 1.0.1  | Alteração no formato do cronograma        | [AntonioIgorCarvalho](https://github.com/AntonioIgorCarvalho) | [ValdersonPontes](https://github.com/valdersonjr)
-| 19/02 | 1.0.2  | Adição do tópico de objetivo ao documento | [AntonioIgorCarvalho](https://github.com/AntonioIgorCarvalho) | [EliseuKadesh](https://github.com/eliseukadesh67)
+| 09/02 | 1.0.0  | Criação do cronograma                     | [Antonio Igor](https://github.com/antonioigorcarvalho) | [Valderson Pontes](https://github.com/valdersonjr)
+| 10/02 | 1.0.1  | Alteração no formato do cronograma        | [Antonio Igor](https://github.com/antonioigorcarvalho) | [Valderson Pontes](https://github.com/valdersonjr)
+| 19/02 | 1.0.2  | Adição do tópico de objetivo ao documento | [Antonio Igor](https://github.com/antonioigorcarvalho) | [Eliseu Kadesh](https://github.com/eliseukadesh67)

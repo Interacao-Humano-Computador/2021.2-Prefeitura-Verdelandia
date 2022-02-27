@@ -93,7 +93,7 @@ Ao realizar a avaliação heurística do site, o estudante Eliseu Kadesh notou q
 
 ## Versionamento
 
-| Data | Versão | Descrição | Autor |
-| - | - | - | - |
-| 12/02/2022 | 1.0.0 | Criação da página de sites avaliados. |[ValdersonPontes](https://github.com/valdersonjr) e [AntonioIgorCarvalho](https://github.com/AntonioIgorCarvalho) |
-| 20/02/2022 | 1.0.1 | Erro de gramática corrigido. | [AntonioIgorCarvalho](https://github.com/AntonioIgorCarvalho) |
+| Data | Versão | Descrição | Autor | Revisor | 
+| - | - | - | - | - |
+| 12/02/2022 | 1.0.0 | Criação da página de sites avaliados. |[Valderson Pontes](https://github.com/valdersonjr) e [Antonio Igor](https://github.com/AntonioIgorCarvalho) | [Douglas Monteles](https://github.com/douglasmonteles) |
+| 20/02/2022 | 1.0.1 | Erro de gramática corrigido. | [Antonio Igor](https://github.com/AntonioIgorCarvalho) | [Valderson Pontes](https://github.com/valdersonjr) |

@@ -2,7 +2,7 @@
 
 ## Introdução
 
-  ![Texto](./assets/logo.png)
+  ![Texto](./assets/logos/logo.png)
 
   Este repositório tem como objetivo apresentar e documentar o Projeto do Grupo 3, da Disciplina
   Interação Humano Computador, ministrada pelo Professor André Barros de Sales.
