@@ -2,7 +2,7 @@
  
 <p align="justify">
 A Análise Hierárquica de Tarefas compreende as competências e habilidades exibidas em tarefas complexas e não repetitivas, assim como ajuda identificar problemas de desempenho. Ela se baseia em psicologia funcional, e não comportamental, como as abordagens da época que foi criada.<br>
-Toda tarefa é definida com o termo de seu(s) objetivo(s). Tarefas complexas são definidas em termos de objetivos e sub-objetivos, num desdobramento hierárquico. Esse desdobramento é chamado de decomposição de tarefas ou redescrição. Observer que a definição é mais ampla e difere da definição adotada pelo design baseado em objetivo.<br>
+Toda tarefa é definida com o termo de seu(s) objetivo(s). Tarefas complexas são definidas em termos de objetivos e subobjetivos, em um desdobramento hierárquico. Esse desdobramento é chamado de decomposição de tarefas ou redescrição. Observer que a definição é mais ampla e difere da definição adotada pelo design baseado em objetivo.<br>
 Um objetivo é um estado específico de coisa, um estado final. Esse estado pode ser definido por um ou mais eventos ou por valores fisicamente observáveis de uma ou mais variáveis, que atuam como critério de alcance do objetivo. Em vez de identificar uma lista de ações, a HTA inicia com uma definição dos objetivos das pessoas.
 </p>
  
@@ -65,11 +65,11 @@ A notação gráfica para a Análise Hierárquica de Tarefas tem como base os au
 | Objetivos/ operações | Problemas e recomendações |
 |:--------------------|:-------------------------|
 | 0. Acompanhar Consulta do SUS | |
-| 1. Acessar a página de acompanhamento de consulta | **Input**: Página inicial do site;<br>**Action**: Clicar no painel "Acompanhe aqui sua consulta";<br>**Feedback**: Será redirecionado para a página de acompanhamento de consulta;<br>**Recomendações**: O painel de que redireciona para o acompanhamento de consulta poderia estar em um local mais acessivel na pagina, e ser mais minimalista.|
+| 1. Acessar a página de acompanhamento de consulta | **Input**: Página inicial do site;<br>**Action**: Clicar no painel "Acompanhe aqui sua consulta";<br>**Feedback**: Será redirecionado para a página de acompanhamento de consulta;<br>**Recomendações**: O painel de que redireciona para o acompanhamento de consulta poderia estar em um local mais acessível na página, e ser mais minimalista.|
 | 1.1 Na página inicial, clicar no painel “Acompanhe aqui sua consulta” | |
 | 2. Informar dados do Protocolo | **Input**: Campos de texto para o número do protocolo e senha;<br>**Action**: Preencher o número do protocolo e senha.  |
 | 2.1 Inserir número do protocolo e senha | |
-| 3. Consultar Protocolo | **Input**: Dados de protocolo;<br>**Feedback**: Caso os dados estejam corretos, sera redirecionado para a página de acompanhamento de consulta (SUS);**Action**: Clicar em "Entrar"|
+| 3. Consultar Protocolo | **Input**: Dados de protocolo;<br>**Feedback**: Caso os dados estejam corretos, será redirecionado para a página de acompanhamento de consulta (SUS);**Action**: Clicar em "Entrar"|
 | 3.1 Validar Dados do Protocolo | | |
 | 3.2 Redireccionar para página de consulta (SUS) | |
 <p align='right'><b>Fonte: Elaboração própria<b></p>
