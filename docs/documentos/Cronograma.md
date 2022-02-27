@@ -33,7 +33,7 @@ O objetivo do cronograma do projeto é prover uma visualização rápida da divi
 | Descrição das metodologias | [EliseuKadesh](https://github.com/eliseukadesh67)      | [AntonioIgorCarvalho](https://github.com/AntonioIgorCarvalho)   | 11/02            |
 | Criação do Cronograma | [AntonioIgorCarvalho](https://github.com/AntonioIgorCarvalho)     | [Valderson](https://github.com/valdersonjr) | 11/02            |
 | Criação das Ferramentas | [DouglasMonteles](https://github.com/DouglasMonteles)     | [Rodrigo](https://github.com/Rocsantos) | 11/02            |
-| Organização dos planejamentos de avaliação dos membros | [Valderson](https://github.com/valdersonjr)  | [Rodrigo](https://github.com/Rocsantos)   | 11/02            |
+| Organização dos planejamentos de avaliação dos membros | [ValdersonPontes](https://github.com/valdersonjr)| [Rodrigo](https://github.com/Rocsantos)   | 11/02            |
 | Gravação da apresentação 1  | Todos       | Todos     | 13/02            |
 
 <center>

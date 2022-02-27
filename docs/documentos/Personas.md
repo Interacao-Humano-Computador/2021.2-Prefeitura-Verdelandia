@@ -118,5 +118,5 @@ Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; B
 
 | Data | Versão | Descrição | Autor | Revisor |
 | - | - | - | - | - |
-| 24/02/2022 | 1.0.0 | Criação da página das personas. | Valderson Pontes e Antonio Igor | Eliseu Kadesh e Douglas Monteles
-| 25/02/2022 | 1.1.0 | Adição do tópico de metodologias | Valderson Pontes e Antonio Igor | Eliseu Kadesh, Douglas Monteles e Erick Levy
+| 24/02/2022 | 1.0.0 | Criação da página das personas. | [ValdersonPontes](https://github.com/valdersonjr) e [AntonioIgorCarvalho](https://github.com/AntonioIgorCarvalho) | [EliseuKadesh](https://github.com/eliseukadesh67) e [DouglasMonteles](https://github.com/DouglasMonteles)
+| 25/02/2022 | 1.1.0 | Adição do tópico de metodologias | [ValdersonPontes](https://github.com/valdersonjr) e [AntonioIgorCarvalho](https://github.com/AntonioIgorCarvalho) | [EliseuKadesh](https://github.com/eliseukadesh67), [DouglasMonteles](https://github.com/DouglasMonteles) e [ErickLevy](https://github.com/ErickLevy)
