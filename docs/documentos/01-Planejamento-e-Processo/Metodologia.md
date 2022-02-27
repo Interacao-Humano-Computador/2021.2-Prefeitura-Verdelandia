@@ -56,11 +56,13 @@ A equipe utilizará como meio de comunicação:
 - [Telegram](https://telegram.org/) para comunicação rapida e mais efetiva, podendo até ser feita as Dailys utilizando esse meio;
 - O aplicativo [Discord](https://discord.com/) para reuniões, e discussões mais longas;
  
-## Bibliografia
+## Referências
  
-- SCRUM, Metodologia Ágil. Disponível em: https://www.scrum.org/
-- KANBAN. Disponível em https://pt.wikipedia.org/wiki/Kanban
-- Extreme Programming (XP). Disponível em http://www.extremeprogramming.org/
+> SCRUM, Metodologia Ágil. Disponível em: <https://www.scrum.org/>
+
+> KANBAN. Disponível em <https://pt.wikipedia.org/wiki/Kanban>
+
+> Extreme Programming (XP). Disponível em <http://www.extremeprogramming.org/>
  
 ## Histórico de versionamento
  

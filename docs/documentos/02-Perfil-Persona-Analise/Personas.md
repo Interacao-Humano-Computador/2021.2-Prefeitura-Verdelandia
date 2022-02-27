@@ -32,7 +32,7 @@ Além disso personas podem ser divididas em:
 
 <center>
 
-![persona](../../assets/personaCamila.png)
+![persona](../../../assets/personas/personaCamila.png)
   
 <figcaption>Imagem 1: Persona Camila Gomes Ribeiro.</figcaption>
 
@@ -53,7 +53,7 @@ Camila tem 83 anos, viúva, formada em Pedagogia e, atualmente, é aposentada. C
 
 <center>
 
-![persona](../../assets/personaLuis.png)
+![persona](../../../assets/personas/personaLuis.png)
 
 <figcaption>Imagem 2: Persona Luís Oliveira Souza.</figcaption>
 
@@ -73,7 +73,7 @@ Luis tem 29 anos e é casado.Atualmente, Luís mora na cidade e trabalha como ra
 
 <center>
 
-![persona](../../assets/personaLara.png)
+![persona](../../../assets/personas/personaLara.png)
   
 <figcaption>Imagem 3: Persona Lara Barros Cavalcanti.</figcaption>
 
@@ -93,7 +93,7 @@ Lara tem 27 anos e é uma nova habitante da cidade. Ela é casada e tem três fi
 ### 4.1 Gustavo Capone
 <center>
 
-![persona](../../assets/antipersonaCapone.png)
+![persona](../../../assets/personas/antipersonaCapone.png)
 
 <figcaption>Imagem 4: Antipersona Gustavo Capone.</figcaption>
 
@@ -109,10 +109,9 @@ Lara tem 27 anos e é uma nova habitante da cidade. Ela é casada e tem três fi
 Gustavo Capone é um jovem que mora em uma cidade no interior de Goiás com sua mãe. Pela manhã ele estuda em um pequeno colégio estadual e, no período vespertino, ajuda nas tarefas de casa. Como Gustavo mora em uma cidade muito pequena o acesso a internet ainda é muito difícil e limitado.
 </p>
 
-## 4. Referências Bibliográficas
-<p align="justify">
-Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021);Interação Humano-Computador e Experiência do usuário.
-</p>
+## 4. Referências
+
+> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021);Interação Humano-Computador e Experiência do usuário.
 
 ## 5. Versionamento
 

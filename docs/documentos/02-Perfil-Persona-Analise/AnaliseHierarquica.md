@@ -99,7 +99,7 @@ A notação gráfica para a Análise Hierárquica de Tarefas tem como base os au
 
 <p align='right'><b>Fonte: Elaboração própria</b></p>
  
-## Referências Bibliográficas
+## Referências
  
 > BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador, Rio de Janeiro, 2021.
  
