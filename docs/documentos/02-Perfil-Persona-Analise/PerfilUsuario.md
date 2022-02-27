@@ -44,49 +44,49 @@ Abaixo estão as questões e o seu respectivo resultado após a divulgação do 
 ### 4.1 Questão 1
 
 <figure>
-  <img src="../../assets/questionario/q1.png" alt="Questão 1">
+  <img src="../../../assets/questionario/q1.png" alt="Questão 1">
   <figcaption>Figura 1: Questão 1</figcaption>
 </figure>
 
 ### 4.2 Questão 2
 <figure>
-  <img src="../../assets/questionario/q2.png" alt="Questão 2">
+  <img src="../../../assets/questionario/q2.png" alt="Questão 2">
   <figcaption>Figura 2: Questão 2</figcaption>
 </figure>
 
 ### 4.3 Questão 3
 <figure>
-  <img src="../../assets/questionario/q3.png" alt="Questão 3">
+  <img src="../../../assets/questionario/q3.png" alt="Questão 3">
   <figcaption>Figura 3: Questão 3</figcaption>
 </figure>
 
 ### 4.4 Questão 4
 <figure>
-  <img src="../../assets/questionario/q4.png" alt="Questão 4">
+  <img src="../../../assets/questionario/q4.png" alt="Questão 4">
   <figcaption>Figura 4: Questão 4</figcaption>
 </figure>
 
 ### 4.5 Questão 5
 <figure>
-  <img src="../../assets/questionario/q5.png" alt="Questão 5">
+  <img src="../../../assets/questionario/q5.png" alt="Questão 5">
   <figcaption>Figura 5: Questão 5</figcaption>
 </figure>
 
 ### 4.6 Questão 6
 <figure>
-  <img src="../../assets/questionario/q6.png" alt="Questão 6">
+  <img src="../../../assets/questionario/q6.png" alt="Questão 6">
   <figcaption>Figura 6: Questão 6</figcaption>
 </figure>
 
 ### 4.7 Questão 7
 <figure>
-  <img src="../../assets/questionario/q7.png" alt="Questão 7">
+  <img src="../../../assets/questionario/q7.png" alt="Questão 7">
   <figcaption>Figura 7: Questão 7</figcaption>
 </figure>
 
 ### 4.8 Questão 8
 <figure>
-  <img src="../../assets/questionario/q8.png" alt="Questão 8">
+  <img src="../../../assets/questionario/q8.png" alt="Questão 8">
   <figcaption>Figura 8: Questão 8</figcaption>
 </figure>
 
