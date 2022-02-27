@@ -109,8 +109,8 @@ A notação gráfica para a Análise Hierárquica de Tarefas tem como base os au
  
 | Data  | Versão | Descrição | Autor | Revisor |
 | :--:  | :----: | :-------: | :---: | :-----: |
-| 25/02 | 1.0.0  | Criação do documento Representação Gráfica de Tarefas | [Rodrigo](https://github.com/Rocsantos) | Definir |
-| 26/02 | 1.0.1 | Removido Introdução da Página | [Rodrigo](https://github.com/Rocsantos) | Definir
-| 26/02 | 1.1.0 | Adicionado Representação Gráfica HTA | [Rodrigo](https://github.com/Rocsantos) e [Eliseu](https://github.com/eliseukadesh67) | Definir |
-| 26/02 | 1.2.0 | Adicionando Representação textual e mais detalhamentos | [Rodrigo](https://github.com/Rocsantos) e [Eliseu](https://github.com/eliseukadesh67) | Definir |
-| 26/02 | 1.2.1 | Alterando Legenda das Imagens | [Rodrigo](https://github.com/Rocsantos) e [Eliseu](https://github.com/eliseukadesh67) | Definir |
+| 25/02 | 1.0.0  | Criação do documento Representação Gráfica de Tarefas | [Rodrigo](https://github.com/Rocsantos) | [AntonioIgorCarvalho](https://github.com/AntonioIgorCarvalho) , [DouglasMonteles](https://github.com/DouglasMonteles) e [ValdersonPontes](https://github.com/valdersonjr) |
+| 26/02 | 1.0.1 | Removido Introdução da Página | [Rodrigo](https://github.com/Rocsantos) | [AntonioIgorCarvalho](https://github.com/AntonioIgorCarvalho) , [DouglasMonteles](https://github.com/DouglasMonteles) e [ValdersonPontes](https://github.com/valdersonjr)
+| 26/02 | 1.1.0 | Adicionado Representação Gráfica HTA | [Rodrigo](https://github.com/Rocsantos) e [EliseuKadesh](https://github.com/eliseukadesh67) | [AntonioIgorCarvalho](https://github.com/AntonioIgorCarvalho) , [DouglasMonteles](https://github.com/DouglasMonteles) e [ValdersonPontes](https://github.com/valdersonjr) |
+| 26/02 | 1.2.0 | Adicionando Representação textual e mais detalhamentos | [Rodrigo](https://github.com/Rocsantos) e [EliseuKadesh](https://github.com/eliseukadesh67) | [AntonioIgorCarvalho](https://github.com/AntonioIgorCarvalho) , [DouglasMonteles](https://github.com/DouglasMonteles) e [ValdersonPontes](https://github.com/valdersonjr) |
+| 26/02 | 1.2.1 | Alterando Legenda das Imagens | [Rodrigo](https://github.com/Rocsantos) e [EliseuKadesh](https://github.com/eliseukadesh67) | [AntonioIgorCarvalho](https://github.com/AntonioIgorCarvalho) , [DouglasMonteles](https://github.com/DouglasMonteles) e [ValdersonPontes](https://github.com/valdersonjr) |
