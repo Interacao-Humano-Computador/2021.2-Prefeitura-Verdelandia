@@ -2,9 +2,7 @@
  
 <p align="justify">
 A Análise Hierárquica de Tarefas compreende as competências e habilidades exibidas em tarefas complexas e não repetitivas, assim como ajuda identificar problemas de desempenho. Ela se baseia em psicologia funcional, e não comportamental, como as abordagens da época que foi criada.<br>
- 
 Toda tarefa é definida com o termo de seu(s) objetivo(s). Tarefas complexas são definidas em termos de objetivos e sub-objetivos, num desdobramento hierárquico. Esse desdobramento é chamado de decomposição de tarefas ou redescrição. Observer que a definição é mais ampla e difere da definição adotada pelo design baseado em objetivo.<br>
- 
 Um objetivo é um estado específico de coisa, um estado final. Esse estado pode ser definido por um ou mais eventos ou por valores fisicamente observáveis de uma ou mais variáveis, que atuam como critério de alcance do objetivo. Em vez de identificar uma lista de ações, a HTA inicia com uma definição dos objetivos das pessoas.
 </p>
  
@@ -12,21 +10,20 @@ Um objetivo é um estado específico de coisa, um estado final. Esse estado pode
  
 <p align="justify">
 Esta análise tem como objetivo, através do método de inspeção, identificar como os objetivos podem ser atingidos, dada o atual funcionamento e design do site.<br>
- 
 Os objetivos definidos das tarefas da análise que iremos analisar são:
 </p>
- 
+
 - Acompanhar o agendamento de consultas (SUS);
 - Entrar em contato com a ouvidoria da Prefeitura
- 
+
 ## 3. Representação textual
- 
+
 <p align="justify">
 A representação textual é um dos tipos de representação sugeridos por (Preece, Rogers e Sharp, 2005). Na notação textual, os itens de número zero representam os objetivos, os itens subsequentes são as tarefas e seus subitens representam sub tarefas.
 </p>
- 
+
 ### 3.1 Representação textual do objetivo de acompanhar o agendamento de consultas (SUS)
- 
+
 **0.** Acompanhar Consulta do SUS
 <br>&emsp;&emsp;**1.** Acessar a página de acompanhamento de consulta
 <br>&emsp;&emsp;&emsp;**1.1** Na página inicial, clicar no painel “Acompanhe aqui sua consulta”
@@ -35,12 +32,9 @@ A representação textual é um dos tipos de representação sugeridos por (Pree
 <br>&emsp;&emsp;**3**. Consultar Protocolo
 <br>&emsp;&emsp;&emsp;**3.1** Validar Dados do Protocolo
 <br>&emsp;&emsp;&emsp;**3.2** Redireccionar para página de consulta (SUS)
- 
- 
- 
- 
+
 ### 3.2 Representação textual do objetivo de entrar em contato com a ouvidoria de Verdelândia
- 
+
 **0.** Entrar em contato com a ouvidoria da Prefeitura
 <br>&emsp;&emsp;**1**. Acessar a página da ouvidoria
 <br>&emsp;&emsp;&emsp;**1.1** Na página inicial clique em “Fale conosco”.
@@ -52,27 +46,22 @@ A representação textual é um dos tipos de representação sugeridos por (Pree
 <br>&emsp;&emsp;&emsp;**2.4** Preencher o campo da mensagem
 <br>&emsp;&emsp;**3.** Enviar a mensagem
 <br>&emsp;&emsp;&emsp;**3.1** Clicar em “Enviar solicitação”
- 
- 
- 
+
 ## 4. Representação gráfica
- 
+
 <p align="justify">
 A notação gráfica para a Análise Hierárquica de Tarefas tem como base os autores Preece e Rogers (2005), sua estrutura é formada por retângulos, que representam tarefas e subtarefas, e as linhas a relação hierárquica entre as tarefas. Os planos de cada tarefa são descritos junto à linha vertical, logo abaixo do retângulo que contém a tarefa de forma decomposta.
 </p>
- 
+
 ### 4.1 Representação gráfica do objetivo de acompanhar o agendamento de consultas (SUS)
- 
-<br>
 <p align='center'>
-   <img src='../../assets/analiseTarefas/HTA-ConsultaSUS.png'>
-   <figcaption align='center'>
-     <b>Figura 1: Representação gráfica do objetivo de acompanhar o agendamento de consultas (SUS).<b>
-       <br>
-       Fonte: Elaboração própria
-   </figcaption>
-</p>
- 
+  <b>Figura 1: Representação gráfica do objetivo de acompanhar o agendamento de consultas (SUS).<b>
+  <img src='../../assets/analiseTarefas/HTA-ConsultaSUS.png'>
+  <p align='right'><b>Fonte: Elaboração Própria</b></p>
+</p><br>
+
+<p align='center'><b>Tabela 1: Problemas e acompanhar o agendamento de consultas (SUS)</b></p>
+
 | Objetivos/ operações | Problemas e recomendações |
 |:--------------------|:-------------------------|
 | 0. Acompanhar Consulta do SUS | |
@@ -83,24 +72,17 @@ A notação gráfica para a Análise Hierárquica de Tarefas tem como base os au
 | 3. Consultar Protocolo | **Input**: Dados de protocolo;<br>**Feedback**: Caso os dados estejam corretos, sera redirecionado para a página de acompanhamento de consulta (SUS);**Action**: Clicar em "Entrar"|
 | 3.1 Validar Dados do Protocolo | | |
 | 3.2 Redireccionar para página de consulta (SUS) | |
-<figcaption align='center'>
-   <b>Tabela 1: Problemas e acompanhar o agendamento de consultas (SUS)</b>
-   <br>
-   Fonte: Elaboração própria
-</figcaption>
+<p align='right'><b>Fonte: Elaboração própria<b></p>
  
 ### 4.2 Representação gráfica do objetivo de entrar em contato com a ouvidoria de Verdelândia
  
-<br>
 <p align='center'>
-   <img src='../../assets/analiseTarefas/HTA-Ouvidoria.png'>
-   <figcaption align='center'>
-       <b>Figura 2: Representação gráfica do objetivo de entrar em contato com a ouvidoria de Verdelândia.<b>
-       <br>
-       Fonte: Elaboração própria
-   </figcaption>
-</p>
- 
+  <b>Figura 2: Representação gráfica do objetivo de entrar em contato com a ouvidoria de Verdelândia.<b>
+  <img src='../../assets/analiseTarefas/HTA-Ouvidoria.png'>
+  <p align='right'><b>Fonte: Elaboração própria</b></p><br>
+</p><br>
+<p align='center'><b>Tabela 2: Problemas e recomendações do objetivo de entrar em contato com a ouvidoria de Verdelândia</b></p>
+
 | Objetivos/ operações | Problemas e recomendações |
 |:--------------------|:-------------------------|
 | 0. Agendar empréstimo | |
@@ -114,11 +96,8 @@ A notação gráfica para a Análise Hierárquica de Tarefas tem como base os au
 | 2.4 Preencher o campo da mensagem | |
 | 3. Enviar a mensagem | **Input**: Informações sobre mensagem e dados pessoais;<br>**Action**: Clicar em "Enviar solicitação";<br>**Feedback**: Caso o nome esteja preenchido: uma mensagem embaixo do formulário dizendo "Agradecemos a sua mensagem.", mas caso o nome não esteja preenchido: uma mensagem dizendo "Um ou mais campos possuem um erro. Verifique e tente novamente." e abaixo do campo do nome um texto em vermelho dizendo "O campo é obrigatório.".<br>**Problema**: Apenas o nome é dado como um campo obrigatório, e isso pode levar o usuário a enviar uma mensagem apenas com o nome e com o campo de mensagem ou assunto vazios.<br>**Recomendações**: Fazer dos demais campos obrigatórios, e mostrar uma mensagem de erro caso algum desses campos obrigatórios estejam em branco.|
 | 3.1 Clicar em “Enviar solicitação”| |
-<figcaption align='center'>
-   <b>Tabela 2: Problemas e recomendações do objetivo de entrar em contato com a ouvidoria de Verdelândia</b>
-   <br>
-   Fonte: Elaboração própria
-</figcaption>
+
+<p align='right'><b>Fonte: Elaboração própria</b></p>
  
 ## Referências Bibliográficas
  
@@ -134,3 +113,4 @@ A notação gráfica para a Análise Hierárquica de Tarefas tem como base os au
 | 26/02 | 1.0.1 | Removido Introdução da Página | [Rodrigo](https://github.com/Rocsantos) | Definir
 | 26/02 | 1.1.0 | Adicionado Representação Gráfica HTA | [Rodrigo](https://github.com/Rocsantos) e [Eliseu](https://github.com/eliseukadesh67) | Definir |
 | 26/02 | 1.2.0 | Adicionando Representação textual e mais detalhamentos | [Rodrigo](https://github.com/Rocsantos) e [Eliseu](https://github.com/eliseukadesh67) | Definir |
+| 26/02 | 1.2.1 | Alterando Legenda das Imagens | [Rodrigo](https://github.com/Rocsantos) e [Eliseu](https://github.com/eliseukadesh67) | Definir |

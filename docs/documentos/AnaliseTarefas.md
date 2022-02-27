@@ -11,8 +11,7 @@ Em IHC, a Análise de Tarefas pode ser utilizada nas três atividades habituais:
 - Avaliação do Resultado de uma Intervenção
 
 <p align="justify">
-Dentro os métodos de análise de tarefas mais comuns, destacam-se GOMS, Árvore de Tarefas Concorrentes e Análise
-Hierárquica de tarefas. Passaremos brevemente por cada um deles, dando mais destaque para aquele que o grupo 3 "Prefeitura de Verdelândia" optou por fazer a Análise, Análise Hierárquica de Tarefas.
+Dentro os métodos de análise de tarefas mais comuns, destacam-se GOMS, Árvore de Tarefas Concorrentes e Análise Hierárquica de tarefas. Passaremos brevemente por cada um deles, dando mais destaque para aquele que o grupo 3 "Prefeitura de Verdelândia" optou por fazer a Análise, Análise Hierárquica de Tarefas.
 </p>
 
 ## 2. GOMS
@@ -42,14 +41,10 @@ O registro explícito das relações entre as tarefas vai além das tarefas trad
 de design de interação.
 </p>
 
-
 ## 4. Análise Hierárquica de Tarefas
 
 <p align="justify">
-A Análise Hierárquica de Tarefas (HTA), compreende as competências e habilidades exibidas em tarefas complexas e não repetitivas, assim como ajuda identificar problemas de desempenho (Annett, 2003; Annett e Duncan, 1967). Toda tarefa é definida com o termo de seu(s) objetivo(s). Tarefas complexas são definidas em termos de objetivos e subobjetivos, num desdobramento hierárquico.
-</p>
-
-<p align="justify">
+A Análise Hierárquica de Tarefas (HTA), compreende as competências e habilidades exibidas em tarefas complexas e não repetitivas, assim como ajuda identificar problemas de desempenho (Annett, 2003; Annett e Duncan, 1967). Toda tarefa é definida com o termo de seu(s) objetivo(s). Tarefas complexas são definidas em termos de objetivos e subobjetivos, num desdobramento hierárquico. <br>
 A Análise Hierárquica de Tarefas compreende as competências e habilidades exibidas em tarefas complexas e não repetitivas, assim como ajuda identificar problemas de desempenho. Ela se baseia em psicologia funcional, e não comportamental, como as abordagens da época que foi criada.<br>
 Toda tarefa é definida com o termo de seu(s) objetivo(s). Tarefas complexas são definidas em termos de objetivos e subobjetivos, num desdobramento hierárquico. Esse desdobramento é chamado de decomposição de tarefas ou redescrição. Observer que a definição é mais ampla e difere da definição adotada pelo design baseado em objetivo.<br>
 Um objetivo é um estado específico de coisa, um estado final. Esse estado pode ser definido por um ou mais eventos ou por valores fisicamente observáveis de uma ou mais variáveis, que atuam como critério de alcance do objetivo. Em vez de identificar uma lista de ações, a HTA inicia com uma definição dos objetivos das pessoas.
@@ -57,7 +52,9 @@ Um objetivo é um estado específico de coisa, um estado final. Esse estado pode
 
 ## 5. Conclusão
 
+<p align="justify">
 Devido a simplicidade do site da Prefeitura de Verdelândia, e o fato de não haver tantas tarefas e interações do Sistema com o Usuário para serem relacionadas, foi escolhido o método de Análise Hierárquica para representar os objetivos da página.
+</p>
 
 ## Referências Bibliográficas
 
@@ -66,7 +63,7 @@ Devido a simplicidade do site da Prefeitura de Verdelândia, e o fato de não ha
 > BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador, Rio de Janeiro, 2021.
 
 ## Histórico de versionamento
- 
+
 | Data  | Versão | Descrição | Autor | Revisor |
 | :--:  | :----: | :-------: | :---: | :-----: |
 | 25/02 | 1.0.0  | Criação do documento Análise Hierarquica de Tarefas | [Rodrigo](https://github.com/Rocsantos) | Definir
