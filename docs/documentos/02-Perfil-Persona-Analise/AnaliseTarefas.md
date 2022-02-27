@@ -56,7 +56,7 @@ Um objetivo é um estado específico de coisa, um estado final. Esse estado pode
 Devido a simplicidade do site da Prefeitura de Verdelândia, e o fato de não haver tantas tarefas e interações do Sistema com o Usuário para serem relacionadas, foi escolhido o método de Análise Hierárquica para representar os objetivos da página.
 </p>
 
-## Referências Bibliográficas
+## Referências
 
 > Annett, 2003; Annett, Jhon e Duncan. Task Analysis and Training Design. Occupational Psycology, 1967.
 

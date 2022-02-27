@@ -14,17 +14,18 @@ nav:
   - Início: index.md
   - I. Planejamento do Projeto e Processo de Design:
     - Planejamento do Projeto:
-      - Cronograma do Projeto: documentos/Cronograma.md
-      - Metodologia: documentos/Metodologia.md
-      - Ferramentas: documentos/Ferramentas.md
-      - Sites Avaliados: documentos/SitesAvaliados.md
-      - Site Escolhido: documentos/SiteEscolhido.md
-    - Processos de Design: documentos/Processos.md
+      - Cronograma do Projeto: documentos/01-Planejamento-e-Processo/Cronograma.md
+      - Metodologia: documentos/01-Planejamento-e-Processo/Metodologia.md
+      - Ferramentas: documentos/01-Planejamento-e-Processo/Ferramentas.md
+      - Sites Avaliados: documentos/01-Planejamento-e-Processo/SitesAvaliados.md
+      - Site Escolhido: documentos/01-Planejamento-e-Processo/SiteEscolhido.md
+    - Processos de Design: documentos/01-Planejamento-e-Processo/Processos.md
+
   - II. Perfil do usuário, Personas e Análise de tarefas:
+    - Perfil do Usuário: documentos/02-Perfil-Persona-Analise/PerfilUsuario.md
+    - Personas: documentos/02-Perfil-Persona-Analise/Personas.md
     - Análise de Tarefas:
-      - Análise de Tarefas: documentos/AnaliseTarefas.md
-      - Análise Hierárquica de Tarefas (AHT): documentos/AnaliseHierarquica.md
-    - Personas: documentos/Personas.md
-    - Perfil do Usuário: documentos/PerfilUsuario.md
+      - Análise de Tarefas: documentos/02-Perfil-Persona-Analise/AnaliseTarefas.md
+      - Análise Hierárquica de Tarefas (AHT): documentos/02-Perfil-Persona-Analise/AnaliseHierarquica.md
   - Apresentações:
-      - Ponto de controle 1: documentos/Apresentacao_PC1.md
+      - Ponto de controle 1: documentos/Apresentações/Apresentacao_PC1.md
