@@ -133,4 +133,4 @@ A notação gráfica para a Análise Hierárquica de Tarefas tem como base os au
 | 25/02 | 1.0.0  | Criação do documento Representação Gráfica de Tarefas | [Rodrigo](https://github.com/Rocsantos) | Definir |
 | 26/02 | 1.0.1 | Removido Introdução da Página | [Rodrigo](https://github.com/Rocsantos) | Definir
 | 26/02 | 1.1.0 | Adicionado Representação Gráfica HTA | [Rodrigo](https://github.com/Rocsantos) e [Eliseu](https://github.com/eliseukadesh67) | Definir |
-| 26/02 | 1.2.0 | Adicionando Representação textual e mais detalhamentos | [Rodrigo](https://github.com/Rocsantos) e [Eliseu](https://github.com/eliseukadesh67) | Definir
+| 26/02 | 1.2.0 | Adicionando Representação textual e mais detalhamentos | [Rodrigo](https://github.com/Rocsantos) e [Eliseu](https://github.com/eliseukadesh67) | Definir |
