@@ -22,7 +22,7 @@ nav:
     - Processos de Design: documentos/Processos.md
   - II. Perfil do usuário, Personas e Análise de tarefas:
     - Análise de Tarefas:
-      - Análise de Tarefas Hierarquicas: documentos/AnaliseTarefas.md
-      - Representação Gráfica das Tarefas: documentos/RepresentacaoGrafica.md
+      - Análise de Tarefas: documentos/AnaliseTarefas.md
+      - Análise Hierárquica de Tarefas (AHT): documentos/AnaliseHierarquica.md
   - Apresentações:
       - Ponto de controle 1: documentos/Apresentacao_PC1.md
