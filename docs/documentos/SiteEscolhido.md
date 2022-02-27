@@ -37,11 +37,11 @@ uma usabilidade e acessibilidade pensada para toda a população. </p>
 <p align="justify"> O método escolhido foi o de inspeção, procurando possíveis falhas que o usuário vai encontrar durante a interação. Por meio do método de inspeção foi utilizada a avaliação heurística, de Nielsen. </p>
 
 ## Questões Éticas
-<p align="justify"> Em relação às questões éticas, como no método utilizado não há contato direto com usuários o único cuidado tomado foi o de escolher um site pertencente a um orgão público.</p>
+<p align="justify"> As questões éticas serão pautadas futuramente quando estabelecermos contato com o usuário.</p>
 
 ## Versionamento
 
 | Data | Versão | Descrição | Autor |
 | - | - | - | - |
-| 11/02/2022 | 1.0.0 | Criação da página do site escolhido. | Valderson Pontes e Antonio Igor |
-| 13/02/2022 | 1.0.1 | Atualização da página. | Valderson Pontes |
+| 11/02/2022 | 1.0.0 | Criação da página do site escolhido. | [ValdersonPontes](https://github.com/valdersonjr) e [AntonioIgorCarvalho](https://github.com/AntonioIgorCarvalho) |
+| 13/02/2022 | 1.0.1 | Atualização da página. | [ValdersonPontes](https://github.com/valdersonjr) |

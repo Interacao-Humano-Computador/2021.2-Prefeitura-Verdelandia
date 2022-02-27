@@ -24,5 +24,7 @@ nav:
     - Análise de Tarefas:
       - Análise de Tarefas: documentos/AnaliseTarefas.md
       - Análise Hierárquica de Tarefas (AHT): documentos/AnaliseHierarquica.md
+    - Personas: documentos/Personas.md
+    - Perfil do Usuário: documentos/PerfilUsuario.md
   - Apresentações:
       - Ponto de controle 1: documentos/Apresentacao_PC1.md
