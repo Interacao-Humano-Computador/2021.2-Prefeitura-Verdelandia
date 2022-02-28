@@ -122,9 +122,9 @@ Escolhemos o Mayhem após uma reunião com todo o time e a realização de uma v
  
 | Data  | Versão | Descrição | Autor | Revisor |
 | :--:  | :----: | :-------: | :---: | :-----: |
-| 10/02 | 1.0.0  | Criação do documento de processos de design | [ErickLevy](https://github.com/ErickLevy) | [AntonioIgorCarvalho](https://github.com/AntonioIgorCarvalho)[ErickLevy](https://github.com/ErickLevy)
-| 13/02 | 1.0.1  | Atualização do documento | [AntonioIgorCarvalho](https://github.com/AntonioIgorCarvalho) | [ErickLevy](https://github.com/ErickLevy)
-| 13/02 | 1.0.2  | Atualização do documento | [ErickLevy](https://github.com/ErickLevy) | [AntonioIgorCarvalho](https://github.com/AntonioIgorCarvalho)[ErickLevy](https://github.com/ErickLevy)
-| 24/02 | 1.0.3  | Correções após o feedback da entrega 1 | [ErickLevy](https://github.com/ErickLevy) | [AntonioIgorCarvalho](https://github.com/AntonioIgorCarvalho)[ErickLevy](https://github.com/ErickLevy)
-| 24/02 | 1.0.4  | Correções de padronização e adição de revisores | [EliseuKadesh](https://github.com/eliseukadesh67) | [ErickLevy](https://github.com/ErickLevy)
+| 10/02 | 1.0.0  | Criação do documento de processos de design | [Erick Levy](https://github.com/ErickLevy) | [Antonio Igor](https://github.com/AntonioIgorCarvalho)[Erick Levy](https://github.com/ErickLevy)
+| 13/02 | 1.0.1  | Atualização do documento | [Antonio Igor](https://github.com/AntonioIgorCarvalho) | [Erick Levy](https://github.com/ErickLevy)
+| 13/02 | 1.0.2  | Atualização do documento | [Erick Levy](https://github.com/ErickLevy) | [AntonioIgorCarvalho](https://github.com/AntonioIgorCarvalho)[Erick Levy](https://github.com/ErickLevy)
+| 24/02 | 1.0.3  | Correções após o feedback da entrega 1 | [Erick Levy](https://github.com/ErickLevy) | [Antonio Igor](https://github.com/AntonioIgorCarvalho)[Erick Levy](https://github.com/ErickLevy)
+| 24/02 | 1.0.4  | Correções de padronização e adição de revisores | [Eliseu Kadesh](https://github.com/eliseukadesh67) | [Erick Levy](https://github.com/ErickLevy)
 

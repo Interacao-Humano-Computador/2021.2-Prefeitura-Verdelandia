@@ -47,9 +47,9 @@ Levantamento de todas as ferramentas que serão utilizadas para o desenvolviment
 
 |Data|Versão|Descrição|Autor|Revisor
 |-|-|-|-|-|
-|03/02/2022|1.0.0|Criação da tabela de ferramentas.| [DouglasMonteles](https://github.com/DouglasMonteles) | [ErickLevy](https://github.com/ErickLevy) |
-|11/02/2022|1.0.1|Adicionando as imagens.| [DouglasMonteles](https://github.com/DouglasMonteles) | [ErickLevy](https://github.com/ErickLevy) |
-|11/02/2022|1.0.2|Adicionando mais algumas ferramentas.|[DouglasMonteles](https://github.com/DouglasMonteles)| [ErickLevy](https://github.com/ErickLevy) |
-|11/02/2022|1.0.3|Corringindo a axibição de algumas imagens das ferramentas.| [DouglasMonteles](https://github.com/DouglasMonteles) | [ErickLevy](https://github.com/ErickLevy) |
-|12/02/2022|1.0.4|Corringindo o caminho das imagens| [DouglasMonteles](https://github.com/DouglasMonteles) | [ErickLevy](https://github.com/ErickLevy) |
-|19/02/2022|1.0.5|Correções após o feedback da entrega 1| [DouglasMonteles](https://github.com/DouglasMonteles) | [AntonioIgorCarvalho](https://github.com/AntonioIgorCarvalho) |
+|03/02/2022|1.0.0|Criação da tabela de ferramentas.| [Douglas Monteles](https://github.com/DouglasMonteles) | [Erick Levy](https://github.com/ErickLevy) |
+|11/02/2022|1.0.1|Adicionando as imagens.| [Douglas Monteles](https://github.com/DouglasMonteles) | [Erick Levy](https://github.com/ErickLevy) |
+|11/02/2022|1.0.2|Adicionando mais algumas ferramentas.|[Douglas Monteles](https://github.com/DouglasMonteles)| [Erick Levy](https://github.com/ErickLevy) |
+|11/02/2022|1.0.3|Corringindo a axibição de algumas imagens das ferramentas.| [Douglas Monteles](https://github.com/DouglasMonteles) | [Erick Levy](https://github.com/ErickLevy) |
+|12/02/2022|1.0.4|Corringindo o caminho das imagens| [Douglas Monteles](https://github.com/DouglasMonteles) | [Erick Levy](https://github.com/ErickLevy) |
+|19/02/2022|1.0.5|Correções após o feedback da entrega 1| [Douglas Monteles](https://github.com/DouglasMonteles) | [Antonio Igor](https://github.com/AntonioIgorCarvalho) |

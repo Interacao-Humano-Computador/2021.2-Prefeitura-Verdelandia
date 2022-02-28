@@ -41,7 +41,7 @@ uma usabilidade e acessibilidade pensada para toda a população. </p>
 
 ## Versionamento
 
-| Data | Versão | Descrição | Autor |
-| - | - | - | - |
-| 11/02/2022 | 1.0.0 | Criação da página do site escolhido. | [ValdersonPontes](https://github.com/valdersonjr) e [AntonioIgorCarvalho](https://github.com/AntonioIgorCarvalho) |
-| 13/02/2022 | 1.0.1 | Atualização da página. | [ValdersonPontes](https://github.com/valdersonjr) |
+| Data | Versão | Descrição | Autor | Revisor |
+| - | - | - | - | - |
+| 11/02/2022 | 1.0.0 | Criação da página do site escolhido. | [Valderson Pontes](https://github.com/valdersonjr) e [Antonio Igor](https://github.com/AntonioIgorCarvalho) | [Rodrigo Carvalho](https://github.com/Rocsantos) |
+| 13/02/2022 | 1.0.1 | Atualização da página. | [Valderson Pontes](https://github.com/valdersonjr) | [Antonio Igor](https://github.com/AntonioIgorCarvalho) |

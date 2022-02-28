@@ -117,5 +117,5 @@ Gustavo Capone é um jovem que mora em uma cidade no interior de Goiás com sua 
 
 | Data | Versão | Descrição | Autor | Revisor |
 | - | - | - | - | - |
-| 24/02/2022 | 1.0.0 | Criação da página das personas. | [ValdersonPontes](https://github.com/valdersonjr) e [AntonioIgorCarvalho](https://github.com/AntonioIgorCarvalho) | [EliseuKadesh](https://github.com/eliseukadesh67) e [DouglasMonteles](https://github.com/DouglasMonteles)
-| 25/02/2022 | 1.1.0 | Adição do tópico de metodologias | [ValdersonPontes](https://github.com/valdersonjr) e [AntonioIgorCarvalho](https://github.com/AntonioIgorCarvalho) | [EliseuKadesh](https://github.com/eliseukadesh67), [DouglasMonteles](https://github.com/DouglasMonteles) e [ErickLevy](https://github.com/ErickLevy)
+| 24/02/2022 | 1.0.0 | Criação da página das personas. | [Valderson Pontes](https://github.com/valdersonjr) e [Antonio Igor](https://github.com/AntonioIgorCarvalho) | [Eliseu Kadesh](https://github.com/eliseukadesh67) e [Douglas Monteles](https://github.com/DouglasMonteles)
+| 25/02/2022 | 1.1.0 | Adição do tópico de metodologias | [Valderson Pontes](https://github.com/valdersonjr) e [Antonio Igor](https://github.com/AntonioIgorCarvalho) | [Eliseu Kadesh](https://github.com/eliseukadesh67), [Douglas Monteles](https://github.com/DouglasMonteles) e [Erick Levy](https://github.com/ErickLevy)

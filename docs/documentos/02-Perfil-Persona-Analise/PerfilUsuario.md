@@ -110,8 +110,8 @@ Além disso, observa-se que a grande maioria dos usuários exigem simplicidade e
  
 | Data  | Versão | Descrição | Autor | Revisor |
 | :--:  | :----: | :-------: | :---: | :---: |
-| 24/02 | 1.0.0  | Criação do documento de Perfil do Usuário | [DouglasMonteles](https://github.com/DouglasMonteles) | [ErickLevy](https://github.com/ErickLevy) |
-| 24/02 | 1.1.0  | Completando a introdução com dados do livro | [DouglasMonteles](https://github.com/DouglasMonteles) | [ErickLevy](https://github.com/ErickLevy) |
-| 24/02 | 1.2.0  | Criando a definição do tópico de questionário | [DouglasMonteles](https://github.com/DouglasMonteles) | [ErickLevy](https://github.com/ErickLevy) |
-| 24/02 | 1.3.0  | Adicionando coluna de revisor | [DouglasMonteles](https://github.com/DouglasMonteles) | [ErickLevy](https://github.com/ErickLevy) |
-| 25/02 | 1.4.0  | Adicionando as questões e resultados do questionário | [DouglasMonteles](https://github.com/DouglasMonteles) | [ErickLevy](https://github.com/ErickLevy) |
+| 24/02 | 1.0.0  | Criação do documento de Perfil do Usuário | [Douglas Monteles](https://github.com/DouglasMonteles) e [Erick Levy](https://github.com/ErickLevy) | [Antonio Igor](https://github.com/antonioigorcarvalho) e [Eliseu Kadesh](https://github.com/eliseukadesh67) |
+| 24/02 | 1.1.0  | Completando a introdução com dados do livro | [Douglas Monteles](https://github.com/DouglasMonteles) e [Erick Levy](https://github.com/ErickLevy) | [Antonio Igor](https://github.com/antonioigorcarvalho) e [Eliseu Kadesh](https://github.com/eliseukadesh67) |
+| 24/02 | 1.2.0  | Criando a definição do tópico de questionário | [Douglas Monteles](https://github.com/DouglasMonteles) e [Erick Levy](https://github.com/ErickLevy) | [Antonio Igor](https://github.com/antonioigorcarvalho) e [Eliseu Kadesh](https://github.com/eliseukadesh67) |
+| 24/02 | 1.3.0  | Adicionando coluna de revisor | [Douglas Monteles](https://github.com/DouglasMonteles) e [Erick Levy](https://github.com/ErickLevy) | [Antonio Igor](https://github.com/antonioigorcarvalho) e [Eliseu Kadesh](https://github.com/eliseukadesh67) |
+| 25/02 | 1.4.0  | Adicionando as questões e resultados do questionário | [Douglas Monteles](https://github.com/DouglasMonteles) e [Erick Levy](https://github.com/ErickLevy) | [Antonio Igor](https://github.com/antonioigorcarvalho) e [Eliseu Kadesh](https://github.com/eliseukadesh67) |
