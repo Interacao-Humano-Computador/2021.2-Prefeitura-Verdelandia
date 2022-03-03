@@ -1,7 +1,7 @@
 site_name: "Prefeitura de Verdelândia"
 theme:
   name: material
-  logo: assets/logo.png
+  logo: assets/logos/logo.png
   language: pt
   palette:
     primary: spring green
