@@ -56,7 +56,7 @@ A notação gráfica para a Análise Hierárquica de Tarefas tem como base os au
 ### 4.1 Representação gráfica do objetivo de acompanhar o agendamento de consultas (SUS)
 <p align='center'>
   <b>Figura 1: Representação gráfica do objetivo de acompanhar o agendamento de consultas (SUS).<b>
-  <img src='../../../../assets/analiseTarefas/HTA-ConsultaSUS.png'>
+  <img src='../../../assets/analiseTarefas/HTA-ConsultaSUS.png'>
   <p align='right'><b>Fonte: Elaboração Própria</b></p>
 </p><br>
 
@@ -78,7 +78,7 @@ A notação gráfica para a Análise Hierárquica de Tarefas tem como base os au
  
 <p align='center'>
   <b>Figura 2: Representação gráfica do objetivo de entrar em contato com a ouvidoria de Verdelândia.<b>
-  <img src='../../../../assets/analiseTarefas/HTA-Ouvidoria.png'>
+  <img src='../../../assets/analiseTarefas/HTA-Ouvidoria.png'>
   <p align='right'><b>Fonte: Elaboração própria</b></p><br>
 </p><br>
 <p align='center'><b>Tabela 2: Problemas e recomendações do objetivo de entrar em contato com a ouvidoria de Verdelândia</b></p>
