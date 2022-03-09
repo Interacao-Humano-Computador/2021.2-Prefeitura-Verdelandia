@@ -115,14 +115,21 @@ Lara tem 27 anos e é uma nova moradora da cidade. Ela é a filha mais velha de 
 Gustavo Capone é um jovem que mora em uma cidade no interior de Goiás com sua mãe. Pela manhã ele estuda em um pequeno colégio estadual e, no período vespertino, ajuda nas tarefas de casa. No seu tempo livre Gustavo gosta de ler os livros disponíveis na biblioteca de sua escola. Como Gustavo mora em uma cidade muito pequena o acesso a internet ainda é muito difícil e limitado.
 </p>
 
-## 4. Referências
+## 5. Conclusão
+
+<p align="justify">
+  As personas serão utilizadas para se ter uma noção a mais de quem estaria utilizando o site da Prefeitura de Verdelândia. Nesse documento tentamos agregar perfis diferentes daqueles levantados pelo questionário, a fim de ter uma visão mais ampla de possíveis usuários.
+</p>
+
+## 6. Referências
 
 > Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021);Interação Humano-Computador e Experiência do usuário.
 
-## 5. Versionamento
+## 7. Versionamento
 
 | Data | Versão | Descrição | Autor | Revisor |
 | - | - | - | - | - |
 | 24/02/2022 | 1.0.0 | Criação da página das personas. | [Valderson Pontes](https://github.com/valdersonjr) e [Antonio Igor](https://github.com/AntonioIgorCarvalho) | [Eliseu Kadesh](https://github.com/eliseukadesh67) e [Douglas Monteles](https://github.com/DouglasMonteles)
 | 25/02/2022 | 1.1.0 | Adição do tópico de metodologias | [Valderson Pontes](https://github.com/valdersonjr) e [Antonio Igor](https://github.com/AntonioIgorCarvalho) | [Eliseu Kadesh](https://github.com/eliseukadesh67), [Douglas Monteles](https://github.com/DouglasMonteles) e [Erick Levy](https://github.com/ErickLevy)
-| 09/03/2022 | 1.1.1 | Maior detalhamento das personas. | [Antonio Igor](https://github.com/AntonioIgorCarvalho) | -
+| 09/03/2022 | 1.1.1 | Maior detalhamento das personas | [Antonio Igor](https://github.com/AntonioIgorCarvalho) | -
+| 09/03/2022 | 1.2.0 | Criação da conclusão do documento | [Antonio Igor](https://github.com/AntonioIgorCarvalho) | -
