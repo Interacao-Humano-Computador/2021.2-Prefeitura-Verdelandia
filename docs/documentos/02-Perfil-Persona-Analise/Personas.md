@@ -131,5 +131,5 @@ Gustavo Capone é um jovem que mora em uma cidade no interior de Goiás com sua 
 | - | - | - | - | - |
 | 24/02/2022 | 1.0.0 | Criação da página das personas. | [Valderson Pontes](https://github.com/valdersonjr) e [Antonio Igor](https://github.com/AntonioIgorCarvalho) | [Eliseu Kadesh](https://github.com/eliseukadesh67) e [Douglas Monteles](https://github.com/DouglasMonteles)
 | 25/02/2022 | 1.1.0 | Adição do tópico de metodologias | [Valderson Pontes](https://github.com/valdersonjr) e [Antonio Igor](https://github.com/AntonioIgorCarvalho) | [Eliseu Kadesh](https://github.com/eliseukadesh67), [Douglas Monteles](https://github.com/DouglasMonteles) e [Erick Levy](https://github.com/ErickLevy)
-| 09/03/2022 | 1.1.1 | Maior detalhamento das personas | [Antonio Igor](https://github.com/AntonioIgorCarvalho) | -
-| 09/03/2022 | 1.2.0 | Criação da conclusão do documento | [Antonio Igor](https://github.com/AntonioIgorCarvalho) | -
+| 09/03/2022 | 1.1.1 | Maior detalhamento das personas | [Antonio Igor](https://github.com/AntonioIgorCarvalho) | [Valderson Pontes](https://github.com/valdersonjr)
+| 09/03/2022 | 1.2.0 | Criação da conclusão do documento | [Antonio Igor](https://github.com/AntonioIgorCarvalho) | [Valderson Pontes](https://github.com/valdersonjr)
