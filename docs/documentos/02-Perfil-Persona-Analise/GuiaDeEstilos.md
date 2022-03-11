@@ -60,6 +60,10 @@
 
 ## 7. Resultados de análise
 
+<p style="text-align: justify">
+  O ambiente de trabalho do usuário consiste no site da Prefeitura de Verdelândia, que dispõe 7 (sete) funcionalidades no menu principal relacionadas aos interesses públicos, como emissão de tempo de serviço, acesso a relatórios e as leis anuais. Além dessas, também é foco do site exibir notícias relacionadas a cidade e as ações ou trabalhos promovidos pela prefeitura, sendo essas notícias separadas em algumas seções dentro do site. Também é foco do site tratar das questões relacionadas a acessibilidade, conforme os padrões estabelecidos pela W3C.
+</p>
+
 ## 8. Elementos de interface
 
 ## 9. Elementos de interação
@@ -71,7 +75,9 @@
 ## Referências
  
 > BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador, Rio de Janeiro, 2021.
+
 > [1] Marcus, Aaron (1991). Graphic design for electronic documents and user interfaces. Association for Computing Machinery, New York, NY, USA.
+
 > [2] Mayhew, Deborah J. (1999). The Usability Engineering Lifecycle: A Practitioner’s Handbook for User Interface Design. Morgan Kaufmann, 1st edition edition.
  
 ## Histórico de versionamento
