@@ -64,6 +64,37 @@
   O ambiente de trabalho do usuário consiste no site da Prefeitura de Verdelândia, que dispõe 7 (sete) funcionalidades no menu principal relacionadas aos interesses públicos, como emissão de tempo de serviço, acesso a relatórios e as leis anuais. Além dessas, também é foco do site exibir notícias relacionadas a cidade e as ações ou trabalhos promovidos pela prefeitura, sendo essas notícias separadas em algumas seções dentro do site. Também é foco do site tratar das questões relacionadas a acessibilidade, conforme os padrões estabelecidos pela W3C.
 </p>
 
+<p style="text-align: justify">
+  Abaixo seguem a capitura de algumas partes da tela inicial do site da Prefeitura de Verdelândia.
+</p>
+
+<figure>
+  <img 
+    src="../../../assets/guia/tela-inicial-pref-verdelandia-com-popup.png" alt="tela-inicial-pref-verdelandia-com-popup" 
+  />
+  <figcaption>
+    Figura 1: Tela inicial do site da prefeitura de Verdelandia com pop-up
+  </figcaption>
+</figure>
+
+<figure>
+  <img 
+    src="../../../assets/guia/tela-inicial-pref-verdelandia-sem-popup.png" alt="tela-inicial-pref-verdelandia-sem-popup" 
+  />
+  <figcaption>
+    Figura 2: Tela inicial do site da prefeitura de Verdelandia sem pop-up
+  </figcaption>
+</figure>
+
+<figure>
+  <img 
+    src="../../../assets/guia/tela-inicial-pref-verdelandia-menu-acesso-rapido.png" alt="tela-inicial-pref-verdelandia-menu-acesso-rapido" 
+  />
+  <figcaption>
+    Figura 3: Menu de acesso rápido na tela inicial
+  </figcaption>
+</figure>
+
 ## 8. Elementos de interface
 
 ## 9. Elementos de interação
