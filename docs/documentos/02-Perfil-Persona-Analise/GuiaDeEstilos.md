@@ -118,7 +118,7 @@
 ### 8.5 Cores
 
 <p style="text-align:justify">
-  
+  Abaixo estão as cores principais e secundárias identificadas no site da Prefeitura de São Sebastião, bem como as cores do <a href="../../../assets/guia/brasao-pref-verdelandia.png" target="_blanck">brasão</a> presente na bandeira da cidade, o qual também é a logo do site.
 </p>
 
 <figure>
