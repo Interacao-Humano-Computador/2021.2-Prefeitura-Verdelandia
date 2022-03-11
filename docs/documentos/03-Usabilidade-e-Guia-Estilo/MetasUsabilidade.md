@@ -13,17 +13,18 @@ A definição das metas será feita com base no [perfil dos usuários](../02-Per
  
 Os fatores de usabilidade considerados por Nielsen (1994) são:
  
-- facilidade de aprendizado (learnability);
-- facilidade de recordação (memorability);
-- eficiência (efficiency);
-- segurança no uso (safety);
-- satisfação do usuário (satisfaction);
+- Facilidade de aprendizado (learnability)
+- Facilidade de recordação (memorability)
+- Eficiência (efficiency)
+- Segurança no uso (safety)
+- Satisfação do usuário (satisfaction)
  
 <p align="justify">
-Além desses fatores de usabilidade considerados por Nielsen, podemos considerar mas outros que são propostos por (Preece, Rogers e Sharp, 2013):
+Além desses fatores de usabilidade considerados por Nielsen, podemos considerar outros que são propostos por (Preece, Rogers e Sharp, 2013):
 </p>
-- Ser eficaz no uso (eficácia);
-- Ter boa utilidade (utilidade);
+
+- Ser eficaz no uso (eficácia)
+- Ter boa utilidade (utilidade)
  
 Para cada critério de usabilidade listado, serão definidas metas de usabilidade.<br>
  
@@ -101,16 +102,16 @@ Utilizando o formato sugerido por (Preece, Rogers e Sharp, 2013), as metas de us
 Tendo sido definidas as metas de usabilidade para o projeto, temos uma base mais sólida de quais as características devemos alcançar para que o sistema esteja satisfatório para o usuário. E com base nessas metas, é possível desenvolver um guia de estilo para o projeto.
 </p>
  
-## Referências
+## 5. Referências
  
  
 > Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021); Interação Humano-Computador e Experiência do usuário.
  
 > PREECE, Jennifer; ROGERS, Yvonne; SHARP, Helen. Design de Interação. 3. ed. (n.p.): Bookman Editora, (2013)
  
-## Histórico de versionamento
+## 6. Histórico de versionamento
 | Data  | Versão | Descrição | Autor | Revisor |
 | :--:  | :----: | :-------: | :---: | :-----: |
-| 10/03 | 1.0.0 | Criação de Documento Metas de Usabilidade | [Rodrigo](https://github.com/Rocsantos) e [EliseuKadesh](https://github.com/eliseukadesh67) | A definir |
-| 11/03 | 1.0.1 | Corrigindo Formatação de Texto | [Rodrigo](https://github.com/Rocsantos) | A definir |
-| 11/03 | 1.1.0 | Adição da conclusão | [EliseuKadesh](https://github.com/eliseukadesh67) | A definir
+| 10/03 | 1.0.0 | Criação de Documento Metas de Usabilidade | [Rodrigo Carvalho](https://github.com/Rocsantos) e [Eliseu Kadesh](https://github.com/eliseukadesh67) | A definir |
+| 11/03 | 1.0.1 | Corrigindo Formatação de Texto | [Rodrigo Carvalho](https://github.com/Rocsantos) | A definir |
+| 11/03 | 1.1.0 | Adição da conclusão | [Eliseu Kadesh](https://github.com/eliseukadesh67) | A definir
