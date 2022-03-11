@@ -55,6 +55,7 @@
       - Sequências de diálogos (e.g., para feedback ou confirmação de uma operação)
  
 ## 4. Público-alvo do guia de estilos
+
 <p style="text-align: justify">
       O guia de estilo tem como público alvo as equipes de desenvolvimento e design.
 </p>
@@ -62,9 +63,8 @@
 ## 5. Como utilizar o guia
 
 <p style="text-align: justify">
-     O guia de estilo durante o decorrer do projeto deverá ser usado como um padrão a ser seguido pelo design para ajudar a equipe de desenvolvimento neste projeto do site Prefeitura de Verdelândia,seguido o Ciclo de vida de Mayhew. .
-</p>     
-      
+  O guia de estilo durante o decorrer do projeto deverá ser usado como um padrão a ser seguido pelo design para ajudar a equipe de desenvolvimento neste projeto do site Prefeitura de Verdelândia,seguido o Ciclo de vida de Mayhew.
+</p>
 
 ## 6. Como manter o guia
 
@@ -114,6 +114,135 @@
 </figure>
 
 ## 8. Elementos de interface
+
+### 8.5 Cores
+
+<p style="text-align:justify">
+  
+</p>
+
+<figure>
+  <div style="display:flex;border:1px solid #000">
+    <div style="display:flex; flex-direction:column;justify-content:center;align-items:center">
+      <div style="width: 80px; height: 200px; background-color:#5d934c"></div>
+      <span style="font-size:8pt">
+        <strong>#5d934c</strong>
+      </span>
+    </div>
+    <div style="display:flex; flex-direction:column;justify-content:center;align-items:center">
+      <div style="width: 80px; height: 200px; background-color:#337ab7"></div>
+      <span style="font-size:8pt">
+        <strong>#337ab7</strong>
+      </span>
+    </div>
+    <div style="display:flex; flex-direction:column;justify-content:center;align-items:center">
+      <div style="width: 80px; height: 200px; background-color:#3d88b2"></div>
+      <span style="font-size:8pt">
+        <strong>#3d88b2</strong>
+      </span>
+    </div>
+    <div style="display:flex; flex-direction:column;justify-content:center;align-items:center">
+      <div style="width: 80px; height: 200px; background-color:#999"></div>
+      <span style="font-size:8pt">
+        <strong>#999</strong>
+      </span>
+    </div>
+    <div style="display:flex; flex-direction:column;justify-content:center;align-items:center">
+      <div style="width: 80px; height: 200px; background-color:#f1f1f1"></div>
+      <span style="font-size:8pt">
+        <strong>#f1f1f1</strong>
+      </span>
+    </div>
+  </div>
+  <figcaption>Figura 4: Cores principais</figcaption>
+</figure>
+
+<figure>
+  <div style="display:flex;border:1px solid #000">
+    <div style="display:flex; flex-direction:column;justify-content:center;align-items:center">
+      <div style="width: 80px; height: 200px; background-color:#f7e700"></div>
+      <span style="font-size:8pt">
+        <strong>#f7e700</strong>
+      </span>
+    </div>
+    <div style="display:flex; flex-direction:column;justify-content:center;align-items:center">
+      <div style="width: 80px; height: 200px; background-color:#FF0000"></div>
+      <span style="font-size:8pt">
+        <strong>#FF0000</strong>
+      </span>
+    </div>
+    <div style="display:flex; flex-direction:column;justify-content:center;align-items:center">
+      <div style="width: 80px; height: 200px; background-color:#398f14"></div>
+      <span style="font-size:8pt">
+        <strong>#398f14</strong>
+      </span>
+    </div>
+    <div style="display:flex; flex-direction:column;justify-content:center;align-items:center">
+      <div style="width: 80px; height: 200px; background-color:#5cb85c"></div>
+      <span style="font-size:8pt">
+        <strong>#5cb85c</strong>
+      </span>
+    </div>
+  </div>
+  <figcaption>Figura 4: Cores Secundárias</figcaption>
+</figure>
+
+<figure>
+  <div style="display:flex;border:1px solid #000">
+    <div style="display:flex; flex-direction:column;justify-content:center;align-items:center">
+      <div style="width: 80px; height: 200px; background-color:#009400"></div>
+      <span style="font-size:8pt">
+        <strong>#009400</strong>
+      </span>
+    </div>
+    <div style="display:flex; flex-direction:column;justify-content:center;align-items:center">
+      <div style="width: 80px; height: 200px; background-color:#ff2f0c"></div>
+      <span style="font-size:8pt">
+        <strong>#ff2f0c</strong>
+      </span>
+    </div>
+    <div style="display:flex; flex-direction:column;justify-content:center;align-items:center">
+      <div style="width: 80px; height: 200px; background-color:#ff8f1a"></div>
+      <span style="font-size:8pt">
+        <strong>#ff8f1a</strong>
+      </span>
+    </div>
+    <div style="display:flex; flex-direction:column;justify-content:center;align-items:center">
+      <div style="width: 80px; height: 200px; background-color:#fff549"></div>
+      <span style="font-size:8pt">
+        <strong>#fff549</strong>
+      </span>
+    </div>
+    <div style="display:flex; flex-direction:column;justify-content:center;align-items:center">
+      <div style="width: 80px; height: 200px; background-color:#57ccee"></div>
+      <span style="font-size:8pt">
+        <strong>#57ccee</strong>
+      </span>
+    </div>
+    <div style="display:flex; flex-direction:column;justify-content:center;align-items:center">
+      <div style="width: 80px; height: 200px; background-color:#ffffff"></div>
+      <span style="font-size:8pt">
+        <strong>#ffffff</strong>
+      </span>
+    </div>
+    <div style="display:flex; flex-direction:column;justify-content:center;align-items:center">
+      <div style="width: 80px; height: 200px; background-color:#c6c8cb"></div>
+      <span style="font-size:8pt">
+        <strong>#c6c8cb</strong>
+      </span>
+    </div>
+    <div style="display:flex; flex-direction:column;justify-content:center;align-items:center">
+      <div style="width: 80px; height: 200px; background-color:#000000"></div>
+      <span style="font-size:8pt">
+        <strong>#000000</strong>
+      </span>
+    </div>
+  </div>
+  <figcaption>Figura 5: Cores do 
+    <a href="../../../assets/guia/brasao-pref-verdelandia.png" target="_blanck">Brasão da Prefeitura de São Sebastião</a>
+  </figcaption>
+</figure>
+
 
 ## 9. Elementos de interação
 
@@ -225,6 +354,6 @@
  
 ## Histórico de versionamento
  
-| Data  | Versão | Descrição | Autor | Revisor |
-| :--:  | :----: | :-------: | :---: | :-----: |
-| 10/03 | 1.0.0  | Criação do documento de Guia de Estilos | [Douglas Monteles](https://github.com/DouglasMonteles) e [Erick Levy](https://github.com/ErickLevy) |  |
+| Data  | Versão |                Descrição                |                                                Autor                                                | Revisor |
+| :---: | :----: | :-------------------------------------: | :-------------------------------------------------------------------------------------------------: | :-----: |
+| 10/03 | 1.0.0  | Criação do documento de Guia de Estilos | [Douglas Monteles](https://github.com/DouglasMonteles) e [Erick Levy](https://github.com/ErickLevy) |         |
