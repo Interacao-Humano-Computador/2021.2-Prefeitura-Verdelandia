@@ -8,8 +8,10 @@
 </p>
 
 <center>
-  <img src="../../assets/guia/guiaEstiloIntro.png" alt="Questão 1">
+
+  ![Guia de estilo](../../assets/guia/guiaEstiloIntro.png)
   <figcaption>Figura 1: Guia de estilo</figcaption>
+  
 </center>
  
 ## 2. Objetivo
