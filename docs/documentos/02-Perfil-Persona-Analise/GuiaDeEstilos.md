@@ -99,9 +99,103 @@
 
 ## 9. Elementos de interação
 
+### 9.1 Estilos de interação
+
+<p style="text-align: justify">
+  Sobre os estilos de interação utilizados no site, podemos citar:
+</p>
+
+- A presença de menu superior comum a todas as telas;
+- Linguagem simples (natural): O site se comunica com o usuário através de termos que são comuns no ambiente da prefeitura e que são de conhecimento do cidadão;
+- O site apresenta o uso do WIMP (Acrônimo para Window Icon Menu Point device), que é um estilo de interação que utiliza estes elementos; 
+
+### 9.2 Seleção de um estilo
+
+<p style="text-align: justify">
+  No site, o único estilo de utilização presente é o de ações dispostas em menus, sendo estes reforçados ou não com icones.
+</p>
+
+### 9.3 Aceleradores (teclas de atalho)
+
+<p style="text-align: justify">
+  O site possui algumas teclas de atalho sendo informadas na página de acessibilidade, sendo estas teclas utilizadas para levar o usuário até as páginas especificadas na lista da Figura 4.
+</p>
+
+<figure>
+  <img 
+    src="../../../assets/guia/tela-acessibilidade-pref-verdelandia.png" alt="tela-acessibilidade-pref-verdelandia" 
+  />
+  <figcaption>
+    Figura 4: Teclas de atalho disponíveis no site da prefeitura de Verdelândia
+  </figcaption>
+</figure>
+
 ## 10. Elementos de ação
 
 ## 11. Vocabulário e padrões
+
+### 11.1 Terminologia
+
+<p style="text-align: justify">
+  O site possui em sua grande maioria, termos que são comuns ao cotidiano dos usuários, que são os cidadãos da cidade de Verdelândia. No entanto também é preceptível a presença de termos que são inerentes às áreas juridicas e administrativas relacionadas ao meio da prefeitura da cidade. 
+</p>
+
+### 11.2  Tipos de tela (para tarefas comuns)
+
+<p style="text-align: justify">
+  Todas as telas do site possuem o mesmo padrão em sua estrutura, alterando somente o conteúdo a ser tratado por aquela tela e o indicador utilizado para informar ao usuário em qual página ele se encontra, mas mantendo toda a parte do cabeçalho e rodapé as mesmas.
+</p>
+
+<figure>
+  <img 
+    src="../../../assets/guia/menu-pref-verdelandia.png" alt="menu-pref-verdelandia" 
+  />
+  <figcaption>
+    Figura 5: Menu presente em todas as telas
+  </figcaption>
+</figure>
+
+<figure>
+  <img 
+    src="../../../assets/guia/indicador-pref-verdelandia.png" alt="indicador-pref-verdelandia" 
+  />
+  <figcaption>
+    Figura 6: Indicador de página
+  </figcaption>
+</figure>
+
+<figure>
+  <img 
+    src="../../../assets/guia/rodape-pref-verdelandia.png" alt="rodape-pref-verdelandia" 
+  />
+  <figcaption>
+    Figura 7: Rodapé presente em todas as telas
+  </figcaption>
+</figure>
+
+### 11.3  Sequências de diálogos 
+
+<p style="text-align: justify">
+  Foi identificado somente a sequência de diálogos presente na página de Fale Conosco, que possui um formulário para o envio de mensagens o qual emite dois tipos de diálogo: Avisso e Sucesso, referentes a ação de anviar os dados do formulário. 
+</p>
+
+<figure>
+  <img 
+    src="../../../assets/guia/aviso-pref-verdelandia.png" alt="aviso-pref-verdelandia" 
+  />
+  <figcaption>
+    Figura 8: Diálogo de aviso
+  </figcaption>
+</figure>
+
+<figure>
+  <img 
+    src="../../../assets/guia/sucesso-pref-verdelandia.png" alt="sucesso-pref-verdelandia" 
+  />
+  <figcaption>
+    Figura 9: Diálogo de sucesso
+  </figcaption>
+</figure>
 
 ## Referências
  
