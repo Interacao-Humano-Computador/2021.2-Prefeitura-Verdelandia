@@ -52,6 +52,22 @@
       - Tipos de tela (para tarefas comuns)
       - Sequências de diálogos (e.g., para feedback ou confirmação de uma operação)
  
+## 4. Público-alvo do guia de estilos
+
+## 5. Como utilizar o guia
+
+## 6. Como manter o guia
+
+## 7. Resultados de análise
+
+## 8. Elementos de interface
+
+## 9. Elementos de interação
+
+## 10. Elementos de ação
+
+## 11. Vocabulário e padrões
+
 ## Referências
  
 > BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador, Rio de Janeiro, 2021.
