@@ -7,10 +7,10 @@
 
 </p>
 
-<figure>
+<center>
   <img src="../../assets/guia/guiaEstiloIntro.png" alt="Questão 1">
   <figcaption>Figura 1: Guia de estilo</figcaption>
-</figure>
+</center>
  
 ## 2. Objetivo
 
@@ -53,12 +53,28 @@
       - Sequências de diálogos (e.g., para feedback ou confirmação de uma operação)
  
 ## 4. Público-alvo do guia de estilos
+<p style="text-align: justify">
+      O guia de estilo tem como público alvo as equipes de desenvolvimento e design.
+</p>
 
 ## 5. Como utilizar o guia
 
+<p style="text-align: justify">
+     O guia de estilo durante o decorrer do projeto deverá ser usado como um padrão a ser seguido pelo design para ajudar a equipe de desenvolvimento neste projeto do site Prefeitura de Verdelândia,seguido o Ciclo de vida de Mayhew. .
+</p>     
+      
+
 ## 6. Como manter o guia
 
+<p style="text-align: justify">
+     O guia de estilo deve seguir as alterações necessárias sempre que o projeto precisar ,assim deve ser atualizado de acordo com essas alterações.
+</p> 
+
 ## 7. Resultados de análise
+
+<p style="text-align: justify">
+     O projeto é feito com o site da Prefeitura de Verdelândia que permite a interação do usuário através da interação ao site,utilizando qualquer navegador,assim permitindo o acesso ao site. 
+</p> 
 
 <p style="text-align: justify">
   O ambiente de trabalho do usuário consiste no site da Prefeitura de Verdelândia, que dispõe 7 (sete) funcionalidades no menu principal relacionadas aos interesses públicos, como emissão de tempo de serviço, acesso a relatórios e as leis anuais. Além dessas, também é foco do site exibir notícias relacionadas a cidade e as ações ou trabalhos promovidos pela prefeitura, sendo essas notícias separadas em algumas seções dentro do site. Também é foco do site tratar das questões relacionadas a acessibilidade, conforme os padrões estabelecidos pela W3C.
