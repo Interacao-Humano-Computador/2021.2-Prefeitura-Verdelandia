@@ -121,7 +121,7 @@
 
   ![Tela inicial](../../assets/guia/grid.png)
 
-  <figcaption>Figura 1: Home</figcaption>
+  <figcaption>Figura 4: Home</figcaption>
   
 </center>
 
@@ -146,7 +146,26 @@
 
 ### 8.3 Tipografia
 
+<p style="text-align:justify">
+  Os textos presentes, utilizam as fontes Sans serif e Lato.
+</p>
+
+<center>
+
+  ![Tela inicial](../../assets/guia/fontes.png)
+
+  <figcaption>Figura 5: Fontes</figcaption>
+  
+</center>
+
+
 ### 8.4 Símbolos não tipográficos
+
+<p style="text-align:justify">
+  O site  não possui nenhum símbolo não tipográfico.
+</p>
+
+
 
 ### 8.5 Cores
 
@@ -187,7 +206,7 @@
       </span>
     </div>
   </div>
-  <figcaption>Figura 4: Cores principais</figcaption>
+  <figcaption>Figura 6: Cores principais</figcaption>
 </figure>
 
 <figure>
@@ -217,7 +236,7 @@
       </span>
     </div>
   </div>
-  <figcaption>Figura 4: Cores Secundárias</figcaption>
+  <figcaption>Figura 7: Cores Secundárias</figcaption>
 </figure>
 
 <figure>
@@ -271,12 +290,17 @@
       </span>
     </div>
   </div>
-  <figcaption>Figura 5: Cores do 
-    <a href="../../../assets/guia/brasao-pref-verdelandia.png" target="_blanck">Brasão da Prefeitura de São Sebastião</a>
+  <figcaption>Figura 8: Cores do 
+    <a href="../../../assets/guia/brasao-pref-verdelandia.png" target="_blanck">Brasão da Prefeitura de Verdelandia</a>
   </figcaption>
 </figure>
 
 ### 8.6 Animações
+
+<p style="text-align: justify">
+  A única animação presente no site e a animação de carrossel.
+</p>
+
 
 ## 9. Elementos de interação
 
@@ -307,7 +331,7 @@
     src="../../../assets/guia/tela-acessibilidade-pref-verdelandia.png" alt="tela-acessibilidade-pref-verdelandia" 
   />
   <figcaption>
-    Figura 4: Teclas de atalho disponíveis no site da prefeitura de Verdelândia
+    Figura 9: Teclas de atalho disponíveis no site da prefeitura de Verdelândia
   </figcaption>
 </figure>
 
@@ -333,7 +357,7 @@
     src="../../../assets/guia/menu-pref-verdelandia.png" alt="menu-pref-verdelandia" 
   />
   <figcaption>
-    Figura 5: Menu presente em todas as telas
+    Figura 10: Menu presente em todas as telas
   </figcaption>
 </figure>
 
@@ -342,7 +366,7 @@
     src="../../../assets/guia/indicador-pref-verdelandia.png" alt="indicador-pref-verdelandia" 
   />
   <figcaption>
-    Figura 6: Indicador de página
+    Figura 11: Indicador de página
   </figcaption>
 </figure>
 
@@ -351,7 +375,7 @@
     src="../../../assets/guia/rodape-pref-verdelandia.png" alt="rodape-pref-verdelandia" 
   />
   <figcaption>
-    Figura 7: Rodapé presente em todas as telas
+    Figura 12: Rodapé presente em todas as telas
   </figcaption>
 </figure>
 
@@ -366,7 +390,7 @@
     src="../../../assets/guia/aviso-pref-verdelandia.png" alt="aviso-pref-verdelandia" 
   />
   <figcaption>
-    Figura 8: Diálogo de aviso
+    Figura 13: Diálogo de aviso
   </figcaption>
 </figure>
 
@@ -375,7 +399,7 @@
     src="../../../assets/guia/sucesso-pref-verdelandia.png" alt="sucesso-pref-verdelandia" 
   />
   <figcaption>
-    Figura 9: Diálogo de sucesso
+    Figura 14: Diálogo de sucesso
   </figcaption>
 </figure>
 
