@@ -3,8 +3,10 @@
 <p align="justify">
     O guia de estilo é um registro das decisões tomadas pelo design no qual elas não se percam e sejam inseridas no produto final,também é importante que as decisões tomadas pelo design sejam consultadas e utilizadas segundo Barbosa (2021).
     O guia de estilo pode ser elaborado com diferentes escopos: plataforma, corporativo, família de produtos e um produto específico.
-    Portanto, sempre deve ser elaborado com base nas metas de usabilidade.  
+    Portanto, sempre deve ser elaborado com base nas.  
 </p>
+
+ [metas de usabilidade](https://interacao-humano-computador.github.io/2021.2-Prefeitura-Verdelandia/documentos/03-Usabilidade-e-Guia-Estilo/MetasUsabilidade/)
 
 <center>
   <figcaption>Figura 1: Guia de estilo</figcaption>
@@ -457,5 +459,5 @@
  
 | Data  | Versão |                Descrição                |                                                Autor                                                | Revisor |
 | :---: | :----: | :-------------------------------------: | :-------------------------------------------------------------------------------------------------: | :-----: |
-| 10/03 | 1.0.0  | Criação do documento de Guia de Estilos | [Douglas Monteles](https://github.com/DouglasMonteles) e [Erick Levy](https://github.com/ErickLevy) |         |
-| 12/03 | 1.0.1  | Alterando a posição das legendas das figuras e adicionando a fonte | [Douglas Monteles](https://github.com/DouglasMonteles) e [Erick Levy](https://github.com/ErickLevy) |         |
+| 10/03 | 1.0.0  | Criação do documento de Guia de Estilos | [Douglas Monteles](https://github.com/DouglasMonteles) e [Erick Levy](https://github.com/ErickLevy) | [Antonio Igor](https://github.com/antonioigorcarvalho), [Eliseu Kadesh](https://github.com/eliseukadesh67) e [Rodrigo Carvalho](https://github.com/Rocsantos) |
+| 12/03 | 1.0.1  | Alterando a posição das legendas das figuras e adicionando a fonte | [Douglas Monteles](https://github.com/DouglasMonteles) e [Erick Levy](https://github.com/ErickLevy) | [Antonio Igor](https://github.com/antonioigorcarvalho), [Eliseu Kadesh](https://github.com/eliseukadesh67) e [Rodrigo Carvalho](https://github.com/Rocsantos) |

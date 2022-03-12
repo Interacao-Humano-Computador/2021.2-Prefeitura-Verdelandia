@@ -29,8 +29,9 @@ nav:
       - Análise Hierárquica de Tarefas (AHT): documentos/02-Perfil-Persona-Analise/AnaliseHierarquica.md
 
   - III. Metas de Usabilidade e Guias de Estilo:
-    - Metas de Usabilidade: documentos/03-Usabilidade-e-Guia-Estilo/MetasUsabilidade.md
-    - Guia de Estilos: documentos/02-Perfil-Persona-Analise/GuiaDeEstilos.md
+    - Principios Gerais: documentos/03-Principios-Metas-Guia/PrincipiosGerais.md
+    - Metas de Usabilidade: documentos/03-Principios-Metas-Guia/MetasUsabilidade.md
+    - Guia de Estilos: documentos/03-Principios-Metas-Guia/GuiaDeEstilos.md
     
   - Apresentações:
       - Ponto de controle 1: documentos/Apresentações/Apresentacao_PC1.md
