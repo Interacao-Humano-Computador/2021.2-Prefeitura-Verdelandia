@@ -3,10 +3,8 @@
 <p align="justify">
     O guia de estilo é um registro das decisões tomadas pelo design no qual elas não se percam e sejam inseridas no produto final,também é importante que as decisões tomadas pelo design sejam consultadas e utilizadas segundo Barbosa (2021).
     O guia de estilo pode ser elaborado com diferentes escopos: plataforma, corporativo, família de produtos e um produto específico.
-    Portanto, sempre deve ser elaborado com base nas.  
+    Portanto, sempre deve ser elaborado com base nas metas de usabilidade.  
 </p>
-
- [metas de usabilidade](https://interacao-humano-computador.github.io/2021.2-Prefeitura-Verdelandia/documentos/03-Usabilidade-e-Guia-Estilo/MetasUsabilidade/)
 
 <center>
   <figcaption>Figura 1: Guia de estilo</figcaption>
