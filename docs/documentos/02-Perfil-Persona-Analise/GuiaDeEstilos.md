@@ -3,7 +3,7 @@
 <p align="justify">
     O guia de estilo é um registro das decisões tomadas pelo design no qual elas não se percam e sejam inseridas no produto final,também é importante que as decisões tomadas pelo design sejam consultadas e utilizadas segundo Barbosa (2021).
     O guia de estilo pode ser elaborado com diferentes escopos: plataforma, corporativo, família de produtos e um produto específico.
-    Portanto sempre deve ser elaborado com base nas meta de usabilidade.  
+    Portanto, sempre deve ser elaborado com base nas metas de usabilidade.  
 </p>
 
 <center>
@@ -17,7 +17,7 @@
 ## 2. Objetivo
 
 <p align="justify">
-  O Guia de Estilos deve ser o documento que estabelece uma comunicação entre os membros da equipe responsáveis pelo design do sistema e também com a equipe de desenvolmento. Dessa forma, neste documento devem constar todas as decisões de design e estas devem ser claras e de fácil acesso para futuras consultas acerca das versões futuras do produto.
+  O Guia de Estilos deve ser o documento que estabelece uma comunicação entre os membros da equipe responsáveis pelo design do sistema e também com a equipe de desenvolvimento. Dessa forma, neste documento devem constar todas as decisões de design e estas devem ser claras e de fácil acesso para futuras consultas acerca das versões futuras do produto.
 </p>
 
 ## 3. Estrutura
@@ -63,23 +63,23 @@
 ## 5. Como utilizar o guia
 
 <p align="justify">
-  O guia de estilo durante o decorrer do projeto deverá ser usado como um padrão a ser seguido pelo design para ajudar a equipe de desenvolvimento neste projeto do site Prefeitura de Verdelândia,seguido o Ciclo de vida de Mayhew.
+  O guia de estilo durante o decorrer do projeto deverá ser usado como um padrão a ser seguido pelo design para ajudar a equipe de desenvolvimento neste projeto do site Prefeitura de Verdelândia, segundo o Ciclo de vida de Mayhew.
 </p>
 
 ## 6. Como manter o guia
 
 <p align="justify">
-     O guia de estilo deve seguir as alterações necessárias sempre que o projeto precisar ,assim deve ser atualizado de acordo com essas alterações.
+     O guia de estilo deve seguir as alterações necessárias sempre que o projeto precisar, assim deve ser atualizado de acordo com essas alterações.
 </p> 
 
 ## 7. Resultados de análise
 
 <p align="justify">
-  O ambiente de trabalho do usuário consiste no site da Prefeitura de Verdelândia, que dispõe 7 (sete) funcionalidades no menu principal relacionadas aos interesses públicos, como emissão de tempo de serviço, acesso a relatórios e as leis anuais. Além dessas, também é foco do site exibir notícias relacionadas a cidade e as ações ou trabalhos promovidos pela prefeitura, sendo essas notícias separadas em algumas seções dentro do site. Também é foco do site tratar das questões relacionadas a acessibilidade, conforme os padrões estabelecidos pela W3C.
+  O ambiente de trabalho do usuário consiste no site da Prefeitura de Verdelândia, que dispõe de 7 (sete) funcionalidades no menu principal relacionadas aos interesses públicos, como emissão de tempo de serviço, acesso a relatórios e as leis anuais. Além disso, também é foco do site exibir notícias relacionadas a cidade e as ações ou trabalhos promovidos pela prefeitura, sendo essas notícias separadas em algumas seções dentro do site. Também é foco do site tratar das questões relacionadas à acessibilidade, conforme os padrões estabelecidos pela W3C.
 </p>
 
 <p align="justify">
-  Abaixo seguem a captura de algumas partes da tela inicial do site da Prefeitura de Verdelândia.
+  Abaixo segue a captura de algumas partes da tela inicial do site da Prefeitura de Verdelândia.
 </p>
 
 <figure>
@@ -87,7 +87,7 @@
     src="../../../assets/guia/tela-inicial-pref-verdelandia-com-popup.png" alt="tela-inicial-pref-verdelandia-com-popup" 
   />
   <figcaption>
-    Figura 2: Tela inicial do site da prefeitura de Verdelandia com pop-up
+    Figura 2: Tela inicial do site da prefeitura de Verdelândia com pop-up
   </figcaption>
 </figure>
 
@@ -127,7 +127,7 @@
       O site é composto por 12 páginas que compõem o grid e estas janelas são:
 </p>
 
-- INICIO
+- INÍCIO
 - A CIDADE
 - A PREFEITURA
   - TELEFONE ÚTEIS
@@ -285,7 +285,7 @@
     </div>
   </div>
   <figcaption>Figura 9: Cores do 
-    <a href="../../../assets/guia/brasao-pref-verdelandia.png" target="_blanck">Brasão da Prefeitura de Verdelandia</a>
+    <a href="../../../assets/guia/brasao-pref-verdelandia.png" target="_blanck">Brasão da Prefeitura de Verdelândia</a>
   </figcaption>
 </figure>
 
@@ -311,7 +311,7 @@
 ### 9.2 Seleção de um estilo
 
 <p align="justify">
-  No site, o único estilo de utilização presente é o de ações dispostas em menus, sendo estes reforçados ou não com icones.
+  No site, o único estilo de utilização presente é o de ações dispostas em menus, sendo estes reforçados ou não com ícones.
 </p>
 
 ### 9.3 Aceleradores (teclas de atalho)
@@ -355,7 +355,7 @@
 ### 11.1 Terminologia
 
 <p align="justify">
-  O site possui em sua grande maioria, termos que são comuns ao cotidiano dos usuários, que são os cidadãos da cidade de Verdelândia. No entanto também é preceptível a presença de termos que são inerentes às áreas juridicas e administrativas relacionadas ao meio da prefeitura da cidade. 
+  O site possui em sua grande maioria, termos que são comuns ao cotidiano dos usuários, que são os cidadãos da cidade de Verdelândia. No entanto, também é perceptível a presença de termos que são inerentes às áreas jurídicas e administrativas relacionadas ao meio da prefeitura da cidade. 
 </p>
 
 ### 11.2  Tipos de tela (para tarefas comuns)
@@ -394,7 +394,7 @@
 ### 11.3  Sequências de diálogos 
 
 <p align="justify">
-  Foi identificado somente a sequência de diálogos presente na página de Fale Conosco, que possui um formulário para o envio de mensagens o qual emite dois tipos de diálogo: Avisso e Sucesso, referentes a ação de anviar os dados do formulário. 
+  Foi identificado somente a sequência de diálogos presente na página de Fale Conosco, que possui um formulário para o envio de mensagens o qual emite dois tipos de diálogo: Aviso e Sucesso, referentes a ação de enviar os dados do formulário. 
 </p>
 
 <figure>
