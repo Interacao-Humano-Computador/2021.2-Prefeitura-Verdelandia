@@ -7,11 +7,11 @@
 </p>
 
 <center>
+  <figcaption>Figura 1: Guia de estilo</figcaption>
 
   ![Guia de estilo](../../assets/guia/guiaEstiloIntro.png)
 
-  <figcaption>Figura 1: Guia de estilo</figcaption>
-  
+  <figcaption>Fonte: BARBOSA, 2021</figcaption>
 </center>
  
 ## 2. Objetivo
@@ -83,29 +83,38 @@
 </p>
 
 <figure>
+  <figcaption>
+    Figura 2: Tela inicial do site da prefeitura de Verdelândia com pop-up
+  </figcaption>
   <img 
     src="../../../assets/guia/tela-inicial-pref-verdelandia-com-popup.png" alt="tela-inicial-pref-verdelandia-com-popup" 
   />
   <figcaption>
-    Figura 2: Tela inicial do site da prefeitura de Verdelândia com pop-up
+    Fonte: <a href="http://www.verdelandia.mg.gov.br" target="_blanck">Site da Prefeitura de Verdelândia</a>
   </figcaption>
 </figure>
 
 <figure>
+  <figcaption>
+    Figura 3: Tela inicial do site da prefeitura de Verdelandia sem pop-up
+  </figcaption>
   <img 
     src="../../../assets/guia/tela-inicial-pref-verdelandia-sem-popup.png" alt="tela-inicial-pref-verdelandia-sem-popup" 
   />
   <figcaption>
-    Figura 3: Tela inicial do site da prefeitura de Verdelandia sem pop-up
+    Fonte: <a href="http://www.verdelandia.mg.gov.br" target="_blanck">Site da Prefeitura de Verdelândia</a>
   </figcaption>
 </figure>
 
 <figure>
+  <figcaption>
+    Figura 4: Menu de acesso rápido na tela inicial
+  </figcaption>
   <img 
     src="../../../assets/guia/tela-inicial-pref-verdelandia-menu-acesso-rapido.png" alt="tela-inicial-pref-verdelandia-menu-acesso-rapido" 
   />
   <figcaption>
-    Figura 4: Menu de acesso rápido na tela inicial
+    Fonte: <a href="http://www.verdelandia.mg.gov.br" target="_blanck">Site da Prefeitura de Verdelândia</a>
   </figcaption>
 </figure>
 
@@ -114,11 +123,11 @@
 ### 8.1 Disposição espacial e grid
 
 <center>
+  <figcaption>Figura 5: Grid da tela inicial</figcaption>
 
   ![Tela inicial](../../assets/guia/grid.png)
 
-  <figcaption>Figura 5: Grid da tela inicial</figcaption>
-  
+  <figcaption>Fonte: Elaboração Própria</figcaption>
 </center>
 
 ### 8.2 Janelas
@@ -147,11 +156,11 @@
 </p>
 
 <center>
+  <figcaption>Figura 6: Fontes utilizadas</figcaption>
 
   ![Tela inicial](../../assets/guia/fontes.png)
-
-  <figcaption>Figura 6: Fontes utilizadas</figcaption>
   
+  <figcaption>Fonte: Elaboração Própria</figcaption>
 </center>
 
 
@@ -168,6 +177,7 @@
 </p>
 
 <figure>
+  <figcaption>Figura 7: Cores principais</figcaption>
   <div style="display:flex;border:1px solid #000">
     <div style="display:flex; flex-direction:column;justify-content:center;align-items:center">
       <div style="width: 80px; height: 200px; background-color:#5d934c"></div>
@@ -200,10 +210,11 @@
       </span>
     </div>
   </div>
-  <figcaption>Figura 7: Cores principais</figcaption>
+  <figcaption>Fonte: Elaboração Própria</figcaption>
 </figure>
 
 <figure>
+  <figcaption>Figura 8: Cores Secundárias</figcaption>
   <div style="display:flex;border:1px solid #000">
     <div style="display:flex; flex-direction:column;justify-content:center;align-items:center">
       <div style="width: 80px; height: 200px; background-color:#f7e700"></div>
@@ -230,10 +241,13 @@
       </span>
     </div>
   </div>
-  <figcaption>Figura 8: Cores Secundárias</figcaption>
+  <figcaption>Fonte: Elaboração Própria</figcaption>
 </figure>
 
 <figure>
+  <figcaption>Figura 9: Cores do 
+    <a href="../../../assets/guia/brasao-pref-verdelandia.png" target="_blanck">Brasão da Prefeitura de Verdelândia</a>
+  </figcaption>
   <div style="display:flex;border:1px solid #000">
     <div style="display:flex; flex-direction:column;justify-content:center;align-items:center">
       <div style="width: 80px; height: 200px; background-color:#009400"></div>
@@ -284,9 +298,7 @@
       </span>
     </div>
   </div>
-  <figcaption>Figura 9: Cores do 
-    <a href="../../../assets/guia/brasao-pref-verdelandia.png" target="_blanck">Brasão da Prefeitura de Verdelândia</a>
-  </figcaption>
+  <figcaption>Fonte: Elaboração Própria</figcaption>
 </figure>
 
 ### 8.6 Animações
@@ -321,11 +333,14 @@
 </p>
 
 <figure>
+  <figcaption>
+    Figura 10: Teclas de atalho disponíveis no site da prefeitura de Verdelândia
+  </figcaption>
   <img 
     src="../../../assets/guia/tela-acessibilidade-pref-verdelandia.png" alt="tela-acessibilidade-pref-verdelandia" 
   />
   <figcaption>
-    Figura 10: Teclas de atalho disponíveis no site da prefeitura de Verdelândia
+    Fonte: <a href="http://www.verdelandia.mg.gov.br" target="_blanck">Site da Prefeitura de Verdelândia</a>
   </figcaption>
 </figure>
 
@@ -365,29 +380,38 @@
 </p>
 
 <figure>
+  <figcaption>
+    Figura 11: Menu presente em todas as telas
+  </figcaption>
   <img 
     src="../../../assets/guia/menu-pref-verdelandia.png" alt="menu-pref-verdelandia" 
   />
   <figcaption>
-    Figura 11: Menu presente em todas as telas
+    Fonte: <a href="http://www.verdelandia.mg.gov.br" target="_blanck">Site da Prefeitura de Verdelândia</a>
   </figcaption>
 </figure>
 
 <figure>
+  <figcaption>
+    Figura 12: Indicador de página
+  </figcaption>
   <img 
     src="../../../assets/guia/indicador-pref-verdelandia.png" alt="indicador-pref-verdelandia" 
   />
   <figcaption>
-    Figura 12: Indicador de página
+    Fonte: <a href="http://www.verdelandia.mg.gov.br" target="_blanck">Site da Prefeitura de Verdelândia</a>
   </figcaption>
 </figure>
 
 <figure>
+  <figcaption>
+    Figura 13: Rodapé presente em todas as telas
+  </figcaption>
   <img 
     src="../../../assets/guia/rodape-pref-verdelandia.png" alt="rodape-pref-verdelandia" 
   />
   <figcaption>
-    Figura 13: Rodapé presente em todas as telas
+    Fonte: <a href="http://www.verdelandia.mg.gov.br" target="_blanck">Site da Prefeitura de Verdelândia</a>
   </figcaption>
 </figure>
 
@@ -398,20 +422,26 @@
 </p>
 
 <figure>
+  <figcaption>
+    Figura 14: Diálogo de aviso
+  </figcaption>
   <img 
     src="../../../assets/guia/aviso-pref-verdelandia.png" alt="aviso-pref-verdelandia" 
   />
   <figcaption>
-    Figura 14: Diálogo de aviso
+    Fonte: <a href="http://www.verdelandia.mg.gov.br" target="_blanck">Site da Prefeitura de Verdelândia</a>
   </figcaption>
 </figure>
 
 <figure>
+  <figcaption>
+    Figura 15: Diálogo de sucesso
+  </figcaption>
   <img 
     src="../../../assets/guia/sucesso-pref-verdelandia.png" alt="sucesso-pref-verdelandia" 
   />
   <figcaption>
-    Figura 15: Diálogo de sucesso
+    Fonte: <a href="http://www.verdelandia.mg.gov.br" target="_blanck">Site da Prefeitura de Verdelândia</a>
   </figcaption>
 </figure>
 
