@@ -1,10 +1,10 @@
 ## 1. Introdução
  
-<p class="text-align: justify">
-    O guia de estilo é um registro das decisões  tomadas pelo design no qual elas não se percam e sejam inseridas no produto final,também é importante que as decisões tomadas pelo design sejam consultadas e utilizadas segundo Barbosa (2021).
-    O guia de estilo pode ser elaborado com diferentes escopos: plataforma , corporativo , família de produtos e um produto específico.
+<p align="justify">
+    O guia de estilo é um registro das decisões tomadas pelo design no qual elas não se percam e sejam inseridas no produto final,também é importante que as decisões tomadas pelo design sejam consultadas e utilizadas segundo Barbosa (2021).
+    O guia de estilo pode ser elaborado com diferentes escopos: plataforma, corporativo, família de produtos e um produto específico.
     Portanto sempre deve ser elaborado com base nas meta de usabilidade.  
-
+</p>
 
 <center>
 
@@ -14,18 +14,18 @@
   
 </center>
 
-</p>
+
 
  
 ## 2. Objetivo
 
-<p class="text-align: justify">
+<p align="justify">
   O Guia de Estilos deve ser o documento que estabelece uma comunicação entre os membros da equipe responsáveis pelo design do sistema e também com a equipe de desenvolmento. Dessa forma, neste documento devem constar todas as decisões de design e estas devem ser claras e de fácil acesso para futuras consultas acerca das versões futuras do produto.
 </p>
 
 ## 3. Estrutura
 
-<p class="text-align: justify">
+<p align="justify">
   A fim de elaboração do Guia de Estilos, decidimos adotar a seguinte  estrutura proposta por [1] Marcus, 1991; [2] Mayhew, 1999.
 </p>
 
@@ -59,31 +59,31 @@
  
 ## 4. Público-alvo do guia de estilos
 
-<p style="text-align: justify">
+<p align="justify">
       O guia de estilo tem como público alvo as equipes de desenvolvimento e design.
 </p>
 
 ## 5. Como utilizar o guia
 
-<p style="text-align: justify">
+<p align="justify">
   O guia de estilo durante o decorrer do projeto deverá ser usado como um padrão a ser seguido pelo design para ajudar a equipe de desenvolvimento neste projeto do site Prefeitura de Verdelândia,seguido o Ciclo de vida de Mayhew.
 </p>
 
 ## 6. Como manter o guia
 
-<p style="text-align: justify">
+<p align="justify">
      O guia de estilo deve seguir as alterações necessárias sempre que o projeto precisar ,assim deve ser atualizado de acordo com essas alterações.
 </p> 
 
 ## 7. Resultados de análise
 
 
-<p style="text-align: justify">
+<p align="justify">
   O ambiente de trabalho do usuário consiste no site da Prefeitura de Verdelândia, que dispõe 7 (sete) funcionalidades no menu principal relacionadas aos interesses públicos, como emissão de tempo de serviço, acesso a relatórios e as leis anuais. Além dessas, também é foco do site exibir notícias relacionadas a cidade e as ações ou trabalhos promovidos pela prefeitura, sendo essas notícias separadas em algumas seções dentro do site. Também é foco do site tratar das questões relacionadas a acessibilidade, conforme os padrões estabelecidos pela W3C.
 </p>
 
-<p style="text-align: justify">
-  Abaixo seguem a capitura de algumas partes da tela inicial do site da Prefeitura de Verdelândia.
+<p align="justify">
+  Abaixo seguem a captura de algumas partes da tela inicial do site da Prefeitura de Verdelândia.
 </p>
 
 <figure>
@@ -127,8 +127,8 @@
 
 ### 8.2 Janelas
 
-<p style="text-align: justify">  
-      O site  é composto por 12 páginas que compõem o grid  e estas janelas são:
+<p align="justify">  
+      O site é composto por 12 páginas que compõem o grid e estas janelas são:
 </p>
 
 - INICIO
@@ -146,7 +146,7 @@
 
 ### 8.3 Tipografia
 
-<p style="text-align:justify">
+<p align="justify">
   Os textos presentes, utilizam as fontes Sans serif e Lato.
 </p>
 
@@ -161,7 +161,7 @@
 
 ### 8.4 Símbolos não tipográficos
 
-<p style="text-align:justify">
+<p align="justify">
   O site  não possui nenhum símbolo não tipográfico.
 </p>
 
@@ -169,7 +169,7 @@
 
 ### 8.5 Cores
 
-<p style="text-align:justify">
+<p align="justify">
   Abaixo estão as cores principais e secundárias identificadas no site da Prefeitura de São Sebastião, bem como as cores do <a href="../../../assets/guia/brasao-pref-verdelandia.png" target="_blanck">brasão</a> presente na bandeira da cidade, o qual também é a logo do site.
 </p>
 
@@ -297,7 +297,7 @@
 
 ### 8.6 Animações
 
-<p style="text-align: justify">
+<p align="justify">
   A única animação presente no site e a animação de carrossel.
 </p>
 
@@ -306,7 +306,7 @@
 
 ### 9.1 Estilos de interação
 
-<p style="text-align: justify">
+<p align="justify">
   Sobre os estilos de interação utilizados no site, podemos citar:
 </p>
 
@@ -316,13 +316,13 @@
 
 ### 9.2 Seleção de um estilo
 
-<p style="text-align: justify">
+<p align="justify">
   No site, o único estilo de utilização presente é o de ações dispostas em menus, sendo estes reforçados ou não com icones.
 </p>
 
 ### 9.3 Aceleradores (teclas de atalho)
 
-<p style="text-align: justify">
+<p align="justify">
   O site possui algumas teclas de atalho sendo informadas na página de acessibilidade, sendo estas teclas utilizadas para levar o usuário até as páginas especificadas na lista da Figura 4.
 </p>
 
@@ -339,37 +339,34 @@
 
 ### 10.1 Preenchimento de campos
 
-<p style="text-align: justify">
+<p align="justify">
   O site não possui campos a serem preenchidos.
 </p>
 
 ### 10.2 Seleção
 
-<p style="text-align: justify">
+<p align="justify">
   Todos os elementos do site são selecionáveis, mas a maioria das imagens não funciona e redirecionam para o início do site.  
 </p>
 
 [Prefeitura de verdelândia](http://www.verdelandia.mg.gov.br/)
 
 ### 10.3 Ativação
-<p style="text-align: justify">
+<p align="justify">
   O site não possui nenhuma ação na qual seja necessária a realização de ativação ou autenticação.
-
 </p>
 
 ## 11. Vocabulário e padrões
 
-
-
 ### 11.1 Terminologia
 
-<p style="text-align: justify">
+<p align="justify">
   O site possui em sua grande maioria, termos que são comuns ao cotidiano dos usuários, que são os cidadãos da cidade de Verdelândia. No entanto também é preceptível a presença de termos que são inerentes às áreas juridicas e administrativas relacionadas ao meio da prefeitura da cidade. 
 </p>
 
 ### 11.2  Tipos de tela (para tarefas comuns)
 
-<p style="text-align: justify">
+<p align="justify">
   Todas as telas do site possuem o mesmo padrão em sua estrutura, alterando somente o conteúdo a ser tratado por aquela tela e o indicador utilizado para informar ao usuário em qual página ele se encontra, mas mantendo toda a parte do cabeçalho e rodapé as mesmas.
 </p>
 
@@ -402,7 +399,7 @@
 
 ### 11.3  Sequências de diálogos 
 
-<p style="text-align: justify">
+<p align="justify">
   Foi identificado somente a sequência de diálogos presente na página de Fale Conosco, que possui um formulário para o envio de mensagens o qual emite dois tipos de diálogo: Avisso e Sucesso, referentes a ação de anviar os dados do formulário. 
 </p>
 
