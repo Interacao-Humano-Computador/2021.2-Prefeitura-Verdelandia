@@ -337,8 +337,29 @@
 
 ## 10. Elementos de ação
 
+### 10.1 Preenchimento de campos
+
+<p style="text-align: justify">
+  O site não possui campos a serem preenchidos.
+</p>
+
+### 10.2 Seleção
+
+<p style="text-align: justify">
+  Todos os elementos do site são selecionáveis, mas a maioria das imagens não funciona e redirecionam para o início do site.  
+</p>
+
+[Prefeitura de verdelândia](http://www.verdelandia.mg.gov.br/)
+
+### 10.3 Ativação
+<p style="text-align: justify">
+  O site não possui nenhuma ação na qual seja necessária a realização de ativação ou autenticação.
+
+</p>
 
 ## 11. Vocabulário e padrões
+
+
 
 ### 11.1 Terminologia
 
