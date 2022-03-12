@@ -5,14 +5,17 @@
     O guia de estilo pode ser elaborado com diferentes escopos: plataforma , corporativo , família de produtos e um produto específico.
     Portanto sempre deve ser elaborado com base nas meta de usabilidade.  
 
-</p>
 
 <center>
 
   ![Guia de estilo](../../assets/guia/guiaEstiloIntro.png)
+
   <figcaption>Figura 1: Guia de estilo</figcaption>
   
 </center>
+
+</p>
+
  
 ## 2. Objetivo
 
@@ -74,9 +77,6 @@
 
 ## 7. Resultados de análise
 
-<p style="text-align: justify">
-     O projeto é feito com o site da Prefeitura de Verdelândia que permite a interação do usuário através da interação ao site,utilizando qualquer navegador,assim permitindo o acesso ao site. 
-</p> 
 
 <p style="text-align: justify">
   O ambiente de trabalho do usuário consiste no site da Prefeitura de Verdelândia, que dispõe 7 (sete) funcionalidades no menu principal relacionadas aos interesses públicos, como emissão de tempo de serviço, acesso a relatórios e as leis anuais. Além dessas, também é foco do site exibir notícias relacionadas a cidade e as ações ou trabalhos promovidos pela prefeitura, sendo essas notícias separadas em algumas seções dentro do site. Também é foco do site tratar das questões relacionadas a acessibilidade, conforme os padrões estabelecidos pela W3C.
@@ -114,6 +114,39 @@
 </figure>
 
 ## 8. Elementos de interface
+
+### 8.1 Disposição espacial e grid
+
+<center>
+
+  ![Tela inicial](../../assets/guia/grid.png)
+
+  <figcaption>Figura 1: Home</figcaption>
+  
+</center>
+
+### 8.2 Janelas
+
+<p style="text-align: justify">  
+      O site  é composto por 12 páginas que compõem o grid  e estas janelas são:
+</p>
+
+- INICIO
+- A CIDADE
+- A PREFEITURA
+  - TELEFONE ÚTEIS
+- TRANSPARÊNCIA
+-  PUBLICAÇÕES
+  - BALANCETES
+  - CONVÊNIOS
+  - DECRETOS
+  - LEIS
+  - PORTARIAS
+- FALE CONOSCO 
+
+### 8.3 Tipografia
+
+### 8.4 Símbolos não tipográficos
 
 ### 8.5 Cores
 
@@ -243,6 +276,7 @@
   </figcaption>
 </figure>
 
+### 8.6 Animações
 
 ## 9. Elementos de interação
 
@@ -278,6 +312,7 @@
 </figure>
 
 ## 10. Elementos de ação
+
 
 ## 11. Vocabulário e padrões
 
