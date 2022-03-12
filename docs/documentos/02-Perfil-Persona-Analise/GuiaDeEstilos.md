@@ -13,9 +13,6 @@
   <figcaption>Figura 1: Guia de estilo</figcaption>
   
 </center>
-
-
-
  
 ## 2. Objetivo
 
@@ -77,7 +74,6 @@
 
 ## 7. Resultados de análise
 
-
 <p align="justify">
   O ambiente de trabalho do usuário consiste no site da Prefeitura de Verdelândia, que dispõe 7 (sete) funcionalidades no menu principal relacionadas aos interesses públicos, como emissão de tempo de serviço, acesso a relatórios e as leis anuais. Além dessas, também é foco do site exibir notícias relacionadas a cidade e as ações ou trabalhos promovidos pela prefeitura, sendo essas notícias separadas em algumas seções dentro do site. Também é foco do site tratar das questões relacionadas a acessibilidade, conforme os padrões estabelecidos pela W3C.
 </p>
@@ -91,7 +87,7 @@
     src="../../../assets/guia/tela-inicial-pref-verdelandia-com-popup.png" alt="tela-inicial-pref-verdelandia-com-popup" 
   />
   <figcaption>
-    Figura 1: Tela inicial do site da prefeitura de Verdelandia com pop-up
+    Figura 2: Tela inicial do site da prefeitura de Verdelandia com pop-up
   </figcaption>
 </figure>
 
@@ -100,7 +96,7 @@
     src="../../../assets/guia/tela-inicial-pref-verdelandia-sem-popup.png" alt="tela-inicial-pref-verdelandia-sem-popup" 
   />
   <figcaption>
-    Figura 2: Tela inicial do site da prefeitura de Verdelandia sem pop-up
+    Figura 3: Tela inicial do site da prefeitura de Verdelandia sem pop-up
   </figcaption>
 </figure>
 
@@ -109,7 +105,7 @@
     src="../../../assets/guia/tela-inicial-pref-verdelandia-menu-acesso-rapido.png" alt="tela-inicial-pref-verdelandia-menu-acesso-rapido" 
   />
   <figcaption>
-    Figura 3: Menu de acesso rápido na tela inicial
+    Figura 4: Menu de acesso rápido na tela inicial
   </figcaption>
 </figure>
 
@@ -121,7 +117,7 @@
 
   ![Tela inicial](../../assets/guia/grid.png)
 
-  <figcaption>Figura 4: Home</figcaption>
+  <figcaption>Figura 5: Grid da tela inicial</figcaption>
   
 </center>
 
@@ -154,7 +150,7 @@
 
   ![Tela inicial](../../assets/guia/fontes.png)
 
-  <figcaption>Figura 5: Fontes</figcaption>
+  <figcaption>Figura 6: Fontes utilizadas</figcaption>
   
 </center>
 
@@ -164,8 +160,6 @@
 <p align="justify">
   O site  não possui nenhum símbolo não tipográfico.
 </p>
-
-
 
 ### 8.5 Cores
 
@@ -206,7 +200,7 @@
       </span>
     </div>
   </div>
-  <figcaption>Figura 6: Cores principais</figcaption>
+  <figcaption>Figura 7: Cores principais</figcaption>
 </figure>
 
 <figure>
@@ -236,7 +230,7 @@
       </span>
     </div>
   </div>
-  <figcaption>Figura 7: Cores Secundárias</figcaption>
+  <figcaption>Figura 8: Cores Secundárias</figcaption>
 </figure>
 
 <figure>
@@ -290,7 +284,7 @@
       </span>
     </div>
   </div>
-  <figcaption>Figura 8: Cores do 
+  <figcaption>Figura 9: Cores do 
     <a href="../../../assets/guia/brasao-pref-verdelandia.png" target="_blanck">Brasão da Prefeitura de Verdelandia</a>
   </figcaption>
 </figure>
@@ -331,7 +325,7 @@
     src="../../../assets/guia/tela-acessibilidade-pref-verdelandia.png" alt="tela-acessibilidade-pref-verdelandia" 
   />
   <figcaption>
-    Figura 9: Teclas de atalho disponíveis no site da prefeitura de Verdelândia
+    Figura 10: Teclas de atalho disponíveis no site da prefeitura de Verdelândia
   </figcaption>
 </figure>
 
@@ -375,7 +369,7 @@
     src="../../../assets/guia/menu-pref-verdelandia.png" alt="menu-pref-verdelandia" 
   />
   <figcaption>
-    Figura 10: Menu presente em todas as telas
+    Figura 11: Menu presente em todas as telas
   </figcaption>
 </figure>
 
@@ -384,7 +378,7 @@
     src="../../../assets/guia/indicador-pref-verdelandia.png" alt="indicador-pref-verdelandia" 
   />
   <figcaption>
-    Figura 11: Indicador de página
+    Figura 12: Indicador de página
   </figcaption>
 </figure>
 
@@ -393,7 +387,7 @@
     src="../../../assets/guia/rodape-pref-verdelandia.png" alt="rodape-pref-verdelandia" 
   />
   <figcaption>
-    Figura 12: Rodapé presente em todas as telas
+    Figura 13: Rodapé presente em todas as telas
   </figcaption>
 </figure>
 
@@ -408,7 +402,7 @@
     src="../../../assets/guia/aviso-pref-verdelandia.png" alt="aviso-pref-verdelandia" 
   />
   <figcaption>
-    Figura 13: Diálogo de aviso
+    Figura 14: Diálogo de aviso
   </figcaption>
 </figure>
 
@@ -417,7 +411,7 @@
     src="../../../assets/guia/sucesso-pref-verdelandia.png" alt="sucesso-pref-verdelandia" 
   />
   <figcaption>
-    Figura 14: Diálogo de sucesso
+    Figura 15: Diálogo de sucesso
   </figcaption>
 </figure>
 
