@@ -16,77 +16,91 @@ Os princícios e diretrizes utilizados em IHC se baseiam nos seguintes tópicos:
 - Conteúdo relevante e expressão adequada.
 - Projeto para erros.
 
+## 2. Tópicos
 
-## 2. Objetivo
-<p align="justify">
-Este documento tem como objetivo apresentar os tópicos que frequentemente são utilizados em IHC para descrever os princípios e diretrizes gerais.
-</p>
-
-## 3. Tópicos
-
-### 3.1 Correspondência com as expectativas dos usuários
+### 2.1 Correspondência com as expectativas dos usuários
 <p align="justify">
 Deve se ter uma preocupação com a naturalidade do que o usuário já está acostumado
 com base nas experiências passadas, ele deve ser capaz de entender de forma fácil e
 intuitiva ações e seus efeitos no sistema.
 </p>
 
-### 3.2 Simplicidade nas estruturas das tarefas
+### 2.2 Simplicidade nas estruturas das tarefas
 <p align="justify">
 Tarefas devem ser simples e intuitivas para facilitar o entendimento do usuário ao
 realizar uma tarefa.
 </p>
 
-### 3.3 Equilíbrio entre controle e liberdade do usuário
+### 2.3 Equilíbrio entre controle e liberdade do usuário
 <p align="justify">
 O usuário deve possuir o controle do sistema, mas com certas limitações para
 melhorar a experiência, opções demais podem deixar o usuário perdido e
 desorientado.
 </p>
 
-### 3.4 Consistência e padronização
+### 2.4 Consistência e padronização
 <p align="justify">
 É recomendado que o sistema se mantenha fiel a um padrão, assim o usuário se
 acostumará com o layout e saberá com certeza que a página que ele está acessando
 pertence realmente ao sistema.
 </p>
 
-### 3.5 Promoção da eficiência do usuário
+### 2.5 Promoção da eficiência do usuário
 <p align="justify">
 Priorizar a economia de tempo e esforço do usuário em relação a eficiência do
 computador.
 </p>
 
-### 3.6 Antecipação das necessidades do usuário
+### 2.6 Antecipação das necessidades do usuário
 <p align="justify">
 As aplicações devem tentar prever o que o usuário quer e precisa, ao invés de esperar
 que os usuários busquem ou coletem informações ou usem ferramentas.
 </p>
 
-### 3.7 Visibilidade e reconhecimento
+### 2.7 Visibilidade e reconhecimento
 <p align="justify">
 É necessário deixar tudo que o usuário possa fazer bem visível, para que ele entenda o
 que o sistema tem a oferecer com facilidade.
 </p>
 
-### 3.8 Conteúdo relevante e expressão adequada
+### 2.8 Conteúdo relevante e expressão adequada
 <p align="justify">
 Informação oferecida não deve conter conteúdo irrelevante ou de precedência
 duvidosa, e tudo quer for apresentado deve ter uma relação clara com os tópicos
 apresentados anteriormente.
 </p>
 
-### 3.9 Projeto para erros
+### 2.9 Projeto para erros
 <p align="justify">
 Assumir que qualquer erro potencial será cometido e assim ajudar o usuário a reparar
 erros cometidos.
 </p>
 
-## 4. Conclusão
+## 3. Conclusão
 <p align="justify">
-
+Durante o desenvolvimento do projeto todos esses tópicos serão considerados, porém, considerando a natureza do projeto escolhido, um site de prefeitura, uma atenção maior será dada para os seguintes tópicos:
 </p>
 
-## 5. Referências
+### 3.1 Simplicidade nas estruturas das tarefas
+<p align="justify">
+Um site que tem como foco o uso por toda a população da cidade deve se preocupar com a simplicidade de suas tarefas, para tentar minimizar a dificuldade de usuários que não possuem muita experiência em tecnologias.
+</p>
+
+### 3.2 Equilíbrio entre controle e liberdade do usuário.
+<p align="justify">
+Limitar o usuário para que as tarefas sejam diretas e lineares, para que o usuário não se perca durante o uso do site.
+</p>
+
+### 3.3 Visibilidade e reconhecimento
+<p align="justify">
+É necessário deixar bem claro oque pode ser feito, para que o usuário ache aquilo que está buscando com facilidade, caso não encontre ele terá confiança de que oque procura não será encontrado no site.
+</p>
+
+### 3.4 Conteúdo relevante e expressão adequada
+<p align="justify">
+Todas as informações devem ser confiáveis e relevantes, evitando a apresentação de informações desnecessárias e conteúdo redundante. Isso se dá principalmente pelo fato de ser um site governamental.
+</p>
+
+## 4. Referências
  
-> [1] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação HumanoComputador e Experiência do usuário. Autopublicação. 
+> [1] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação HumanoComputador e Experiência do usuário. Autopublicação.
