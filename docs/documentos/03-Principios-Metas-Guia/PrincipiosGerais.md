@@ -102,3 +102,8 @@ Todas as informações devem ser confiáveis e relevantes, evitando a apresenta�
 ## 4. Referências
  
 > [1] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação HumanoComputador e Experiência do usuário. Autopublicação.
+
+## 5. Histórico de versionamento
+| Data  | Versão | Descrição | Autor | Revisor |
+| :--:  | :----: | :-------: | :---: | :-----: |
+| 10/03 | 1.0.0 | Criação do documento de principios gerais | [Antonio Igor](https://github.com/antonioigorcarvalho) e [Valderson Pontes](https://github.com/valdersonjr) | [Eliseu Kadesh](https://github.com/eliseukadesh67) e [Erick Levy](https://github.com/ericklevy) |

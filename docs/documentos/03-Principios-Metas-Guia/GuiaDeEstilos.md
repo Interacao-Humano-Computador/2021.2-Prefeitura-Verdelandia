@@ -459,5 +459,5 @@
  
 | Data  | Versão |                Descrição                |                                                Autor                                                | Revisor |
 | :---: | :----: | :-------------------------------------: | :-------------------------------------------------------------------------------------------------: | :-----: |
-| 10/03 | 1.0.0  | Criação do documento de Guia de Estilos | [Douglas Monteles](https://github.com/DouglasMonteles) e [Erick Levy](https://github.com/ErickLevy) |         |
-| 12/03 | 1.0.1  | Alterando a posição das legendas das figuras e adicionando a fonte | [Douglas Monteles](https://github.com/DouglasMonteles) e [Erick Levy](https://github.com/ErickLevy) |         |
+| 10/03 | 1.0.0  | Criação do documento de Guia de Estilos | [Douglas Monteles](https://github.com/DouglasMonteles) e [Erick Levy](https://github.com/ErickLevy) | [Antonio Igor](https://github.com/antonioigorcarvalho), [Eliseu Kadesh](https://github.com/eliseukadesh67) e [Rodrigo Carvalho](https://github.com/Rocsantos) |
+| 12/03 | 1.0.1  | Alterando a posição das legendas das figuras e adicionando a fonte | [Douglas Monteles](https://github.com/DouglasMonteles) e [Erick Levy](https://github.com/ErickLevy) | [Antonio Igor](https://github.com/antonioigorcarvalho), [Eliseu Kadesh](https://github.com/eliseukadesh67) e [Rodrigo Carvalho](https://github.com/Rocsantos) |
