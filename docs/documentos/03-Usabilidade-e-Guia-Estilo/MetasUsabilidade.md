@@ -3,7 +3,7 @@
 <p align="justify">
 As metas de usabilidade definem os fatores de qualidade de uso que serão priorizados no projeto, como serão avaliados ao longo do processo de design, e quais faixas de valores são inaceitáveis, aceitáveis e ideais para cada indicador de interesse.
  
-E segundo Mayhew (1999), as metas de usabilidade costumam ser representadas em “guias de estilos” para auxiliar sua verificação durante as demais atividades do processo.
+E segundo Mayhew (1999), as metas de usabilidade [metas de usabilidade](https://interacao-humano-computador.github.io/2021.2-Prefeitura-Verdelandia/documentos/03-Usabilidade-e-Guia-Estilo/MetasUsabilidade/) costumam ser representadas em “guias de estilos” para auxiliar sua verificação durante as demais atividades do processo.
 </p>
  
 ## 2. Metas de usabilidade
