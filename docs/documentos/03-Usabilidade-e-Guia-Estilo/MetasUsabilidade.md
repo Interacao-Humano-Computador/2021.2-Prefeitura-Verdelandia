@@ -112,6 +112,6 @@ Tendo sido definidas as metas de usabilidade para o projeto, temos uma base mais
 ## 6. Histórico de versionamento
 | Data  | Versão | Descrição | Autor | Revisor |
 | :--:  | :----: | :-------: | :---: | :-----: |
-| 10/03 | 1.0.0 | Criação de Documento Metas de Usabilidade | [Rodrigo Carvalho](https://github.com/Rocsantos) e [Eliseu Kadesh](https://github.com/eliseukadesh67) | [Antonio Igor Carvalho](https://github.com/AntonioIgorCarvalho) |
-| 11/03 | 1.0.1 | Corrigindo Formatação de Texto | [Rodrigo Carvalho](https://github.com/Rocsantos) | [Antonio Igor Carvalho](https://github.com/AntonioIgorCarvalho) |
-| 11/03 | 1.1.0 | Adição da conclusão | [Eliseu Kadesh](https://github.com/eliseukadesh67) | [Antonio Igor Carvalho](https://github.com/AntonioIgorCarvalho) |
+| 10/03 | 1.0.0 | Criação de Documento Metas de Usabilidade | [Rodrigo Carvalho](https://github.com/Rocsantos) e [Eliseu Kadesh](https://github.com/eliseukadesh67) | [Antonio Igor Carvalho](https://github.com/AntonioIgorCarvalho) e [Douglas Monteles](https://github.com/DouglasMonteles) |
+| 11/03 | 1.0.1 | Corrigindo Formatação de Texto | [Rodrigo Carvalho](https://github.com/Rocsantos) | [Antonio Igor Carvalho](https://github.com/AntonioIgorCarvalho) e [Douglas Monteles](https://github.com/DouglasMonteles) |
+| 11/03 | 1.1.0 | Adição da conclusão | [Eliseu Kadesh](https://github.com/eliseukadesh67) | [Antonio Igor Carvalho](https://github.com/AntonioIgorCarvalho) e [Douglas Monteles](https://github.com/DouglasMonteles) |
