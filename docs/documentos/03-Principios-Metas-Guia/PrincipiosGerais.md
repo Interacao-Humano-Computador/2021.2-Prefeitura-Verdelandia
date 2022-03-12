@@ -1,6 +1,6 @@
 ## 1. Introdução
 <p align="justify">
-Em IHC temos diversos princípios e diretrizes que atuam como caminhos a serem seguidos, em detrimento de projetar-se um projeto utilizando um modelo conceitual que permite ao usuário aprender rapidamente e sem difculdade. Vale ressaltar que princípios são escopos gerais e de alto nível, enquanto diretrizes representam regras gerais observadas na prática.
+Em IHC temos diversos princípios e diretrizes que atuam como caminhos a serem seguidos, em detrimento de projetar-se um projeto utilizando um modelo conceitual que permite ao usuário aprender rapidamente e sem dificuldade. Vale ressaltar que princípios são escopos gerais e de alto nível, enquanto as diretrizes representam regras gerais observadas na prática.
 </p>
 <p align="justify">
 Os princícios e diretrizes utilizados em IHC se baseiam nos seguintes tópicos:
