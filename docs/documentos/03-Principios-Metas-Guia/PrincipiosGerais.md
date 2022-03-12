@@ -65,9 +65,7 @@ que o sistema tem a oferecer com facilidade.
 
 ### 2.8 Conteúdo relevante e expressão adequada
 <p align="justify">
-Informação oferecida não deve conter conteúdo irrelevante ou de precedência
-duvidosa, e tudo quer for apresentado deve ter uma relação clara com os tópicos
-apresentados anteriormente.
+A informação oferecida não deve conter conteúdo irrelevante ou de procedência duvidosa, e tudo que for apresentado deve ter uma relação clara com os tópicos apresentados anteriormente.
 </p>
 
 ### 2.9 Projeto para erros
