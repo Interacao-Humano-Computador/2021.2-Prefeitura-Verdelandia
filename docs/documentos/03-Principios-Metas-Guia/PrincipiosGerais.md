@@ -96,7 +96,7 @@ Limitar o usuário para que as tarefas sejam diretas e lineares, para que o usu�
 
 ### 3.4 Conteúdo relevante e expressão adequada
 <p align="justify">
-Todas as informações devem ser confiáveis e relevantes, evitando a apresentação de informações desnecessárias e conteúdo redundante. Isso se dá principalmente pelo fato de ser um site governamental.
+É necessário deixar bem claro o que pode ser feito, para que o usuário ache aquilo que está buscando com facilidade, caso não encontre ele terá confiança de que oque procura não será encontrado no site.
 </p>
 
 ## 4. Referências
