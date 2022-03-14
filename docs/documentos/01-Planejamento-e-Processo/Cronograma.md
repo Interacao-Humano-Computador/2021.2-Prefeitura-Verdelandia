@@ -52,6 +52,18 @@ O objetivo do cronograma do projeto é prover uma visualização rápida da divi
   Tabela 3 - Tarefas da Sprint 2
 </center>
 
+### 3.3 Sprint 3
+| Tarefas         | Responsável | Revisor   | Entrega Limite |
+| :-----:         | :---------: | :-----:   | :--------------: |
+| Criação do documento de princípios gerais de projeto  | [Antonio Igor](https://github.com/antonioigorcarvalho) e [Valderson Pontes](https://github.com/valdersonjr) | [Erick Levy](https://github.com/ericklevy) e [Eliseu Kadesh](https://github.com/eliseukadesh67) | 11/03 |
+| Criação do documento de metas de usabilidade  | [Eliseu Kadesh](https://github.com/eliseukadesh67) e [Rodrigo Carvalho](https://github.com/Rocsantos) | [Antonio Igor](https://github.com/antonioigorcarvalho) e [Douglas Monteles](https://github.com/douglasmonteles) | 11/03 |
+| Criação do documento de guia de estilo | [Erick Levy](https://github.com/ericklevy) e [Douglas Monteles](https://github.com/douglasmonteles) | [Antonio Igor](https://github.com/antonioigorcarvalho), [Eliseu Kadesh](https://github.com/eliseukadesh67) e [Rodrigo Carvalho](https://github.com/Rocsantos) | 11/03 |
+| Gravação da apresentação 3 | Todos | Todos | 12/03 |
+
+<center>
+  Tabela 4 - Tarefas da Sprint 3
+</center>
+
 ## 4. Histórico de versionamento
 
 | Data  | Versão | Descrição | Autor | Revisor |
@@ -59,3 +71,5 @@ O objetivo do cronograma do projeto é prover uma visualização rápida da divi
 | 09/02 | 1.0.0  | Criação do cronograma                     | [Antonio Igor](https://github.com/antonioigorcarvalho) | [Valderson Pontes](https://github.com/valdersonjr)
 | 10/02 | 1.0.1  | Alteração no formato do cronograma        | [Antonio Igor](https://github.com/antonioigorcarvalho) | [Valderson Pontes](https://github.com/valdersonjr)
 | 19/02 | 1.0.2  | Adição do tópico de objetivo ao documento | [Antonio Igor](https://github.com/antonioigorcarvalho) | [Eliseu Kadesh](https://github.com/eliseukadesh67)
+| 27/02 | 1.2.0  | Adição da tabela de sprint 2 | [Antonio Igor](https://github.com/antonioigorcarvalho) | [Erick Levy](https://github.com/ericklevy) e [Eliseu Kadesh](https://github.com/eliseukadesh67)
+| 14/03 | 1.3.0  | Adição da tabela de sprint 3 | [Antonio Igor](https://github.com/antonioigorcarvalho) | [Erick Levy](https://github.com/ericklevy) e [Eliseu Kadesh](https://github.com/eliseukadesh67)
