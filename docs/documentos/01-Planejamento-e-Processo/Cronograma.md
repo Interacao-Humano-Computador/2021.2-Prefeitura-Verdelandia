@@ -71,5 +71,5 @@ O objetivo do cronograma do projeto é prover uma visualização rápida da divi
 | 09/02 | 1.0.0  | Criação do cronograma                     | [Antonio Igor](https://github.com/antonioigorcarvalho) | [Valderson Pontes](https://github.com/valdersonjr)
 | 10/02 | 1.0.1  | Alteração no formato do cronograma        | [Antonio Igor](https://github.com/antonioigorcarvalho) | [Valderson Pontes](https://github.com/valdersonjr)
 | 19/02 | 1.0.2  | Adição do tópico de objetivo ao documento | [Antonio Igor](https://github.com/antonioigorcarvalho) | [Eliseu Kadesh](https://github.com/eliseukadesh67)
-| 27/02 | 1.2.0  | Adição da tabela de sprint 2 | [Antonio Igor](https://github.com/antonioigorcarvalho) | -
-| 14/03 | 1.3.0  | Adição da tabela de sprint 3 | [Antonio Igor](https://github.com/antonioigorcarvalho) | -
+| 27/02 | 1.2.0  | Adição da tabela de sprint 2 | [Antonio Igor](https://github.com/antonioigorcarvalho) | [Erick Levy](https://github.com/ericklevy)
+| 14/03 | 1.3.0  | Adição da tabela de sprint 3 | [Antonio Igor](https://github.com/antonioigorcarvalho) | [Erick Levy](https://github.com/ericklevy)
