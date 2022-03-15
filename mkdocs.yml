@@ -33,6 +33,10 @@ nav:
     - Metas de Usabilidade: documentos/03-Principios-Metas-Guia/MetasUsabilidade.md
     - Guia de Estilos: documentos/03-Principios-Metas-Guia/GuiaDeEstilos.md
     
+  - IV. Design, Avaliação e Desenvolvimento:
+    - Nível 1:
+        - Planejamento do Storyboard: documentos/04-Design-Avaliacao-Desenvolvimento/nivel1/PlanejamentoStoryboard.md
+
   - Apresentações:
       - Ponto de controle 1: documentos/Apresentações/Apresentacao_PC1.md
       - Ponto de controle 2: documentos/Apresentações/Apresentacao_PC2.md
