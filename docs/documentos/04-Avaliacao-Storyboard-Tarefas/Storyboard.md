@@ -19,9 +19,33 @@ A partir da análise das do documento de Análise Hierárquica de Tarefas (AHT) 
 
 ## 3. Storyboards
 
-## 3.1 Acompanhar o agendamento de consultas (SUS)
+### 3.1 Acompanhar o agendamento de consultas (SUS)
 
-## 3.2 Entrar em contato com a ouvidoria de Verdelândia
+<figure>
+  <figcaption>
+    Figura 1: Storyboard acompanhar agendamento de consultas (SUS)
+  </figcaption>
+  <img 
+    src="../../../assets/storyboards/storyboard1.png" alt="storyboard-agendamento" 
+  />
+  <figcaption>
+    Fonte: Dos autores
+  </figcaption>
+</figure>
+
+### 3.2 Entrar em contato com a ouvidoria de Verdelândia
+
+<figure>
+  <figcaption>
+    Figura 2: Storyboard entrar em contato com a ouvidoria de Verdelândia
+  </figcaption>
+  <img 
+    src="../../../assets/storyboards/storyboard2.png" alt="storyboard-contato" 
+  />
+  <figcaption>
+    Fonte: Dos autores
+  </figcaption>
+</figure>
 
 ## 4. Conclusão
 
