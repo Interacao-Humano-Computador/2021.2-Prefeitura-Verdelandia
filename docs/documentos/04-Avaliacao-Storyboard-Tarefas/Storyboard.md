@@ -33,7 +33,7 @@ As ferramentas utilizadas para elaborar os storyboards foram:
 | Camila Gomes Ribeiro | 83 | Professora aposentada | Deseja acessar o site da Prefeitura de Verdelândia e acompanhar o agendamento de sua consulta | Ela espera ver de forma fácil, objetiva e resumida como está o agendamento de sua consulta |
 
 <p align="justify">
-Camila Gomes é uma professora aposentada, após sentir dores em seu abdômen ela decidiu agendar uma consultar pelo SUS, após solicitar uma consulta e receber um número de protocolo da secretaria da saúde de seu município ela foi orientada a acompanhar o agendamento pelo site da Prefeitura de Verdelândia, como possui um computador em sua casa ela decide realizar o procedimento.
+Camila Gomes é uma professora aposentada, após sentir dores em seu abdômen ela decidiu agendar uma consulta pelo SUS, após solicitar uma consulta e receber um número de protocolo da secretaria da saúde de seu município ela foi orientada a acompanhar o agendamento pelo site da Prefeitura de Verdelândia, como possui um computador em sua casa ela decide realizar o procedimento.
 </p>
 
 <center>
@@ -57,7 +57,7 @@ Camila Gomes é uma professora aposentada, após sentir dores em seu abdômen el
 | Lara Barros Cavalcanti | 27 | Dona de casa | Deseja acessar o site da Prefeitura de Verdelândia para reportar um problema de infraestrutura | Contatar a Prefeitura de Verdelândia |
 
 <p align="justify">
-Lara Barros é uma dona de casa, as vezes no período da tarde ela gosta de passear pela cidade, durante uma das suas caminhadas ela encontra um grande buraco no asfalto de sua rua, ela pega seu celular e decide entrar no site da Prefeitura de Verdelândia para informar sobre o problema de insfraestrutura.
+Lara Barros é uma dona de casa, às vezes no período da tarde ela gosta de passear pela cidade, durante uma das suas caminhadas ela encontra um grande buraco no asfalto de sua rua, ela pega seu celular e decide entrar no site da Prefeitura de Verdelândia para informar sobre o problema de infraestrutura.
 </p>
 
 <center>
@@ -87,6 +87,7 @@ Então concluímos que a partir desse documento podemos ter uma visão mais comp
  
 | Data  | Versão | Descrição | Autor | Revisor |
 | :--:  | :----: | :-------: | :---: | :-----: |
-| 14/03 | 1.0.0 | Criação do documento de storyboard | [Antonio Igor](https://github.com/antonioigorcarvalho) e [Valderson Pontes](https://github.com/valdersonjr) | - |
-| 15/03 | 1.0.1 | Inclusão das personas nos storyboards | [Antonio Igor](https://github.com/antonioigorcarvalho) e [Valderson Pontes](https://github.com/valdersonjr) | - |
-| 16/03 | 1.0.2 | Inclusão da conclusão | [Antonio Igor](https://github.com/antonioigorcarvalho) e [Valderson Pontes](https://github.com/valdersonjr) | - |
+| 14/03 | 1.0.0 | Criação do documento de storyboard | [Antonio Igor](https://github.com/antonioigorcarvalho) e [Valderson Pontes](https://github.com/valdersonjr) | [Eliseu Kadesh](https://github.com/eliseukadesh67) |
+| 15/03 | 1.0.1 | Inclusão das personas nos storyboards | [Antonio Igor](https://github.com/antonioigorcarvalho) e [Valderson Pontes](https://github.com/valdersonjr) | [Eliseu Kadesh](https://github.com/eliseukadesh67) |
+| 16/03 | 1.0.2 | Inclusão da conclusão | [Antonio Igor](https://github.com/antonioigorcarvalho) e [Valderson Pontes](https://github.com/valdersonjr) | [Eliseu Kadesh](https://github.com/eliseukadesh67) |
+| 16/03 | 1.0.3 | Correção de erros de ortografia | [Eliseu Kadesh](https://github.com/eliseukadesh67) | - |
