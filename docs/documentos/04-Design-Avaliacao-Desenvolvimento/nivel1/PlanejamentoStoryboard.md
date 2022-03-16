@@ -158,6 +158,7 @@
 ## Referências
  
 > BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador, Rio de Janeiro, 2021.
+> 
 > BENYON, David . Interação Humano Computador. 2° edição, São Paulo, 2011.
 
 ## Histórico de versionamento
