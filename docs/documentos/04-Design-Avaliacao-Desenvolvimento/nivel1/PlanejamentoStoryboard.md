@@ -2,9 +2,23 @@
 
 ## 1. Introdução
 
+<p align="justify">
+  Storyboard é uma técnica proveniente do cinema usando uma estrutura no estilo de desenho. A vantagem do storyboard é que ele permite uma percepção do fluxo de experiência do projeto. É também uma opção muito econômica para representar o design.
+  Portanto com isso, juntamente com o usuário do sistema na elaboração dos storyboards são feitas avaliações e validações, porque assim é possível verificar o alinhamento e a tomada de decisões do designer.
+</p>
+
 ## 2. Objetivo
 
+<p align="justify">
+  O objetivo deste documento é planejar a avaliação  do storyboard criado a partir da metodologia e as tarefas usadas neste documento para melhorar as decisões do designer de acordo com o andar do projeto.
+</p
+
 ## 3. Metodologia
+
+<p align="justify">
+  A metodologia selecionada após a análise das personas e a criação do storyboard foi a entrevista que usa perguntas elaboradas antecipadamente e segue um roteiro com exatidão.
+  Entrevistas completamente não estruturadas são usadas às vezes quando é  particularmente importante minimizar as pré- concepções do designer ou quando muito pouca informação dos antecedentes está disponível(BENYON, David . Interação Humano Computador).Com o uso desse método podemos compreender melhor os usuários.
+</p
 
 ## 4. Planejamento da avaliação
 
@@ -145,6 +159,7 @@
 ## Referências
  
 > BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador, Rio de Janeiro, 2021.
+> BENYON, David . Interação Humano Computador. 2° edição, São Paulo, 2011.
 
 ## Histórico de versionamento
  
