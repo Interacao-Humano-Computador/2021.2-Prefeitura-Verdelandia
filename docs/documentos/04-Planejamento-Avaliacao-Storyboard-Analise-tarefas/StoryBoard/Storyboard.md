@@ -44,7 +44,7 @@ Camila Gomes é uma professora aposentada, após sentir dores em seu abdômen el
     Figura 1: Storyboard acompanhar agendamento de consultas (SUS)
   </figcaption>
   <img 
-    src="../../../assets/storyboards/storyboard1.png" alt="storyboard-agendamento" 
+    src="../../../../assets/storyboards/storyboard1.png" alt="storyboard-agendamento" 
   />
   <figcaption>
     Fonte: Dos autores
@@ -68,7 +68,7 @@ Lara Barros é uma dona de casa. Às vezes no período da tarde ela gosta de pas
     Figura 2: Storyboard entrar em contato com a ouvidoria de Verdelândia
   </figcaption>
   <img 
-    src="../../../assets/storyboards/storyboard2.png" alt="storyboard-contato" 
+    src="../../../../assets/storyboards/storyboard2.png" alt="storyboard-contato" 
   />
   <figcaption>
     Fonte: Dos autores

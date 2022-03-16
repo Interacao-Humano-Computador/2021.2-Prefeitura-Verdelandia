@@ -32,14 +32,13 @@ nav:
     - Principios Gerais: documentos/03-Principios-Metas-Guia/PrincipiosGerais.md
     - Metas de Usabilidade: documentos/03-Principios-Metas-Guia/MetasUsabilidade.md
     - Guia de Estilos: documentos/03-Principios-Metas-Guia/GuiaDeEstilos.md
-
-  - IV. Avaliação Storyboard e Análise de Tarefas:
-    - Planejamento de Análise de Tarefas: documentos/04-Avaliacao-Storyboard-Tarefas/PlanejamentoAnaliseTarefas.md
-    - Storyboard: documentos/04-Avaliacao-Storyboard-Tarefas/Storyboard.md
     
-  - IV. Design, Avaliação e Desenvolvimento:
-    - Nível 1:
-        - Planejamento da Avaliação do Storyboard: documentos/04-Design-Avaliacao-Desenvolvimento/nivel1/PlanejamentoAvaliacaoStoryboard.md
+  - IV. Planejamento da Avaliação do Storyboard e Análise de tarefas:
+    - Análise de Tarefas:
+      - Planejamento de Análise de Tarefas: documentos/04-Planejamento-Avaliacao-Storyboard-Analise-tarefas/AnaliseTarefas/PlanejamentoAnaliseTarefas.md
+    - Storyboard:
+      - Storyboard: documentos/04-Planejamento-Avaliacao-Storyboard-Analise-tarefas/StoryBoard/Storyboard.md
+      - Planejamento da Avaliação do Storyboard: documentos/04-Planejamento-Avaliacao-Storyboard-Analise-tarefas/StoryBoard/PlanejamentoAvaliacaoStoryboard.md
 
   - Apresentações:
     - Ponto de controle 1: documentos/Apresentações/Apresentacao_PC1.md

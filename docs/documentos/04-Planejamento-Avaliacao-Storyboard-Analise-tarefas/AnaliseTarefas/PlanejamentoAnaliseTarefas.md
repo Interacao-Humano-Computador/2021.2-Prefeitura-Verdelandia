@@ -21,7 +21,7 @@ Coleta de Dados | <ul>Observar e registrar a performance e a opinião dos partic
 Interpretação<br>Consolidação dos Resultados | <ul>Reunir, Contabilizar e Sumarizar os dados coletados dos participantes</ul>
 Relato dos Resultados | <ul>Relatar a performance e opinião dos participantes</ul>
 
-<p align="right"><b>
+<p align="center"><b>
 Fonte: [1] - Tabela 12.4.
 </b></p>
 
