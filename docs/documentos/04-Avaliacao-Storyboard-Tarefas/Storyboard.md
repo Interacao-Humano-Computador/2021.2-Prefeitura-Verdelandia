@@ -89,3 +89,4 @@ Então concluímos que a partir desse documento podemos ter uma visão mais comp
 | :--:  | :----: | :-------: | :---: | :-----: |
 | 14/03 | 1.0.0 | Criação do documento de storyboard | [Antonio Igor](https://github.com/antonioigorcarvalho) e [Valderson Pontes](https://github.com/valdersonjr) | - |
 | 15/03 | 1.0.1 | Inclusão das personas nos storyboards | [Antonio Igor](https://github.com/antonioigorcarvalho) e [Valderson Pontes](https://github.com/valdersonjr) | - |
+| 16/03 | 1.0.2 | Inclusão da conclusão | [Antonio Igor](https://github.com/antonioigorcarvalho) e [Valderson Pontes](https://github.com/valdersonjr) | - |
