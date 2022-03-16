@@ -14,7 +14,7 @@
   Na avaliação do storyboard, serão abordadas algumas questões acerca de cada storyboards produzido, cujo objetivo é identificar se o entrevistado está de fato inserido na realidade retratada nos storyboards e se ele tem algo a acrescentar ou algum ponto de vista (susgestão, crítica, alteração) que gostaria de compartilhar.
 </p>
 
-## 4.3 Elaboração do roteiro de perguntas
+## 4.2 Elaboração do roteiro de perguntas
 
 <p align="justify">
   Optamos por conduzir uma entrevista semiestruturada, nessas entrevistas: O roteiro é composto dos tópicos ou perguntas (geralmente abertas) que devem ser endereçados na entrevista, em uma ordem lógica. O entrevistador tem liberdade para explorar em maior profundidade as respostas fornecidas pelo entrevistado e até mesmo modificar a ordem dos tópicos bordados, mas deve manter o foco nos objetivos da entrevista (Barbosa, 2021).
@@ -116,6 +116,19 @@
   </table>
   <figcaption>Figura 1: Questões da entrevista</figcaption>
 </figure>
+
+## 4.3 Aplicação da Avaliação
+
+<p align="justify">
+  Para a entrevista, optou-se por realiza-la através do Microsoft Teams, tendo em vista a simplicidade e o alcançe dessa plataforma. Na data combinada para a realização da entrevista, cada participante deve receber um link para a videoconferencia, com pelo menos 10 minutos de antecedência, e o tempo total da entrevista não pode superar os 30 minutos, para que não haja esgotamento do entrevistado e consequente perca de qualidade nas respostas obtidas. Os próximos passos estão descritos abaixo:
+</p>
+
+- No inicio da entrevista, explique ao entrevistado sobre o assunto que será tratado e como ocorrerá a avaliação.
+- Antes de começar com as perguntas, deixe o entrevistado a par do Termo de Compromisso, e se ele está de acordo com os termos, caso não esteja, a entrevista deve ser encerrada neste ponto.
+- Neste momento, inicie a gravação e siga com o roteiro de questões presente na Figura 1.
+- Ao final, agradeça ao entrevistado pela contribuição e finalize a gravação da videoconferencia.
+
+**Importante:** Sempre que achar necessário, anote algum ponto ou observação que possa ter surgido ao longo da entrevista e que possa vir a contribuir futuramente para o projeto.
 
 ## Referências
  
