@@ -4,7 +4,23 @@
 
 ## 2. Objetivo
 
-## 3. Resultados
+## 3. Metodologia
+
+## 4. Detalhes da avaliação
+
+## 4.1 Definição das tarefas
+
+## 4.2 Critérios de recrutamento de participantes
+
+### 4.2.1 Termo de consentimento
+
+## 4.3 Elaboração do reteiro de perguntas
+
+## 4.4 Aplicação da Avaliação
+
+## 4.5 Conclusão da avaliação
+
+## 5. Resultados
 
 ## Referências
  
