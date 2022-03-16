@@ -16,7 +16,7 @@
 ## 3. Metodologia
 
 <p align="justify">
-  A metodologia selecionada após a análise das personas e a criação do storyboard foi a entrevista que usa perguntas elaboradas antecipadamente e segue um roteiro com exatidão. Entrevistas completamente não estruturadas são usadas às vezes quando é  particularmente importante minimizar as pré- concepções do designer ou quando muito pouca informação dos antecedentes está disponível(BENYON, David . Interação Humano Computador).Com o uso desse método podemos compreender melhor os usuários.
+  A metodologia selecionada após a análise das personas e a criação do storyboard foi a entrevista que usa perguntas elaboradas antecipadamente e segue um roteiro com exatidão. Entrevistas completamente não estruturadas são usadas às vezes quando é  particularmente importante minimizar as pré-concepções do designer ou quando muito pouca informação dos antecedentes está disponível(BENYON, David . Interação Humano Computador).Com o uso desse método podemos compreender melhor os usuários.
 </p>
 
 ## 4. Planejamento da avaliação
@@ -24,7 +24,7 @@
 ## 4.1 Definição das tarefas
 
 <p align="justify">
-  Na avaliação do storyboard, serão abordadas algumas questões acerca de cada storyboards produzido, cujo objetivo é identificar se o entrevistado está de fato inserido na realidade retratada nos storyboards e se ele tem algo a acrescentar ou algum ponto de vista (susgestão, crítica, alteração) que gostaria de compartilhar.
+  Na avaliação do storyboard, serão abordadas algumas questões acerca de cada storyboards produzido, cujo objetivo é identificar se o entrevistado está de fato inserido na realidade retratada nos storyboards e se ele tem algo a acrescentar ou algum ponto de vista (sugestão, crítica, alteração) que gostaria de compartilhar.
 </p>
 
 ## 4.2 Elaboração do roteiro de perguntas
@@ -155,15 +155,15 @@
   A criação deste documento visa servir de base para o avaliador da entrevista se orientar a certa de como proceder frente as entrevistas e de como lidar com os entrevistados, a fim de obter o máximo proveito destas entrevistas para avaliação dos storyboards.
 </p>
 
-## Referências
+## 6. Referências
  
 > BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador, Rio de Janeiro, 2021.
 > 
 > BENYON, David . Interação Humano Computador. 2° edição, São Paulo, 2011.
 
-## Histórico de versionamento
+## 7. Histórico de versionamento
  
 | Data  | Versão | Descrição | Autor | Revisor |
 | :---: | :----: | :-------: | :---: | :-----: |
-| 15/03 | 1.0.0  | Criação do documento de Planejamento do Storyboard | [Douglas Monteles](https://github.com/DouglasMonteles) e [Erick Levy](https://github.com/ErickLevy) | a definir |
-| 15/03 | 1.1.0  | Desenvolvimento do tópico de planejamento da avaliação | [Douglas Monteles](https://github.com/DouglasMonteles) | a definir |
+| 15/03 | 1.0.0  | Criação do documento de Planejamento do Storyboard | [Douglas Monteles](https://github.com/DouglasMonteles) e [Erick Levy](https://github.com/ErickLevy) | [Antonio Igor](https://github.com/antonioigorcarvalho) |
+| 15/03 | 1.1.0  | Desenvolvimento do tópico de planejamento da avaliação | [Douglas Monteles](https://github.com/DouglasMonteles) | [Antonio Igor](https://github.com/antonioigorcarvalho) |
