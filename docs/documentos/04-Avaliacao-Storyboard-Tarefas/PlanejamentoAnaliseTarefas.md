@@ -1,12 +1,10 @@
 # Planejamento de Análise de Tarefas
 
-## Introdução
+## 1. Introdução
 
-<p align="justify">
-O objetivo da Avaliação da Análise de Tarefas é validar os processos e documentos feitos na etapa da Análise de Tarefas, verificando se os usuários e suas ações foram identificadas corretamente e se o perfil das personas corresponde ao perfil de usuário ideal para a análise do site da Prefeitura de Verdelândia e suas funcionalidades.
-</p>
+O objetivo da Avaliação da Análise de Tarefas é validar os processos e documentos feitos na etapa da [Análise de Tarefas](../02-Perfil-Persona-Analise/AnaliseTarefas.md), verificando se os usuários e suas ações foram identificadas corretamente e se o perfil das [personas](../02-Perfil-Persona-Analise/Personas.md) corresponde ao [perfil de usuário](../02-Perfil-Persona-Analise/PerfilUsuario.md) ideal para a análise do site da Prefeitura de Verdelândia e suas funcionalidades.
 
-## Metodologia
+## 2. Metodologia
 
 <p align="justify">
 A metodologia escolhida para realizar a avaliação de análise de tarefas, será o teste de usabilidade. O teste de usabilidade visa a avaliar a usabilidade de um sistema interativo a partir de experiências de uso dos seus usuários-alvo (Rubin, 1994; Rubin e Chisnell, 2008).
@@ -28,11 +26,12 @@ Fonte: [1] - Tabela 12.4.
 </b></p>
 
 
-<p align="justify">
-Após coleta de dados o participante será submetido a uma entrevista, a qual será dirigida com um entrevistador e uma pessoa. Cada pessoa entrevistada realizará o papel de uma das personas definidas anteriormente no projeto e responderão um questionário sobre a experiência do participante com o site.<br>
+Após a coleta de dados o participante será submetido a uma entrevista, a qual será dirigida com um entrevistador e uma pessoa. Cada pessoa entrevistada realizará o papel de uma das [personas](../02-Perfil-Persona-Analise/Personas.md) definidas anteriormente no projeto e responderão um questionário sobre a experiência do participante com o site.
 
-O relato dos resultados abrangerá o objetivo do planejamento. E os dados desse relatório irão expor as qualidades e os defeitos encontrados ao longo da Avaliação, e se é necessário uma modificação na Análise de Tarefas e/ou na definição do Perfil de Usuário. E com isso decidir se poderemos prosseguir para as próximas etapas do ciclo de vida da Mayhew.
-</p>
+
+## 3. Conclusão
+
+Ao final da avaliação, teremos o relato dos resultados, que abrangerá o objetivo do planejamento. E os dados desse relatório irão expor as qualidades e os defeitos encontrados ao longo da Avaliação, e se é necessário uma modificação na [Análise de Tarefas](../02-Perfil-Persona-Analise/AnaliseHierarquica.md) e/ou na definição das [personas](../02-Perfil-Persona-Analise/Personas.md). E com isso decidir se poderemos prosseguir para as próximas etapas do ciclo de vida da Mayhew.
  
 ## Referências
 
@@ -45,3 +44,4 @@ O relato dos resultados abrangerá o objetivo do planejamento. E os dados desse 
 | Data  | Versão | Descrição | Autor | Revisor |
 | :--:  | :----: | :-------: | :---: | :-----: |
 | 16/03 | 1.0.0 | Criação do Documento Planejamento da Análise de Tarefas | [Eliseu Kadesh](https://github.com/eliseukadesh67) e [Rodrigo Carvalho](https://github.com/Rocsantos) | A Definir
+| 16/03 | 1.1.0 | Ajuste nos tópicos e adição de links para outros documentos | [Eliseu Kadesh](https://github.com/eliseukadesh67) | A Definir
