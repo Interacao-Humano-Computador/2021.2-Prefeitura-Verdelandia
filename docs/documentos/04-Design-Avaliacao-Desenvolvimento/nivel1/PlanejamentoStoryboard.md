@@ -130,6 +130,12 @@
 
 **Importante:** Sempre que achar necessário, anote algum ponto ou observação que possa ter surgido ao longo da entrevista e que possa vir a contribuir futuramente para o projeto.
 
+## 4.4 Conclusão da avaliação
+
+<p align="justify">
+  Dada a conclusão de cada entrevista programada, cabe ao avaliador elaborar um relatório com os resultados da entrevista, onde este deve conter: os pontos apontados pelo entrevistado, tanto positivos quanto negativos, sugestões de melhorias, link da gravação da entrevista e o que mais o avaliador achar pertinente.
+</p>
+
 ## Referências
  
 > BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador, Rio de Janeiro, 2021.
