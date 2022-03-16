@@ -11,14 +11,13 @@
 
 <p align="justify">
   O objetivo deste documento é planejar a avaliação  do storyboard criado a partir da metodologia e as tarefas usadas neste documento para melhorar as decisões do designer de acordo com o andar do projeto.
-</p
+</p>
 
 ## 3. Metodologia
 
 <p align="justify">
-  A metodologia selecionada após a análise das personas e a criação do storyboard foi a entrevista que usa perguntas elaboradas antecipadamente e segue um roteiro com exatidão.
-  Entrevistas completamente não estruturadas são usadas às vezes quando é  particularmente importante minimizar as pré- concepções do designer ou quando muito pouca informação dos antecedentes está disponível(BENYON, David . Interação Humano Computador).Com o uso desse método podemos compreender melhor os usuários.
-</p
+  A metodologia selecionada após a análise das personas e a criação do storyboard foi a entrevista que usa perguntas elaboradas antecipadamente e segue um roteiro com exatidão. Entrevistas completamente não estruturadas são usadas às vezes quando é  particularmente importante minimizar as pré- concepções do designer ou quando muito pouca informação dos antecedentes está disponível(BENYON, David . Interação Humano Computador).Com o uso desse método podemos compreender melhor os usuários.
+</p>
 
 ## 4. Planejamento da avaliação
 
