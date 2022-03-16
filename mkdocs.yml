@@ -32,7 +32,11 @@ nav:
     - Principios Gerais: documentos/03-Principios-Metas-Guia/PrincipiosGerais.md
     - Metas de Usabilidade: documentos/03-Principios-Metas-Guia/MetasUsabilidade.md
     - Guia de Estilos: documentos/03-Principios-Metas-Guia/GuiaDeEstilos.md
+
+  - IV. Avaliação Storyboard e Análise de Tarefas:
+    - Planejamento de Análise de Tarefas: documentos/04-Avaliacao-Storyboard-Tarefas/PlanejamentoAnaliseTarefas.md
     
   - Apresentações:
-      - Ponto de controle 1: documentos/Apresentações/Apresentacao_PC1.md
-      - Ponto de controle 2: documentos/Apresentações/Apresentacao_PC2.md
+    - Ponto de controle 1: documentos/Apresentações/Apresentacao_PC1.md
+    - Ponto de controle 2: documentos/Apresentações/Apresentacao_PC2.md
+    - Ponto de controle 3: documentos/Apresentações/Apresentacao_PC3.md
