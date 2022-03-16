@@ -3,8 +3,7 @@
 ## 1. Introdução
 
 <p align="justify">
-  Storyboard é uma técnica proveniente do cinema usando uma estrutura no estilo de desenho. A vantagem do storyboard é que ele permite uma percepção do fluxo de experiência do projeto. É também uma opção muito econômica para representar o design.
-  Portanto com isso, juntamente com o usuário do sistema na elaboração dos storyboards são feitas avaliações e validações, porque assim é possível verificar o alinhamento e a tomada de decisões do designer.
+  Storyboard é uma técnica proveniente do cinema usando uma estrutura no estilo de desenho. A vantagem do storyboard é que ele permite uma percepção do fluxo de experiência do projeto. É também uma opção muito econômica para representar o design. Com isso, juntamente com o usuário do sistema na elaboração dos storyboards são feitas avaliações e validações, porque assim é possível verificar o alinhamento e a tomada de decisões do designer.
 </p>
 
 ## 2. Objetivo
@@ -16,7 +15,7 @@
 ## 3. Metodologia
 
 <p align="justify">
-  A metodologia selecionada após a análise das personas e a criação do storyboard foi a entrevista que usa perguntas elaboradas antecipadamente e segue um roteiro com exatidão. Entrevistas completamente não estruturadas são usadas às vezes quando é  particularmente importante minimizar as pré-concepções do designer ou quando muito pouca informação dos antecedentes está disponível(BENYON, David . Interação Humano Computador).Com o uso desse método podemos compreender melhor os usuários.
+  A metodologia selecionada após a análise das personas e a criação do storyboard foi a entrevista que usa perguntas elaboradas antecipadamente e segue um roteiro com exatidão. Entrevistas completamente não estruturadas são usadas às vezes quando é  particularmente importante minimizar as pré-concepções do designer ou quando muito pouca informação dos antecedentes está disponível(BENYON, David . Interação Humano Computador). Com o uso desse método podemos compreender melhor os usuários.
 </p>
 
 ## 4. Planejamento da avaliação
@@ -165,5 +164,6 @@
  
 | Data  | Versão | Descrição | Autor | Revisor |
 | :---: | :----: | :-------: | :---: | :-----: |
-| 15/03 | 1.0.0  | Criação do documento de Planejamento do Storyboard | [Douglas Monteles](https://github.com/DouglasMonteles) e [Erick Levy](https://github.com/ErickLevy) | [Antonio Igor](https://github.com/antonioigorcarvalho) |
-| 15/03 | 1.1.0  | Desenvolvimento do tópico de planejamento da avaliação | [Douglas Monteles](https://github.com/DouglasMonteles) | [Antonio Igor](https://github.com/antonioigorcarvalho) |
+| 15/03 | 1.0.0  | Criação do documento de Planejamento do Storyboard | [Douglas Monteles](https://github.com/DouglasMonteles) e [Erick Levy](https://github.com/ErickLevy) | [Antonio Igor](https://github.com/antonioigorcarvalho), [Eliseu Kadesh](https://github.com/eliseukadesh67) e [Valderson Pontes](https://github.com/valdersonjr) |
+| 15/03 | 1.1.0  | Desenvolvimento do tópico de planejamento da avaliação | [Douglas Monteles](https://github.com/DouglasMonteles) | [Antonio Igor](https://github.com/antonioigorcarvalho), [Eliseu Kadesh](https://github.com/eliseukadesh67) e [Valderson Pontes](https://github.com/valdersonjr)  |
+| 16/03 | 1.1.1  | Correção de erros de ortografia e título | [Eliseu Kadesh](https://github.com/eliseukadesh67) e [Valderson Pontes](https://github.com/valdersonjr) | [Antonio Igor](https://github.com/antonioigorcarvalho)  |
