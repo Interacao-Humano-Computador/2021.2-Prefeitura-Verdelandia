@@ -1,4 +1,4 @@
-# Planejamento do Storyboard
+# Planejamento da Avaliação do Storyboard
 
 ## 1. Introdução
 
