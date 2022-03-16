@@ -42,8 +42,8 @@ Além disso personas podem ser divididas em:
 - Sexo: Feminino.
 - Escolaridade: Ensino superior completo.
 - Profissão: Professora aposentada.
-- Objetivo: Deseja acessar o portal de transparência para visualizar os gastos da prefeitura.
-- Expectativa: Ela espera ver de forma fácil, objetiva e resumida os gastos da prefeitura.
+- Objetivo: Deseja acessar o site da Prefeitura de Verdelândia e acompanhar o agendamento de sua consulta.
+- Expectativa: Ela espera ver de forma fácil, objetiva e resumida como está o agendamento de sua consulta.
 - Habilidade: Ensino infantil
 <p align="justify">
 Camila tem 83 anos, viúva, formada em Pedagogia e também já fez diversos cursos para se especializar no ensino infantil, atualmente, é aposentada. Camila mora sozinha em sua fazenda, nas redondezas de Verdelândia, e no final da semana ela gosta de passear no parque.
@@ -85,12 +85,12 @@ Luis tem 29 anos e é casado. Desde pequeno sempre morou em espaços rurais. Atu
 - Sexo: Feminino.
 - Escolaridade: Ensino fundamental completo.
 - Profissão: Dona de casa.
-- Objetivo: Deseja acessar o site da prefeitura para conhecer mais sobre a cidade.
-- Expectativa: Ter informações detalhadas sobre a fundação da cidade e as atuais notícias.
+- Objetivo: Deseja acessar o site da Prefeitura de Verdelândia para reportar um problema de infraestrutura.
+- Expectativa: Contatar a Prefeitura de Verdelândia.
 - Habilidade: Cuidar dos filhos.
 
 <p align="justify">
-Lara tem 27 anos e é uma nova moradora da cidade. Ela é a filha mais velha de seus 4 irmãos, então desde pequena aprendeu a cuidar dos mais novos, atualmente ela é casada e tem três filhas. Ela passa o dia cuidando de sua casa e, ao final da tarde quando a programação da televisão aberta não lhe agrada, ela gosta de ler jornal para ver as notícias.
+Lara tem 27 anos e é uma nova moradora da cidade. Ela é a filha mais velha de seus 4 irmãos, então desde pequena aprendeu a cuidar dos mais novos, atualmente ela é casada e tem três filhas. Ela passa o dia cuidando de sua casa e, ao final da tarde quando a programação da televisão aberta não lhe agrada, ela gosta de passear pela cidade.
 </p>
   
 ## 4. Antipersona
