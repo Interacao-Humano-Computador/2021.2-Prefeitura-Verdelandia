@@ -75,6 +75,9 @@ Lara Barros é uma dona de casa, as vezes no período da tarde ela gosta de pass
 </center>
 
 ## 4. Conclusão
+<p align="justify">
+Então concluímos que a partir desse documento podemos ter uma visão mais completa das tarefas que foram levantadas no documento de Análise Hierárquica de Tarefas (AHT), percebemos pelo storyboard o motivo que levou a persona acessar o site da Prefeitura de Verdelândia, em qual ambiente ela estava, quais os dispositivos disponíveis, tudo de forma resumida e de fácil entendimento.
+</p>
 
 ## 5. Referências
 
