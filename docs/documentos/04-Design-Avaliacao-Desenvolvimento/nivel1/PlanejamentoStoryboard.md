@@ -136,6 +136,12 @@
   Dada a conclusão de cada entrevista programada, cabe ao avaliador elaborar um relatório com os resultados da entrevista, onde este deve conter: os pontos apontados pelo entrevistado, tanto positivos quanto negativos, sugestões de melhorias, link da gravação da entrevista e o que mais o avaliador achar pertinente.
 </p>
 
+## 5. Resultados
+
+<p align="justify">
+  A criação deste documento visa servir de base para o avaliador da entrevista se orientar a certa de como proceder frente as entrevistas e de como lidar com os entrevistados, a fim de obter o máximo proveito destas entrevistas para avaliação dos storyboards.
+</p>
+
 ## Referências
  
 > BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador, Rio de Janeiro, 2021.
