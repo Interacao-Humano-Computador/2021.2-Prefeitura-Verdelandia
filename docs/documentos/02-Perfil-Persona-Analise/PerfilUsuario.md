@@ -90,7 +90,7 @@ Abaixo estão as questões e o seu respectivo resultado após a divulgação do 
   <figcaption>Figura 8: Questão 8</figcaption>
 </figure>
 
-## Conclusão
+## 5. Conclusão
 
 <p style="text-align: justify">
 Em posse dos dados obtidos com a aplicação do questionário, podemos perceber que o público mais assíduo encontra-se na faixa de 18 à 22 anos, ou seja, trata-se de usuários jovens que já completaram o ensino superior ou ainda o  estão cursando e que não possuem dificuldade em utilizar-se da tecnologia.
@@ -100,13 +100,13 @@ Em posse dos dados obtidos com a aplicação do questionário, podemos perceber 
 Além disso, observa-se que a grande maioria dos usuários exigem simplicidade e intuitividade nos sites das prefeituras que acessam ou já precisaram acessar em algum momento. Concomitante a isso, ao menos 38.5% julgaram ter tido uma experiência ruim ao acessar o site de alguma prefeitura. Apesar os inconvenientes, a maioria dos respondentes conseguiram atingir o seu objetivo ao acessar o site, e dentre os principais motivos para acessa-lo estão: Acompanhar as notícias de sua respectiva cidade, obter informações sobre o transporte urbano e matrículas em educação infantil. 
 </p>
 
-## Referências
+## 6. Referências
  
 > [1] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação HumanoComputador e Experiência do usuário. Autopublicação. 
 
 > [2] Vazquez, Carlos E. Engenharia de requisitos software orientado a negocios. Rio de Janeiro. Ed. Abreu’s System, 2016
  
-## Histórico de versionamento
+## 7. Histórico de versionamento
  
 | Data  | Versão | Descrição | Autor | Revisor |
 | :--:  | :----: | :-------: | :---: | :---: |

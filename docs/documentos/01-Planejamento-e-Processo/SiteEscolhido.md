@@ -7,18 +7,17 @@
 </figure>
 
 
-
-##  Introdução
+## 1. Introdução
 <p align="justify"> O site escolhido para ser feito uma avaliação foi o da [Prefeitura de Verdelândia-MG] (http://www.verdelandia.mg.gov.br). O site possui diversas funcionalidades, assim como informar os moradores da cidade sobre todas as notícias da cidade, informações
 sobre serviços, convênios, contatos, portal da transparência entre outros. </p>
 
-## Objetivos
+## 2. Objetivos
 <p align="justify"> Verificar através de perguntas se o site atende às necessidades do usuário.</p>
 
 <p align="justify"> Sendo um site com informações oferecidas pela prefeitura, onde a população irá buscar informações relevantes, é de grande importância que a plataforma tenha
 uma usabilidade e acessibilidade pensada para toda a população. </p>
 
-## Perguntas a serem respondidas
+## 3. Perguntas a serem respondidas
 <p align="justify"> Perguntas que foram selecionadas. </p>
 
 * O link leva para uma página esperada?
@@ -33,13 +32,13 @@ uma usabilidade e acessibilidade pensada para toda a população. </p>
 * Todas as abas do site funcionam?
 
 
-## Método de Avaliação
+## 4. Método de Avaliação
 <p align="justify"> O método escolhido foi o de inspeção, procurando possíveis falhas que o usuário vai encontrar durante a interação. Por meio do método de inspeção foi utilizada a avaliação heurística, de Nielsen. </p>
 
-## Questões Éticas
+## 5. Questões Éticas
 <p align="justify"> As questões éticas serão pautadas futuramente quando estabelecermos contato com o usuário.</p>
 
-## Versionamento
+## 7. Histórico de Versionamento
 
 | Data | Versão | Descrição | Autor | Revisor |
 | - | - | - | - | - |

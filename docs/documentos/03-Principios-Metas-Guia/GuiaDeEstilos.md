@@ -445,7 +445,7 @@
   </figcaption>
 </figure>
 
-## Referências
+## 12. Referências
  
 > BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador, Rio de Janeiro, 2021.
 
@@ -453,7 +453,7 @@
 
 > [2] Mayhew, Deborah J. (1999). The Usability Engineering Lifecycle: A Practitioner’s Handbook for User Interface Design. Morgan Kaufmann, 1st edition edition.
  
-## Histórico de versionamento
+## 13. Histórico de versionamento
  
 | Data  | Versão |                Descrição                |                                                Autor                                                | Revisor |
 | :---: | :----: | :-------------------------------------: | :-------------------------------------------------------------------------------------------------: | :-----: |

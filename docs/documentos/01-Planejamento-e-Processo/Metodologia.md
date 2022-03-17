@@ -56,7 +56,7 @@ A equipe utilizará como meio de comunicação:
 - [Telegram](https://telegram.org/) para comunicação rapida e mais efetiva, podendo até ser feita as Dailys utilizando esse meio;
 - O aplicativo [Discord](https://discord.com/) para reuniões, e discussões mais longas;
  
-## Referências
+## 6. Referências
  
 > SCRUM, Metodologia Ágil. Disponível em: <https://www.scrum.org/>
 
@@ -64,7 +64,7 @@ A equipe utilizará como meio de comunicação:
 
 > Extreme Programming (XP). Disponível em <http://www.extremeprogramming.org/>
  
-## Histórico de versionamento
+## 7. Histórico de versionamento
  
 | Data  | Versão | Descrição | Autor | Revisor |
 | :--:  | :----: | :-------: | :---: | :-----: |

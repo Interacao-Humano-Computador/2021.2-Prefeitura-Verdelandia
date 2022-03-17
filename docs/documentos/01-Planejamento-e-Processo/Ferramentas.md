@@ -21,7 +21,7 @@ Levantamento de todas as ferramentas que serão utilizadas para o desenvolviment
   Tabela 1: Ferramentas utilizadas no projeto
 </center>
 
-## Referências
+## 2. Referências
 
 > **Git, 2022**. Disponível em: <<https://git-scm.com>>. Acesso em: 14 fevereiro 2022.
 
@@ -43,7 +43,7 @@ Levantamento de todas as ferramentas que serão utilizadas para o desenvolviment
 
 > **Discord, 2022**. Disponível em: <<https://discord.com/company>>. Acesso em: 14 fevereiro 2022.
 
-## Histórico de versionamento
+## 3. Histórico de versionamento
 
 |Data|Versão|Descrição|Autor|Revisor
 |-|-|-|-|-|
