@@ -91,11 +91,15 @@ A segunda tarefa consiste em chegar até a página de acompanhamento do agendame
 Caio ressalta que preferiria que existisse um botão para consultar o agendamento no SUS no menu principal do site, juntamente ao submenu de serviços do menu principal. Apesar das dificuldades ele considerou a realização da atividade fácil.
 </p>
 
-## 4. Referências
+## 4. Resultados
+
+## 5. Referências
  
 > [1] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação HumanoComputador e Experiência do usuário. Autopublicação.
 
-## 5. Histórico de versionamento
+## 6. Histórico de versionamento
 | Data  | Versão | Descrição | Autor | Revisor |
 | :--:  | :----: | :-------: | :---: | :-----: |
 | 28/03 | 1.0.0 | Criação do documento | [Antonio Igor](https://github.com/antonioigorcarvalho) e [Valderson Pontes](https://github.com/valdersonjr) | - |
+| 28/03 | 1.2.0 | Adição da primeira entrevista | [Antonio Igor](https://github.com/antonioigorcarvalho) e [Valderson Pontes](https://github.com/valdersonjr) | - |
+| 28/03 | 1.3.0 | Adição da segunda entrevista | [Antonio Igor](https://github.com/antonioigorcarvalho) e [Valderson Pontes](https://github.com/valdersonjr) | - |
