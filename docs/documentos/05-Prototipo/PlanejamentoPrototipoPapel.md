@@ -87,14 +87,19 @@
 ### 4.2 Entrevista
 
 <p align="justify">
-  
+  Deve ser acordado com o entrevistado e o entrevistador o momento oportuno para ambos se reunirem de forma on-line, por meio de uma video conferência através da plataforma que mais lhe forem conveniente. Na entrevista, após o Termo de Consentimento devidamente apresentado e aceito, o entrevistador deverá iniciar a gravação da chamada e iniciar com a aplicação da avaliação envolvendo o protótipo de papel e o entrevistado (usuário).
 </p>
 
 ## 5.  Resultados
 
 <p align="justify">
-  
+  O presente documento visa estabelecer os critérios que vão guiar o processo de avaliação do protótipo em papel. Dado o fim das entrevistas, os avaliadores analisam as histórias de sucesso e insucesso sobre a realização das tarefas para sintetizar resultados sobre:
 </p>
+
+- o conhecimento que os usuários devem possuir a priori para serem capazes de executar as tarefas
+analisadas;
+- o conhecimento que os usuários deveriam aprender enquanto realizam as tarefas analisadas;
+- as sugestões de correções na interface.
 
 ## 6. Referências
  
