@@ -18,11 +18,22 @@ Como explicado no [Planejamento do Storyboard](../../../documentos/04-Planejamen
 
 ## 4. Resultado da Entrevista
 
+### 4.1 Entrevista 1
+
 Pergunta Realizada | Resposta do Entrevistado
 ------------------ | ------------------------
 No que se refere ao Storyboard condiz com a realidade? | Sim, mostra um problema que qualquer pode passar e como solucionar ele
 Sugestão de melhoria no Storyboard | A única dúvida que eu tive, é que ele fala que foi bem fácil encontrar o Fale Conosco, eu queria ter uma idéia de como acha-lo
 Se tivesse uma facilidade para encontrar o Fale Conosco o usuário poderia ficar mais satisfeito com isso? E facilitaria fazer a reclamação? | Isso! 
+
+### 4.2 Entrevista 2
+
+Pergunta Realizada | Resposta do Entrevistado
+------------------ | ------------------------
+No que se refere aos storyboards apresentados, você acha que todos eles condizem com a realidade? | Sim, mas particulamente eu preferi o primeiro
+Você teria alguma sugestão de melhoria ou alteração em algum dos storyboards apresentados? | Eu acho que não, talvez no caso da segunda situação, a pessoa pudesse descrever a situação sem precisar informar os seus dados, mas do jeito que está está bom
+Qual dos storyboards apresentados você gostaria de contribuir com a sua opinião? | Eu particularmente gostei do primeiro, eu acho que foi o mais útil porque, por experiência pessoal, quando tive que consultar o acompanhamento de uma consulta eu tive que informar vários dados, e neste caso do story board seria apenas preencher o número do protocolo.
+Qual sugestão de melhoria ou alteração você gostaria de compartilhar? | (Já havia respondido anteriormente)
 
 ## 5. Conclusão
 
@@ -37,3 +48,4 @@ Dado ao Resultado da Entrevista, o entrevistado ressalva que a informação de c
 | 30/03 | 1.1.1  | Adicionando Conclusão | [Rodrigo Carvalho](https://github.com/RocSantos) | A Definir
 | 30/03 | 1.1.2  | Corrigindo padronização de numeração | [Eliseu Kadesh](https://github.com/eliseukadesh67) | A Definir
 | 30/03 | 1.2.0  | Realização da segunda entrevista | [Rodrigo Carvalho](https://github.com/RocSantos) | A Definir
+| 30/03 | 1.2.1  | Corrigindo a falta de resultado e descrição de qual entrevista | [Rodrigo Carvalho](https://github.com/RocSantos) | A Definir
