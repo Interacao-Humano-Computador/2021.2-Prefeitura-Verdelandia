@@ -15,30 +15,48 @@
 ## 3. Metodologia
 
 <p align="justify">
-  Com tudo preparado, o avaliador convida usuários para executarem algumas tarefas com apoio do sistema simulado em papel. Durante a simulação, os usuários falam, fazem gestos ou escrevem para manifestar como desejam interagir com o sistema. Um avaliador atua como ‘‘computador’’ para simular em papel a execução do sistema e expressar suas reações em resposta às ações do usuário. Essas experiências de uso simuladas permitem identificar as partes da interface que funcionam bem e aquelas que apresentam problemas de usabilidade (Barbosa, 2021).
+  Decidimos adotar o framework DECIDE, que propõem orientar o planejamento, a execução e a análise de uma avaliação de IHC. As atividades do framework são interligadas e executadas iterativamente, à medida que o avaliador articula os objetivos da avaliação, os dados e recursos disponíveis (Preece et al., 2002).
 </p>
 
-<center>
+<p align="justify">
+  O acrônimo DECIDE pode ser expandido para os seguintes tópicos:
+</p>
 
-#### Tabela 1:  Atividades do método de prototipação em papel
+- **D** Determinar os objetivos gerais da avaliação e identificar por que e para quem tais objetivos são importantes. 
+- **E** Explorar perguntas a serem respondidas com a avaliação. 
+- **C** Escolher (Choose) os métodos de avaliação a serem utilizados. 
+- **I** Identificar e administrar as questões práticas da avaliação. 
+- **D** Decidir como lidar com as questões éticas.
+- **E** Avaliar (Evaluate), interpretar e apresentar os dados.
 
-|Atividade|Tarefa|
-|:-------:|:----:|
-|Preparação|• definir tarefas para os participantes executarem<br> • definir o perfil dos participantes e recrutá-los<br> • criar protótipos em papel da interface para executar as tarefas<br> • executar um teste-piloto|
-|Coleta de dados|• cada usuário deve executar as tarefas propostas interagindo com os protótipos em papel, mediado pelo avaliador|
-|Interpretação|• avaliador deve: <br>– listar os problemas encontrados <br>– refinar os protótipos em papel para resolver os problemas mais simples|
-|Consolidação dos resultados|• priorizar a correção dos problemas não resolvidos <br>• sugerir correções|
-|Relato dos resultados|• relatar os problemas encontrados e sugestões de correção|
-
-<span>Fonte: Barbosa, 2021</span>
-
-</center>
+<p align="justify">
+  A partir dessa técnica, pretende-se que o usuários participe ativamente durante todo o processo de desenvolvimento. Nesse caso, o usuário será instruido pelo avaliador, por meio de um entrevista em uma conferencia on-line, onde será disponilizado ao usuário o protótipo em papel em que será feita a navegação entre as diferentes funcionalidades.
+</p>
 
 ## 4. Planejamento da avaliação
 
 <p align="justify">
-  
+  Para que se possa obter o máximo de proveito em um perído de tempo razoável, durante a entrevista deve-se seguir os passos descritos abaixo:
 </p>
+
+### 4.1 Termo de Consentimento
+
+<p align="justify">
+  Antes que iniciar com a entrevista, deve-se apresentar ao entrevistado o Termo de Consentimento, que estabelece os objetivo do estudo, a duração
+  estimada, os procedimentos de coleta de dados, o uso que será feito da informação coletada, os seus direitos enquanto participante do estudo e quaisquer riscos, desconfortos ou efeitos adversos relacionados a participação do usuário no estudo.
+</p>
+
+
+
+<center>
+
+#### Figura 1: Protótipo em papel
+
+![Imagem do protótipo de papel]()
+
+<span>Fonte: Próprio autor</span>
+
+</center>
 
 ### 4.1 Preparação
 
@@ -46,25 +64,7 @@
   
 </p>
 
-### 4.2 Coleta dos dados
-
-<p align="justify">
-  
-</p>
-
-### 4.3 Interpretação
-
-<p align="justify">
-  
-</p>
-
-### 4.4 Consolidação dos resultados
-
-<p align="justify">
-  
-</p>
-
-## 5. Relato dos Resultados
+## 5.  Resultados
 
 <p align="justify">
   
@@ -73,6 +73,8 @@
 ## 6. Referências
  
 > BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador, Rio de Janeiro, 2021.
+> 
+> Preece, Jennifer, Rogers, Yvonne, e Sharp, Helen (2002). Interaction Design: Beyond Human-Computer Interaction. John Wiley & Sons.
 
 ## 7. Histórico de versionamento
  
