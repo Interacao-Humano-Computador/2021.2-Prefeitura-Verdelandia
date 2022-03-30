@@ -119,4 +119,4 @@ analisadas;
  
 | Data  | Versão | Descrição | Autor | Revisor |
 | :---: | :----: | :-------: | :---: | :-----: |
-| 29/03 | 1.0.0  | Criação do documento de Planejamento do Protótipo em Papel | [Douglas Monteles](https://github.com/DouglasMonteles) e [Erick Levy](https://github.com/ErickLevy) | A definir |
+| 29/03 | 1.0.0  | Criação do documento de Planejamento do Protótipo em Papel | [Douglas Monteles](https://github.com/DouglasMonteles) e [Erick Levy](https://github.com/ErickLevy) | [Antonio Igor](https://github.com/antonioigorcarvalho) e [Valderson Pontes](https://github.com/valdersonjr) |

@@ -43,9 +43,9 @@ Dado ao Resultado da Entrevista, o entrevistado ressalva que a informação de c
  
 | Data  | Versão | Descrição | Autor | Revisor |
 | :---: | :----: | :-------: | :---: | :-----: |
-| 29/03 | 1.0.0  | Criação do documento Resultado Storyboard | [Rodrigo Carvalho](https://github.com/RocSantos) e [Eliseu Kadesh](https://github.com/eliseukadesh67) | A Definir
-| 30/03 | 1.1.0  | Realização da Entrevista | [Eliseu Kadesh](https://github.com/eliseukadesh67) | A Definir
-| 30/03 | 1.1.1  | Adicionando Conclusão | [Rodrigo Carvalho](https://github.com/RocSantos) | A Definir
-| 30/03 | 1.1.2  | Corrigindo padronização de numeração | [Eliseu Kadesh](https://github.com/eliseukadesh67) | A Definir
-| 30/03 | 1.2.0  | Realização da segunda entrevista | [Rodrigo Carvalho](https://github.com/RocSantos) | A Definir
-| 30/03 | 1.2.1  | Corrigindo a falta de resultado e descrição de qual entrevista | [Rodrigo Carvalho](https://github.com/RocSantos) | A Definir
+| 29/03 | 1.0.0  | Criação do documento Resultado Storyboard | [Rodrigo Carvalho](https://github.com/RocSantos) e [Eliseu Kadesh](https://github.com/eliseukadesh67) | [Antonio Igor](https://github.com/antonioigorcarvalho) e [Erick Levy](https://github.com/ericklevy) |
+| 30/03 | 1.1.0  | Realização da Entrevista | [Eliseu Kadesh](https://github.com/eliseukadesh67) | [Antonio Igor](https://github.com/antonioigorcarvalho) e [Erick Levy](https://github.com/ericklevy) |
+| 30/03 | 1.1.1  | Adicionando Conclusão | [Rodrigo Carvalho](https://github.com/RocSantos) | [Antonio Igor](https://github.com/antonioigorcarvalho) e [Erick Levy](https://github.com/ericklevy) |
+| 30/03 | 1.1.2  | Corrigindo padronização de numeração | [Eliseu Kadesh](https://github.com/eliseukadesh67) | [Antonio Igor](https://github.com/antonioigorcarvalho) e [Erick Levy](https://github.com/ericklevy) |
+| 30/03 | 1.2.0  | Realização da segunda entrevista | [Rodrigo Carvalho](https://github.com/RocSantos) | [Antonio Igor](https://github.com/antonioigorcarvalho) e [Erick Levy](https://github.com/ericklevy) |
+| 30/03 | 1.2.1  | Corrigindo a falta de resultado e descrição de qual entrevista | [Rodrigo Carvalho](https://github.com/RocSantos) | [Antonio Igor](https://github.com/antonioigorcarvalho) e [Erick Levy](https://github.com/ericklevy) |
