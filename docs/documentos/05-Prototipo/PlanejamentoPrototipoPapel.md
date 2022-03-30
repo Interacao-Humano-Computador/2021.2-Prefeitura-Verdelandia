@@ -54,9 +54,15 @@
 
 <center>
 
+### 4.2 Protótipo em papel
+
+<p align="justify">
+  Protótipo desenvolvido em papel para ser análisado pelo usuário (entrevistado) durante a entrevista.
+</p>
+
 #### Figura 1: Protótipo em papel
 
-![Imagem do protótipo de papel](<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2F6eb4M8mavC2VACIqPZpCRE%2FUntitled%3Fnode-id%3D0%253A1" allowfullscreen></iframe>)
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2F6eb4M8mavC2VACIqPZpCRE%2FUntitled%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
 
 Para uma visualização melhor  <a href='https://www.figma.com/proto/6eb4M8mavC2VACIqPZpCRE/Untitled?node-id=2%3A6&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=2%3A6' target='_blank'>veja aqui.</a>
 
@@ -65,7 +71,7 @@ Para uma visualização melhor  <a href='https://www.figma.com/proto/6eb4M8mavC2
 
 </center>
 
-### 4.1 Perguntas
+### 4.3 Perguntas
 
 <p align="justify">
   A fim de guiar o entrevistado em suas respostas, foi elaborado o quadro de questões abaixo, que estabelece as perguntas que devem ser feitas durante a entrevista, mas é importante esclarecer que está é uma recomendação, podendo ser feitas outras perguntas além destas.
@@ -87,7 +93,7 @@ Para uma visualização melhor  <a href='https://www.figma.com/proto/6eb4M8mavC2
 
 </center>
 
-### 4.2 Entrevista
+### 4.4 Entrevista
 
 <p align="justify">
   Deve ser acordado com o entrevistado e o entrevistador o momento oportuno para ambos se reunirem de forma on-line, por meio de uma video conferência através da plataforma que mais lhe forem conveniente. Na entrevista, após o Termo de Consentimento devidamente apresentado e aceito, o entrevistador deverá iniciar a gravação da chamada e iniciar com a aplicação da avaliação envolvendo o protótipo de papel e o entrevistado (usuário).
