@@ -10,13 +10,20 @@ O objetivo da Avaliação da Análise de Tarefas é validar os processos e docum
 A metodologia escolhida para realizar a avaliação de análise de tarefas, será o teste de usabilidade. O teste de usabilidade visa a avaliar a usabilidade de um sistema interativo a partir de experiências de uso dos seus usuários-alvo (Rubin, 1994; Rubin e Chisnell, 2008).
 </p>
 
+## 3. Teste de Usabilidade
+
+### 3.1 Definição das atividades
+<p align="justify">
+Todas as etapas do teste de usabilidade serão realizadas em conformidade com a Tabela 1, seguindo seus passos e orientações.
+</p>
+
 <p align="center"><b>
 Tabela 1: Atividades do teste de usabilidade
 </b></p>
 
 Atividades | Tarefa
 :--------- | :----
-Preparação | <ul>Definir Tarefas para os participantes executarem</ul><ul>Definir o perfil dos participantes e recruta-los</ul><ul>Preparar material para observar e registrar o uso</ul><ul>executar um teste piloto</ul>
+Preparação | <ul>Definir Tarefas para os participantes executarem</ul><ul>Definir o perfil dos participantes e recruta-los</ul><ul>Preparar material para observar e registrar o uso</ul><ul>Executar um teste piloto</ul>
 Coleta de Dados | <ul>Observar e registrar a performance e a opinião dos participantes durante sessões de uso controladas</ul>
 Interpretação<br>Consolidação dos Resultados | <ul>Reunir, Contabilizar e Sumarizar os dados coletados dos participantes</ul>
 Relato dos Resultados | <ul>Relatar a performance e opinião dos participantes</ul>
@@ -25,23 +32,47 @@ Relato dos Resultados | <ul>Relatar a performance e opinião dos participantes</
 Fonte: [1] - Tabela 12.4.
 </b></p>
 
+### 4.1 Preparação
+<p align="justify">
+A etapa da preparação será realizada previamente à entrevista para garantir que a mesma seja conduzida da forma correta. Alguns pontos importantes:
+</p>
 
-Após a coleta de dados o participante será submetido a uma entrevista, a qual será dirigida com um entrevistador e uma pessoa. Cada pessoa entrevistada realizará o papel de uma das [personas](../../02-Perfil-Persona-Analise/Personas.md) definidas anteriormente no projeto e responderão um questionário sobre a experiência do participante com o site.
+- A definição das tarefas já foi realizada no documento de AHT
+- O perfil dos participantes já foi definido no documento de Perfil de Usuário
+- O material preparado para observar e registrar o uso será utilizado para a gravação da entrevista
+- Não será realizado teste piloto pois a quantidade de pessoas a serem entrevistadas será pequena
 
+### 4.2 Coleta de Dados
+<p align="justify">
+A coleta de dados será feita através da entrevista, no qual o participante será orientado a realizar as tarefas definidas previamente, e durante a realização também será feito uma série de perguntas referentes a essas tarefas, as respostas dessas perguntas fornecerão dados sobre a experiência do usuário com o site.
+</p>
 
-## 3. Conclusão
+### 4.3 Interpretação e Consolidação dos Resultados
+<p align="justify">
+A interpretação e consolidação dos resultados será feita através da análise da gravação da entrevista, cabendo ao responsável sumarizar somente aquilo que seja relevante.
+</p>
 
-Ao final da avaliação, teremos o relato dos resultados, que abrangerá o objetivo do planejamento. E os dados desse relatório irão expor as qualidades e os defeitos encontrados ao longo da Avaliação, e se é necessário uma modificação na [Análise de Tarefas](../../02-Perfil-Persona-Analise/AnaliseHierarquica.md) e/ou na definição das [personas](../../02-Perfil-Persona-Analise/Personas.md). E com isso decidir se poderemos prosseguir para as próximas etapas do ciclo de vida da Mayhew.
+### 4.4 Relato dos resultados
+<p align="justify">
+O relato dos resultados será a síntese daquilo que foi analizado, contendo os resultados sobre a performance e opinião dos participantes.
+</p>
+
+## 5. Conclusão
+
+<p align="justify">
+Ao final da avaliação, teremos o relato dos resultados, que abrangerá o objetivo do planejamento. E os dados desse relatório irão expor as qualidades e os defeitos encontrados ao longo da Avaliação, e se é necessário uma modificação na Análise de Tarefas. E com isso decidir se poderemos prosseguir para as próximas etapas do ciclo de vida da Mayhew.
+</p>
  
-## 4. Referências
+## 6. Referências
 
 > [1] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) - Interação Humano-Computador e Experiência do usuário.
 
 > [2] Rubin, Jeffrey e Chisnell, Dana (2008). Handbook of Usability Testing: How to Plan, Design, and Conduct Effective Tests. Wiley, Indianapolis, IN, 2nd edition edition.
 
 
-## 5. Histórico de versionamento
+## 7. Histórico de versionamento
 | Data  | Versão | Descrição | Autor | Revisor |
 | :--:  | :----: | :-------: | :---: | :-----: |
 | 16/03 | 1.0.0 | Criação do Documento Planejamento da Análise de Tarefas | [Eliseu Kadesh](https://github.com/eliseukadesh67) e [Rodrigo Carvalho](https://github.com/Rocsantos) | [Antonio Igor](https://github.com/AntonioIgorCarvalho) e [Erick Levy](https://github.com/ErickLevy)
 | 16/03 | 1.1.0 | Ajuste nos tópicos e adição de links para outros documentos | [Eliseu Kadesh](https://github.com/eliseukadesh67) | [Antonio Igor](https://github.com/AntonioIgorCarvalho) e [Erick Levy](https://github.com/ErickLevy)
+| 29/03 | 1.2.0 | Atualização do documento conforme orientações | [Antonio Igor](https://github.com/AntonioIgorCarvalho) e [Valderson Pontes](https://github.com/valdersonjr) | 
