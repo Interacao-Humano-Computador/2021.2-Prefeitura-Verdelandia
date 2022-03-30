@@ -42,7 +42,7 @@
 ### 4.1 Termo de Consentimento
 
 <p align="justify">
-  Antes que iniciar com a entrevista, deve-se apresentar ao entrevistado o Termo de Consentimento, que estabelece os objetivo do estudo, a duração estimada, os procedimentos de coleta de dados, o uso que será feito da informação coletada, os seus direitos enquanto participante do estudo e quaisquer riscos, desconfortos ou efeitos adversos relacionados a participação do usuário no estudo.
+  Antes de iniciar com a entrevista, deve-se apresentar ao entrevistado o Termo de Consentimento, que estabelece os objetivo do estudo, a duração estimada, os procedimentos de coleta de dados, o uso que será feito da informação coletada, os seus direitos enquanto participante do estudo e quaisquer riscos, desconfortos ou efeitos adversos relacionados a participação do usuário no estudo.
 </p>
 
 <iframe 
