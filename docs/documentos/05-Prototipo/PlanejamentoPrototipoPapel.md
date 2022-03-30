@@ -15,8 +15,24 @@
 ## 3. Metodologia
 
 <p align="justify">
-  
+  Com tudo preparado, o avaliador convida usuários para executarem algumas tarefas com apoio do sistema simulado em papel. Durante a simulação, os usuários falam, fazem gestos ou escrevem para manifestar como desejam interagir com o sistema. Um avaliador atua como ‘‘computador’’ para simular em papel a execução do sistema e expressar suas reações em resposta às ações do usuário. Essas experiências de uso simuladas permitem identificar as partes da interface que funcionam bem e aquelas que apresentam problemas de usabilidade (Barbosa, 2021).
 </p>
+
+<center>
+
+#### Tabela 1:  Atividades do método de prototipação em papel
+
+|Atividade|Tarefa|
+|:-------:|:----:|
+|Preparação|• definir tarefas para os participantes executarem<br> • definir o perfil dos participantes e recrutá-los<br> • criar protótipos em papel da interface para executar as tarefas<br> • executar um teste-piloto|
+|Coleta de dados|• cada usuário deve executar as tarefas propostas interagindo com os protótipos em papel, mediado pelo avaliador|
+|Interpretação|• avaliador deve: <br>– listar os problemas encontrados <br>– refinar os protótipos em papel para resolver os problemas mais simples|
+|Consolidação dos resultados|• priorizar a correção dos problemas não resolvidos <br>• sugerir correções|
+|Relato dos resultados|• relatar os problemas encontrados e sugestões de correção|
+
+<span>Fonte: Barbosa, 2021</span>
+
+</center>
 
 ## 4. Planejamento da avaliação
 
@@ -36,13 +52,19 @@
   
 </p>
 
-### 4.3 Análise dos dados
+### 4.3 Interpretação
 
 <p align="justify">
   
 </p>
 
-## 5. Resultados
+### 4.4 Consolidação dos resultados
+
+<p align="justify">
+  
+</p>
+
+## 5. Relato dos Resultados
 
 <p align="justify">
   
