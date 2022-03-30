@@ -3,14 +3,12 @@
 ## 1. Introdução
 
 <p align="justify">
-  
+  	O método de prototipação em papel (Snyder, 2003) avalia a usabilidade de um design de IHC representado em papel, através de simulações de uso com a participação de potenciais usuários. Simular o uso em papel é um modo rápido e barato de identificar problemas de usabilidade antes mesmo de construir uma solução de IHC executável (Barbosa, 2021).
 </p>
 
 ## 2. Objetivo
 
-<p align="justify">
-  
-</p>
+
 
 ## 3. Metodologia
 
