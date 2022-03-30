@@ -8,7 +8,13 @@ Como explicado no [Planejamento do Storyboard](../../../documentos/04-Planejamen
 
 ## 3. Video da Entrevista
 
+### 3.1 Entrevista 1
+
 <iframe width="711" height="400" src="https://www.youtube.com/embed/U_CP_u7C9To?start=10" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### 3.2 Entrevista 2
+
+<iframe width="711" height="400" src="https://www.youtube.com/embed/FgNaTcmq0Qg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## 4. Resultado da Entrevista
 
@@ -29,3 +35,5 @@ Dado ao Resultado da Entrevista, o entrevistado ressalva que a informação de c
 | 29/03 | 1.0.0  | Criação do documento Resultado Storyboard | [Rodrigo Carvalho](https://github.com/RocSantos) e [Eliseu Kadesh](https://github.com/eliseukadesh67) | A Definir
 | 30/03 | 1.1.0  | Realização da Entrevista | [Eliseu Kadesh](https://github.com/eliseukadesh67) | A Definir
 | 30/03 | 1.1.1  | Adicionando Conclusão | [Rodrigo Carvalho](https://github.com/RocSantos) | A Definir
+| 30/03 | 1.1.2  | Corrigindo padronização de numeração | [Eliseu Kadesh](https://github.com/eliseukadesh67) | A Definir
+| 30/03 | 1.2.0  | Realização da segunda entrevista | [Rodrigo Carvalho](https://github.com/RocSantos) | A Definir
