@@ -59,6 +59,38 @@ Gustavo ressalta que ao entrar na página principal, aparece um pop-up que não 
 A segunda tarefa consiste em chegar até a página de acompanhamento do agendamento para uma consulta do SUS, Gustavo que já estava familiarizado com o site, conseguiu achar com extrema facilidade o atalho que leva a finalização dessa tarefa.
 </p>
 
+### 3.2 Entrevista 2
+
+<p align="center">
+<iframe width="711" height="400" src="https://www.youtube.com/embed/4o9q4ELRdjs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+
+<p align="justify">
+A segunda entrevista foi realizada na data 28/09/22 às 11:20PM, e teve duração total de 04 minutos e 49 segundos. O participante se chama Caio Oliveira Lopes, possui 22 anos de idade e é estudante de graduação do curso de Direito pelo Instituto Brasileiro de Ensino, Desenvolvimento e Pesquisa.
+</p>
+<p align="justify">
+Analisando o perfil de Caio se percebe que ele possui facilidade com as tecnologias que serão utilizadas ao longo da execução das tarefas. O participante já precisou utilizar sites de prefeituras para realização de alguma tarefa online e em algumas vezes conseguiu com facilidade, outras não.
+</p>
+
+<p align="justify">
+Caio consegue localizar o site da Prefeitura de Verdelândia com facilidade através de seu navegador.
+</p>
+
+#### 3.2.1 A Primeira Tarefa
+
+<p align="justify">
+A primeira tarefa consiste em entrar em contato com a Prefeitura de Verdelândia através do site. Após procurar no menu do site, Caio encontra o botão "Fale Conosco", ao clicar ele apenas é redirecionado corretamente à página de contato com a Prefeitura de Verdelândia. O participante achou a tarefa extremamente fácil e a conclui em questão de segundos, e também concordou que a página final satisfaria a sua necessidade de entrar em contrato com a prefeitura.
+</p>
+
+#### 3.2.2 A Segunda Tarefa
+
+<p align="justify">
+A segunda tarefa consiste em chegar até a página de acompanhamento do agendamento para uma consulta do SUS. Nessa tarefa Caio procura pelas abas do menu principal do site e utiliza a ferramenta de pesquisa do site sem sucesso, após retornar a página principal ele consegue achar o botão que leva para a página que finaliza a tarefa.
+</p>
+<p align="justify">
+Caio ressalta que preferiria que existisse um botão para consultar o agendamento no SUS no menu principal do site, juntamente ao submenu de serviços do menu principal. Apesar das dificuldades ele considerou a realização da atividade fácil.
+</p>
+
 ## 4. Referências
  
 > [1] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação HumanoComputador e Experiência do usuário. Autopublicação.
