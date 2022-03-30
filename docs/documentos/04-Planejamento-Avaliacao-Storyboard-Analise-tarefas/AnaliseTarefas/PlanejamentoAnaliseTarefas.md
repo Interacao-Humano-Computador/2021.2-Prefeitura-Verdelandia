@@ -63,15 +63,16 @@ O relato dos resultados será a síntese daquilo que foi analizado, contendo os 
 Ao final da avaliação, teremos o relato dos resultados, que abrangerá o objetivo do planejamento. E os dados desse relatório irão expor as qualidades e os defeitos encontrados ao longo da Avaliação, e se é necessário uma modificação na Análise de Tarefas. E com isso decidir se poderemos prosseguir para as próximas etapas do ciclo de vida da Mayhew.
 </p>
  
-## 4. Referências
+## 6. Referências
 
 > [1] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) - Interação Humano-Computador e Experiência do usuário.
 
 > [2] Rubin, Jeffrey e Chisnell, Dana (2008). Handbook of Usability Testing: How to Plan, Design, and Conduct Effective Tests. Wiley, Indianapolis, IN, 2nd edition edition.
 
 
-## 5. Histórico de versionamento
+## 7. Histórico de versionamento
 | Data  | Versão | Descrição | Autor | Revisor |
 | :--:  | :----: | :-------: | :---: | :-----: |
 | 16/03 | 1.0.0 | Criação do Documento Planejamento da Análise de Tarefas | [Eliseu Kadesh](https://github.com/eliseukadesh67) e [Rodrigo Carvalho](https://github.com/Rocsantos) | [Antonio Igor](https://github.com/AntonioIgorCarvalho) e [Erick Levy](https://github.com/ErickLevy)
 | 16/03 | 1.1.0 | Ajuste nos tópicos e adição de links para outros documentos | [Eliseu Kadesh](https://github.com/eliseukadesh67) | [Antonio Igor](https://github.com/AntonioIgorCarvalho) e [Erick Levy](https://github.com/ErickLevy)
+| 29/03 | 1.2.0 | Atualização do documento conforme orientações | [Antonio Igor](https://github.com/AntonioIgorCarvalho) e [Valderson Pontes](https://github.com/valdersonjr) | 
