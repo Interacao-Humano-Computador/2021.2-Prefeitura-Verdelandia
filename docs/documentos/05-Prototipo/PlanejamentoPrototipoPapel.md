@@ -46,7 +46,11 @@
   estimada, os procedimentos de coleta de dados, o uso que será feito da informação coletada, os seus direitos enquanto participante do estudo e quaisquer riscos, desconfortos ou efeitos adversos relacionados a participação do usuário no estudo.
 </p>
 
-
+<iframe 
+  src="https://docs.google.com/document/d/e/2PACX-1vRXPQBNjxONrbhkkgCa4BpQ6ywhmbLZlwwbqEnxSLV4y3osECuEYdbBhGHWwTtNxYwFCMnLSFuVlCcs/pub?embedded=true"
+  width="100%"
+  height="500px"
+></iframe>
 
 <center>
 
@@ -58,7 +62,29 @@
 
 </center>
 
-### 4.1 Preparação
+### 4.1 Perguntas
+
+<p align="justify">
+  A fim de guiar o entrevistado em suas respostas, foi elaborado o quadro de questões abaixo, que estabelece as perguntas que devem ser feitas durante a entrevista, mas é importante esclarecer que está é uma recomendação, podendo ser feitas outras perguntas além destas.
+</p>
+
+<center>
+
+#### Tabela 1: Questões da entrevista
+
+|Número|Pergunta|Resposta|
+|:----:|:------:|:------:|
+|1|Você já havia utilizado a funcionalidade ____________________________ neste site ou em outro semelhante?| [ ] - Sim <br> [ ] - Não |
+|2|Você conseguiu finalizar a execução da funcionalidade com sucesso? | [ ] - Sim <br> [ ] - Não <br> **Importante:** Caso a resposta seja **Sim**, pular para questão de número 4 |
+|3|O que você acha que faltou para você finalizar com sucesso a atividade?|Resposta aberta|
+|4|O protótipo em papel, na sua opinião, se mostrou eficaz na realização da tarefa?| [ ] - Sim <br> [ ] - Não |
+|5|Você teria alguma recomendação ou sugestão ou mesmo alguma crítica sobre o protótipo avaliado?| Resposta aberta |
+
+<span>Fonte: Próprio autor</span>
+
+</center>
+
+### 4.2 Entrevista
 
 <p align="justify">
   
