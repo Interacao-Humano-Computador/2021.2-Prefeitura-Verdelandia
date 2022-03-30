@@ -8,7 +8,9 @@
 
 ## 2. Objetivo
 
-
+<p align="justify">
+  Por isso, optamos pela prototipação em papel, pois ela permite que seja realizada a avaliação formativa junto aos usuários, onde é possível realizar a avaliação parcial, em que detalhes da composição das interfaces ainda não estão bem definidos. Objetiva-se com este documento explicitar as etapas que tratam do planejamento da avalialção através do uso de protótipos feitos em papel.
+</p>
 
 ## 3. Metodologia
 
