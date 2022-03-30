@@ -30,7 +30,7 @@
 - **E** Avaliar (Evaluate), interpretar e apresentar os dados.
 
 <p align="justify">
-  A partir dessa técnica, pretende-se que o usuários participe ativamente durante todo o processo de desenvolvimento. Nesse caso, o usuário será instruido pelo avaliador, por meio de um entrevista em uma conferencia on-line, onde será disponilizado ao usuário o protótipo em papel em que será feita a navegação entre as diferentes funcionalidades.
+  A partir dessa técnica, pretende-se que o usuários participe ativamente durante todo o processo de desenvolvimento. Nesse caso, o usuário será instruído pelo avaliador, por meio de um entrevista em uma conferência on-line, onde será disponibilizado ao usuário o protótipo em papel em que será feita a navegação entre as diferentes funcionalidades.
 </p>
 
 ## 4. Planejamento da avaliação
@@ -42,8 +42,7 @@
 ### 4.1 Termo de Consentimento
 
 <p align="justify">
-  Antes que iniciar com a entrevista, deve-se apresentar ao entrevistado o Termo de Consentimento, que estabelece os objetivo do estudo, a duração
-  estimada, os procedimentos de coleta de dados, o uso que será feito da informação coletada, os seus direitos enquanto participante do estudo e quaisquer riscos, desconfortos ou efeitos adversos relacionados a participação do usuário no estudo.
+  Antes que iniciar com a entrevista, deve-se apresentar ao entrevistado o Termo de Consentimento, que estabelece os objetivo do estudo, a duração estimada, os procedimentos de coleta de dados, o uso que será feito da informação coletada, os seus direitos enquanto participante do estudo e quaisquer riscos, desconfortos ou efeitos adversos relacionados a participação do usuário no estudo.
 </p>
 
 <iframe 
@@ -57,7 +56,7 @@
 ### 4.2 Protótipo em papel
 
 <p align="justify">
-  Protótipo desenvolvido em papel para ser análisado pelo usuário (entrevistado) durante a entrevista.
+  Protótipo desenvolvido em papel para ser analisado pelo usuário (entrevistado) durante a entrevista.
 </p>
 
 #### Figura 1: Protótipo em papel
