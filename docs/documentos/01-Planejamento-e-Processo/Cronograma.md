@@ -65,11 +65,23 @@ O objetivo do cronograma do projeto é prover uma visualização rápida da divi
 | :-----:         | :---------: | :-----:   | :--------------: |
 | Criação do documento de storyboard  | [Antonio Igor](https://github.com/antonioigorcarvalho) e [Valderson Pontes](https://github.com/valdersonjr) | [Eliseu Kadesh](https://github.com/eliseukadesh67) e [Douglas Monteles](https://github.com/douglasmonteles) | 15/03 |
 | Criação do documento de planejamento da avaliação da análise de tarefas  | [Eliseu Kadesh](https://github.com/eliseukadesh67) e [Rodrigo Carvalho](https://github.com/Rocsantos) | [Antonio Igor](https://github.com/antonioigorcarvalho) e [Erick Levy](https://github.com/ericklevy) | 15/03 |
-| Criação do documento de de planejamento da avaliação do storyboard | [Erick Levy](https://github.com/ericklevy) e [Douglas Monteles](https://github.com/douglasmonteles) | [Antonio Igor](https://github.com/antonioigorcarvalho), [Eliseu Kadesh](https://github.com/eliseukadesh67) e [Valderson Pontes](https://github.com/valdersonjr) | 15/03 |
+| Criação do documento de planejamento da avaliação do storyboard | [Erick Levy](https://github.com/ericklevy) e [Douglas Monteles](https://github.com/douglasmonteles) | [Antonio Igor](https://github.com/antonioigorcarvalho), [Eliseu Kadesh](https://github.com/eliseukadesh67) e [Valderson Pontes](https://github.com/valdersonjr) | 15/03 |
 | Gravação da apresentação 4 | Todos | Todos | 16/03 |
 
 <center>
   Tabela 5 - Tarefas da Sprint 4
+</center>
+
+### 3.5 Sprint 5
+| Tarefas         | Responsável | Revisor   | Entrega Limite |
+| :-----:         | :---------: | :-----:   | :--------------: |
+| Criação do documento de resultados análise de tarefas  | [Antonio Igor](https://github.com/antonioigorcarvalho) e [Valderson Pontes](https://github.com/valdersonjr) | [Eliseu Kadesh](https://github.com/eliseukadesh67) e [Rodrigo Carvalho](https://github.com/Rocsantos) | 29/03 |
+| Criação do documento de resultados storyboard  | [Eliseu Kadesh](https://github.com/eliseukadesh67) e [Rodrigo Carvalho](https://github.com/Rocsantos) | [Antonio Igor](https://github.com/antonioigorcarvalho) e [Erick Levy](https://github.com/ericklevy) | 29/03 |
+| Criação do documento de planejamento do protótipo de papel | [Erick Levy](https://github.com/ericklevy) e [Douglas Monteles](https://github.com/douglasmonteles) | [Antonio Igor](https://github.com/antonioigorcarvalho) e [Valderson Pontes](https://github.com/valdersonjr) | 29/03 |
+| Gravação da apresentação 5 | Todos | Todos | 30/03 |
+
+<center>
+  Tabela 6 - Tarefas da Sprint 5
 </center>
 
 ## 4. Histórico de versionamento
@@ -81,4 +93,5 @@ O objetivo do cronograma do projeto é prover uma visualização rápida da divi
 | 19/02 | 1.0.2  | Adição do tópico de objetivo ao documento | [Antonio Igor](https://github.com/antonioigorcarvalho) | [Eliseu Kadesh](https://github.com/eliseukadesh67)
 | 27/02 | 1.2.0  | Adição da tabela de sprint 2 | [Antonio Igor](https://github.com/antonioigorcarvalho) | [Erick Levy](https://github.com/ericklevy) e [Eliseu Kadesh](https://github.com/eliseukadesh67)
 | 14/03 | 1.3.0  | Adição da tabela de sprint 3 | [Antonio Igor](https://github.com/antonioigorcarvalho) | [Erick Levy](https://github.com/ericklevy) e [Eliseu Kadesh](https://github.com/eliseukadesh67)
-| 16/03 | 1.4.0  | Adição da tabela de sprint 4 | [Antonio Igor](https://github.com/antonioigorcarvalho) | -
+| 16/03 | 1.4.0  | Adição da tabela de sprint 4 | [Antonio Igor](https://github.com/antonioigorcarvalho) | - |
+| 30/03 | 1.5.0  | Adição da tabela de sprint 5 | [Antonio Igor](https://github.com/antonioigorcarvalho) | - |
