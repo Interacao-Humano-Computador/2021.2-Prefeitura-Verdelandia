@@ -8,4 +8,4 @@
 
 | Data  | Versão | Descrição | Autor | Revisor |
 | :--:  | :----: | :-------: | :---: | :-----: |
-| 16/03 | 1.0.0  | Criação da página de apresentação | [Rodrigo Carvalho](https://github.com/Rocsantos) | [Antonio Igor](https://github.com/antonioigorcarvalho)
+| 30/03 | 1.0.0  | Criação da página de apresentação | [Rodrigo Carvalho](https://github.com/Rocsantos) | [Antonio Igor](https://github.com/antonioigorcarvalho)
