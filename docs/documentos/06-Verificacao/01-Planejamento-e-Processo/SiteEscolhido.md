@@ -1,22 +1,22 @@
-# INSIRAAQUI
+# Verificação Site Escolhido
 
 ## 1. Introdução
 
 <p align='justify'>
-  Após a criação do documento de <a href="">INSIRAAQUI</a>, tem-se a necessidade de averiguar se suas especificações atendem ao que é exigido, no caso o método escolhido foi a inspeção. Para maiores detalhes da metodologia utilizada <a href="INSIRAAQUI">clique aqui</a>.
+  Após a criação do documento do <a href="https://interacao-humano-computador.github.io/2021.2-Prefeitura-Verdelandia/documentos/01-Planejamento-e-Processo/SiteEscolhido/">site escolhido</a>, tem-se a necessidade de averiguar se suas especificações atendem ao que é exigido, no caso o método escolhido foi a inspeção. Para maiores detalhes da metodologia utilizada <a href="INSIRAAQUI">clique aqui</a>.
 </p>
 
 <center>
 
 ## 2. Resultados
 
-#### Tabela 1: Checklist INSIRAAQUI
+#### Tabela 1: Checklist Site Escolhido
 
 | Número | Quesito da avaliação | Situação |
 | :----: | :------------------: | :------: |
 | 1 | O documento utiliza uma linguagem clara e sem erros ortográficos? | ❌ |
 | 2 | O documento contém as informações necessárias?                    | ❌ |
-| 3 | Os tópicos/artefatos estão descritos de forma clara e objetiva?   | ❌ |
+| 3 | Os tópicos estão descritos de forma clara e objetiva?             | ❌ |
 | 4 | As imagens possuem legendas?                                      | ❌ |
 | 5 | As tabelas possuem legendas?                                      | ❌ |
 | 6 | O documento possui introdução/objetivo?                           | ❌ |
