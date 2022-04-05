@@ -76,27 +76,53 @@ erros cometidos.
 
 ## 3. Conclusão
 <p align="justify">
-Durante o desenvolvimento do projeto todos esses tópicos serão considerados, porém, considerando a natureza do projeto escolhido, um site de prefeitura, uma atenção maior será dada para os seguintes tópicos:
+Durante o desenvolvimento do projeto todos esses tópicos serão considerados, e para concluir apresentaremos os pontos e a sua aplicação considerando a natureza do projeto escolhido, um site de prefeitura:
 </p>
 
-### 3.1 Simplicidade nas estruturas das tarefas
+### 3.1 Correspondência com as expectativas dos usuários
+<p align="justify">
+No caso da Prefeitura de Verdelândia, ela deverá utilizar um design compatível com sites de prefeituras, para facilitar a familiarização do usuário, aproveitando suas experiências passadas e passando uma maior credibilidade para o usuário.
+</p>
+
+### 3.2 Simplicidade nas estruturas das tarefas
 <p align="justify">
 Um site que tem como foco o uso por toda a população da cidade deve se preocupar com a simplicidade de suas tarefas, para tentar minimizar a dificuldade de usuários que não possuem muita experiência em tecnologias.
 </p>
 
-### 3.2 Equilíbrio entre controle e liberdade do usuário.
+### 3.3 Equilíbrio entre controle e liberdade do usuário.
 <p align="justify">
 Limitar o usuário para que as tarefas sejam diretas e lineares, para que o usuário não se perca durante o uso do site.
 </p>
 
-### 3.3 Visibilidade e reconhecimento
+### 3.4 Consistência e padronização
+<p align="justify">
+É recomendado que todo o site se mantenha fiel o padrão escolhido, assim o usuário se
+acostumará com o layout e saberá com certeza que a página que ele está acessando pertence a Prefeitura de Verdelândia, mesmo que em diferentes partes do site.
+</p>
+
+### 3.5 Promoção da eficiência do usuário
+<p align="justify">
+O site deverá priorizar a economia de tempo e esforço do usuário em relação as tarefas que podem ser realizadas no site, como a busca de uma notícia, a procura dos gastos da Prefeitura de Verdelândia entre outras tarefas.
+</p>
+
+### 3.6 Antecipação das necessidades do usuário
+<p align="justify">
+O site da Prefeitura de Verdelândia deve tentar prever o que o usuário quer e precisa, a fim de facilitar toda a navegação pelo site e realização de tarefas, ao invés de consumir o tempo dos usuários com coisas que poderiam ser facilitadas pelo próprio site.
+</p>
+
+### 3.7 Visibilidade e reconhecimento
 <p align="justify">
 É necessário deixar bem claro o que pode ser feito, para que o usuário ache aquilo que está buscando com facilidade, caso não encontre ele terá confiança de que oque procura não será encontrado no site.
 </p>
 
-### 3.4 Conteúdo relevante e expressão adequada
+### 3.8 Conteúdo relevante e expressão adequada
 <p align="justify">
 Todas as informações devem ser confiáveis e relevantes, evitando a apresentação de informações desnecessárias e conteúdo redundante. Isso se dá principalmente pelo fato de ser um site governamental.
+</p>
+
+### 3.9 Projeto para erros
+<p align="justify">
+O site deve manter o usuário em uma posição segura ao utilizar o site, assumindo que erros podem ser cometidos e assim ajudar o usuário a reparar estes erros.
 </p>
 
 ## 4. Referências
@@ -107,3 +133,4 @@ Todas as informações devem ser confiáveis e relevantes, evitando a apresenta�
 | Data  | Versão | Descrição | Autor | Revisor |
 | :--:  | :----: | :-------: | :---: | :-----: |
 | 10/03 | 1.0.0 | Criação do documento de principios gerais | [Antonio Igor](https://github.com/antonioigorcarvalho) e [Valderson Pontes](https://github.com/valdersonjr) | [Eliseu Kadesh](https://github.com/eliseukadesh67) e [Erick Levy](https://github.com/ericklevy) |
+| 04/04 | 1.1.0 | Atualização na conclusão | [Antonio Igor](https://github.com/antonioigorcarvalho) | [Erick Levy](https://github.com/ericklevy) |
