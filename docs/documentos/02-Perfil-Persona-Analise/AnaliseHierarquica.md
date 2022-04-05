@@ -16,6 +16,10 @@ Os objetivos definidos das tarefas da análise que iremos analisar são:
 -   Acompanhar o agendamento de consultas (SUS);
 -   Entrar em contato com a Prefeitura.
 
+<p align="justify">
+Essas tarefas foram escolhidas com base nos <a href="https://interacao-humano-computador.github.io/2021.2-Prefeitura-Verdelandia/documentos/04-Planejamento-Avaliacao-Storyboard-Analise-tarefas/StoryBoard/Storyboard/"> Storyboards</a>.
+</p>
+
 ## 3. Representação textual
 
 <p align="justify">
@@ -114,4 +118,5 @@ A notação gráfica para a Análise Hierárquica de Tarefas tem como base os au
 | 26/02 | 1.1.0 | Adicionado Representação Gráfica HTA | [Rodrigo Carvalho](https://github.com/Rocsantos) e [Eliseu Kadesh](https://github.com/eliseukadesh67) | [Antonio Igor](https://github.com/AntonioIgorCarvalho) , [Douglas Monteles](https://github.com/DouglasMonteles) e [Valderson Pontes](https://github.com/valdersonjr) |
 | 26/02 | 1.2.0 | Adicionando Representação textual e mais detalhamentos | [Rodrigo Carvalho](https://github.com/Rocsantos) e [Eliseu Kadesh](https://github.com/eliseukadesh67) | [Antonio Igor](https://github.com/AntonioIgorCarvalho) , [Douglas Monteles](https://github.com/DouglasMonteles) e [ValdersonPontes](https://github.com/valdersonjr) |
 | 26/02 | 1.2.1 | Alterando Legenda das Imagens | [Rodrigo Carvalho](https://github.com/Rocsantos) e [EliseuKadesh](https://github.com/eliseukadesh67) | [Antonio Igor](https://github.com/AntonioIgorCarvalho) , [Douglas Monteles](https://github.com/DouglasMonteles) e [Valderson Pontes](https://github.com/valdersonjr) |
-| 30/03 | 1.3.0  |        Atualização da segunda tarefa        | [Antonio Igor](https://github.com/AntonioIgorCarvalho) e [Valderson Pontes](https://github.com/valdersonjr) | -
+| 30/03 | 1.3.0  |        Atualização da segunda tarefa        | [Antonio Igor](https://github.com/AntonioIgorCarvalho) e [Valderson Pontes](https://github.com/valdersonjr) | [Erick Levy](https://github.com/ErickLevy)
+| 04/04 | 1.3.1  |        Atualização na descrição do documento        | [Antonio Igor](https://github.com/AntonioIgorCarvalho) | [Erick Levy](https://github.com/ErickLevy)
