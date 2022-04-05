@@ -84,7 +84,16 @@ O objetivo do cronograma do projeto é prover uma visualização rápida da divi
   Tabela 6 - Tarefas da Sprint 5
 </center>
 
-## 4. Histórico de versionamento
+## 4. Heatmap
+
+Com base nos horários de todos os membros, construímos um heatmap (ou mapa de calor)  para nos organizarmos durante as sprints.
+
+<figure>
+  <img width="520" src="../../../assets/cronograma/heatmap.png"/>
+  <figcaption>Figura 1: Mapa de calor (Heatmap)</figcaption>
+</figure>
+
+## 5. Histórico de versionamento
 
 | Data  | Versão | Descrição | Autor | Revisor |
 | :--:  | :----: | :-------: | :---: | :-----: |
@@ -95,3 +104,4 @@ O objetivo do cronograma do projeto é prover uma visualização rápida da divi
 | 14/03 | 1.3.0  | Adição da tabela de sprint 3 | [Antonio Igor](https://github.com/antonioigorcarvalho) | [Erick Levy](https://github.com/ericklevy) e [Eliseu Kadesh](https://github.com/eliseukadesh67)
 | 16/03 | 1.4.0  | Adição da tabela de sprint 4 | [Antonio Igor](https://github.com/antonioigorcarvalho) | - |
 | 30/03 | 1.5.0  | Adição da tabela de sprint 5 | [Antonio Igor](https://github.com/antonioigorcarvalho) | - |
+| 04/04 | 1.6.0  | Adição do heatmap | [Antonio Igor](https://github.com/antonioigorcarvalho) | - |
