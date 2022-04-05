@@ -25,10 +25,10 @@ Cada checklist possuirá o seguinte formato:
 
 #### Tabela 1: Formato Checklist
 
-| Quesito da avaliação | Situação |
-| :------------------: | :------: |
-| Descrição | ✔️ |
-| Descrição | ❌ |
+| Número | Quesito da avaliação | Situação |
+| :----: | :------------------: | :------: |
+| 1      | Descrição            | ✔️ |
+| 2      | Descrição            | ❌ |
 
 <figcaption>Fonte: Próprio autor</figcaption>
 </center>
@@ -38,8 +38,8 @@ Cada checklist possuirá o seguinte formato:
 No qual os ícones possuem o seguinte significado:
 </p>
 
--  ✔️ | Quesito satisfeito
--  ❌ | Quesito não satisfeito
+-  ✔️  Quesito satisfeito
+-  ❌  Quesito não satisfeito
 
 ## 4. Resultados
 
