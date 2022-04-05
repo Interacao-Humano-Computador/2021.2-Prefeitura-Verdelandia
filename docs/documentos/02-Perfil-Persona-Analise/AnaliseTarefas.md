@@ -24,7 +24,22 @@ Os métodos são sequências bem conhecidas de sub-objetivos e operadores que pe
 As regras de seleção, representam tomadas de decisão dos usuários sobre qual método utilizar numa determinada situação.
 </p>
 
-## 3. Árvore de Tarefas Concorrentes
+## 3. KLM
+
+<p align="justify">
+A modelagem KLM é uma técnica de GOMS e em sua forma mais simples. Essa técnica é limitada a uma gama de operadores primitivos predefinidos:
+
+- K para pressionar uma tecla ou botão.
+- P para apontar com o mouse algo presente num dispositivo visual. 
+- H para mover as mãos para algum dispositivo.
+- D para desenhar um segmento de reta em um <i>grid</i>.
+- M para se preparar mentalmente para realizar um conjunto de ações primitivas estreitamente relacionadas entre si ou para realizar uma ação.
+- R para o tempo de resposta do sistema, que o usuário precisa esperar.
+
+Vale ainda ressaltar que a modelagem KLM possui um conjunto de heurísticas sobre como posicionar seus operadores durante a preparação.
+</p>
+
+## 4. Árvore de Tarefas Concorrentes
 
 <p align="justify">
 Neste modelo existem quatro tipo de tarefas:
@@ -41,7 +56,7 @@ O registro explícito das relações entre as tarefas vai além das tarefas trad
 de design de interação.
 </p>
 
-## 4. Análise Hierárquica de Tarefas
+## 5. Análise Hierárquica de Tarefas
 
 <p align="justify">
 A Análise Hierárquica de Tarefas (HTA), compreende as competências e habilidades exibidas em tarefas complexas e não repetitivas, assim como ajuda identificar problemas de desempenho (Annett, 2003; Annett e Duncan, 1967). Toda tarefa é definida com o termo de seu(s) objetivo(s). Tarefas complexas são definidas em termos de objetivos e subobjetivos, num desdobramento hierárquico. <br>
@@ -50,21 +65,22 @@ Toda tarefa é definida com o termo de seu(s) objetivo(s). Tarefas complexas sã
 Um objetivo é um estado específico de coisa, um estado final. Esse estado pode ser definido por um ou mais eventos ou por valores fisicamente observáveis de uma ou mais variáveis, que atuam como critério de alcance do objetivo. Em vez de identificar uma lista de ações, a HTA inicia com uma definição dos objetivos das pessoas.
 </p>
 
-## 5. Conclusão
+## 6. Conclusão
 
 <p align="justify">
 Devido a simplicidade do site da Prefeitura de Verdelândia, e o fato de não haver tantas tarefas e interações do Sistema com o Usuário para serem relacionadas, foi escolhido o método de Análise Hierárquica para representar os objetivos da página.
 </p>
 
-## 6. Referências
+## 7. Referências
 
 > Annett, 2003; Annett, Jhon e Duncan. Task Analysis and Training Design. Occupational Psycology, 1967.
 
 > BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador, Rio de Janeiro, 2021.
 
-## 7. Histórico de versionamento
+## 8. Histórico de versionamento
 
 | Data  | Versão | Descrição | Autor | Revisor |
 | :--:  | :----: | :-------: | :---: | :-----: |
 | 25/02 | 1.0.0  | Criação do documento Análise Hierarquica de Tarefas | [Rodrigo Carvalho](https://github.com/Rocsantos) | [Antonio Igor](https://github.com/AntonioIgorCarvalho) , [Douglas Monteles](https://github.com/DouglasMonteles) e [Valderson Pontes](https://github.com/valdersonjr)
 | 26/02 | 1.1.0  | Adicionado texto de GOMS, Árvore de Tarefas Concorrentes | [Rodrigo Carvalho](https://github.com/Rocsantos) | [Antonio Igor](https://github.com/AntonioIgorCarvalho) , [Douglas Monteles](https://github.com/DouglasMonteles) e [Valderson Pontes](https://github.com/valdersonjr)
+| 05/04 | 1.2.0 | Criação do tópico KLM | [Valderson Pontes](https://github.com/valdersonjr) | - |
