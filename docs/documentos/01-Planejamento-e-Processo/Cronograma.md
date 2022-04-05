@@ -102,6 +102,6 @@ Com base nos horários de todos os membros, construímos um heatmap (ou mapa de 
 | 19/02 | 1.0.2  | Adição do tópico de objetivo ao documento | [Antonio Igor](https://github.com/antonioigorcarvalho) | [Eliseu Kadesh](https://github.com/eliseukadesh67)
 | 27/02 | 1.2.0  | Adição da tabela de sprint 2 | [Antonio Igor](https://github.com/antonioigorcarvalho) | [Erick Levy](https://github.com/ericklevy) e [Eliseu Kadesh](https://github.com/eliseukadesh67)
 | 14/03 | 1.3.0  | Adição da tabela de sprint 3 | [Antonio Igor](https://github.com/antonioigorcarvalho) | [Erick Levy](https://github.com/ericklevy) e [Eliseu Kadesh](https://github.com/eliseukadesh67)
-| 16/03 | 1.4.0  | Adição da tabela de sprint 4 | [Antonio Igor](https://github.com/antonioigorcarvalho) | - |
-| 30/03 | 1.5.0  | Adição da tabela de sprint 5 | [Antonio Igor](https://github.com/antonioigorcarvalho) | - |
-| 04/04 | 1.6.0  | Adição do heatmap | [Antonio Igor](https://github.com/antonioigorcarvalho) | - |
+| 16/03 | 1.4.0  | Adição da tabela de sprint 4 | [Antonio Igor](https://github.com/antonioigorcarvalho) | [Erick Levy](https://github.com/ericklevy) |
+| 30/03 | 1.5.0  | Adição da tabela de sprint 5 | [Antonio Igor](https://github.com/antonioigorcarvalho) | [Erick Levy](https://github.com/ericklevy) |
+| 04/04 | 1.6.0  | Adição do heatmap | [Antonio Igor](https://github.com/antonioigorcarvalho) | [Erick Levy](https://github.com/ericklevy) |
