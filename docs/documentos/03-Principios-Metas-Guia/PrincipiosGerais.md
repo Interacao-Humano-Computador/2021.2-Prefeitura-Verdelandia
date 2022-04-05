@@ -133,4 +133,4 @@ O site deve manter o usuário em uma posição segura ao utilizar o site, assumi
 | Data  | Versão | Descrição | Autor | Revisor |
 | :--:  | :----: | :-------: | :---: | :-----: |
 | 10/03 | 1.0.0 | Criação do documento de principios gerais | [Antonio Igor](https://github.com/antonioigorcarvalho) e [Valderson Pontes](https://github.com/valdersonjr) | [Eliseu Kadesh](https://github.com/eliseukadesh67) e [Erick Levy](https://github.com/ericklevy) |
-| 04/04 | 1.1.0 | Atualização na conclusão | [Antonio Igor](https://github.com/antonioigorcarvalho) | |
+| 04/04 | 1.1.0 | Atualização na conclusão | [Antonio Igor](https://github.com/antonioigorcarvalho) | [Erick Levy](https://github.com/ericklevy) |
