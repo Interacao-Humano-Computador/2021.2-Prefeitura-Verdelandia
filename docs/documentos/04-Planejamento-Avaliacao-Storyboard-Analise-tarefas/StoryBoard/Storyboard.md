@@ -17,7 +17,7 @@ No caso do storyboard, ele é formado por diversos desenhos que ilustrarão como
 ## 2. Metodologia
 
 <p align="justify">
-As tarefas que serão utilizadas para a criação dos storyboards foram selecionadas a partir da análise do documento de <a href="https://interacao-humano-computador.github.io/2021.2-Prefeitura-Verdelandia/documentos/02-Perfil-Persona-Analise/AnaliseHierarquica/" > Análise Hierárquica de Tarefas</a> (AHT). Para cada tarefa, uma persona compatível foi selecionada para ser a protagonista de cada storyboard.
+As tarefas que serão utilizadas para a criação dos storyboards serão utilizadas como base para o documento de <a href="https://interacao-humano-computador.github.io/2021.2-Prefeitura-Verdelandia/documentos/02-Perfil-Persona-Analise/AnaliseHierarquica/" > Análise Hierárquica de Tarefas</a> (AHT). Para cada tarefa, uma persona compatível foi selecionada para ser a protagonista de cada storyboard.
 </p>
 <p align="justify">
 As ferramentas utilizadas para elaborar os storyboards foram: 
@@ -79,7 +79,7 @@ Lara Barros é uma dona de casa. Às vezes no período da tarde ela gosta de pas
 ## 4. Conclusão
 
 <p align="justify">
-Concluímos que a partir desse documento podemos ter uma visão mais completa das tarefas que foram levantadas no documento de Análise Hierárquica de Tarefas (AHT), percebemos pelo storyboard o motivo que levou a persona acessar o site da Prefeitura de Verdelândia, em qual ambiente ela estava, quais os dispositivos disponíveis, tudo de forma resumida e de fácil entendimento.
+Concluímos que a partir desse documento podemos ter uma visão inicial das tarefas que serão mais detalhadas no documento de <a href="https://interacao-humano-computador.github.io/2021.2-Prefeitura-Verdelandia/documentos/02-Perfil-Persona-Analise/AnaliseHierarquica/" > Análise Hierárquica de Tarefas</a> (AHT), percebemos pelo storyboard o motivo que levou a persona acessar o site da Prefeitura de Verdelândia, em qual ambiente ela estava, quais os dispositivos disponíveis, tudo de forma resumida e de fácil entendimento.
 </p>
 
 ## 5. Referências
@@ -95,3 +95,4 @@ Concluímos que a partir desse documento podemos ter uma visão mais completa da
 | 16/03 | 1.0.2  |                  Inclusão da conclusão                  | [Antonio Igor](https://github.com/antonioigorcarvalho) e [Valderson Pontes](https://github.com/valdersonjr) |                            [Douglas Monteles](https://github.com/DouglasMonteles) e [Eliseu Kadesh](https://github.com/eliseukadesh67)                              |
 | 16/03 | 1.0.3  |             Correção de erros de ortografia             |                             [Eliseu Kadesh](https://github.com/eliseukadesh67)                              | [Antonio Igor](https://github.com/antonioigorcarvalho) e [Valderson Pontes](https://github.com/valdersonjr) |
 | 16/03 | 1.0.4  | Correção de erros de ortografia e link adicionado à AHT | [Antonio Igor](https://github.com/antonioigorcarvalho) e [Valderson Pontes](https://github.com/valdersonjr) |                            [Douglas Monteles](https://github.com/DouglasMonteles) e [Eliseu Kadesh](https://github.com/eliseukadesh67)                              |
+| 04/04 | 1.0.5  |           Atualização na descrição do documento            | [Antonio Igor](https://github.com/antonioigorcarvalho) |
