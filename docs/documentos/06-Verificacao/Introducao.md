@@ -12,26 +12,52 @@ Sendo assim, este documento tem como objetivo dar uma introdução ao conceito d
 ## 2. Metodologia
 
 <p align="justify">
- O método escolhido foi o de inspeção, quer irá auxiliar a encontrar erros nos documentos que serão avaliados, para a aplicação desse método checklists foram criados para cada um dos documentos a serem análisados.
+ O método escolhido foi o de inspeção, quer irá auxiliar a avaliar se o sistema cumpre com o esperado, para a aplicação desse método checklists foram criados para cada um dos documentos a serem análisados.
 </p>
 
-## 3. Resultados
+## 3. Checklists
 
-### 3.1 Planejamento e Processo
+<p align="justify">
+Cada checklist possuirá o seguinte formato:
+</p>
 
-### 3.2 Perfil do Usuário, Personas e Análise de Tarefas
+<center>
 
-### 3.3 Guia de Estilo, Metas de Usabilidade e Principios Gerais
+#### Tabela 1: Formato Checklist
 
-### 3.4 Análise de Tarefas e Storyboard
+| Quesito da avaliação | Situação |
+| :------------------: | :------: |
+| Descrição | ✔️ |
+| Descrição | ❌ |
 
-### 3.5 Planejamento Protótipo de Papel, Resultado Análise de Tarefas e Resultado Storyboard 
+<figcaption>Fonte: Próprio autor</figcaption>
+</center>
 
-## 4. Referências
+<br>
+<p align="justify">
+No qual os ícones possuem o seguinte significado:
+</p>
+
+-  ✔️ | Quesito satisfeito
+-  ❌ | Quesito não satisfeito
+
+## 4. Resultados
+
+### 4.1 Planejamento e Processo
+
+### 4.2 Perfil do Usuário, Personas e Análise de Tarefas
+
+### 4.3 Guia de Estilo, Metas de Usabilidade e Principios Gerais
+
+### 4.4 Análise de Tarefas e Storyboard
+
+### 4.5 Planejamento Protótipo de Papel, Resultado Análise de Tarefas e Resultado Storyboard 
+
+## 5. Referências
 
 > SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 23
 
-## 5. Histórico de versionamento
+## 6. Histórico de versionamento
 
 |Data|Versão|Descrição|Autor|Revisor
 |-|-|-|-|-|
