@@ -1,9 +1,9 @@
-# Metodologia
+# Verificação Metodologia
 
 ## 1. Introdução
 
 <p align='justify'>
-  Após a criação do documento de <a href="">metodologia</a>, tem-se a necessidade de averiguar se suas especificações atendem ao que é exigido, no caso o método escolhido foi a inspeção. Para maiores detalhes da metodologia utilizada <a href="INSIRAAQUI">clique aqui</a>.
+  Após a criação do documento de <a href="https://interacao-humano-computador.github.io/2021.2-Prefeitura-Verdelandia/documentos/01-Planejamento-e-Processo/Metodologia/">metodologia</a>, tem-se a necessidade de averiguar se suas especificações atendem ao que é exigido, no caso o método escolhido foi a inspeção. Para maiores detalhes da metodologia utilizada <a href="INSIRAAQUI">clique aqui</a>.
 </p>
 
 <center>
