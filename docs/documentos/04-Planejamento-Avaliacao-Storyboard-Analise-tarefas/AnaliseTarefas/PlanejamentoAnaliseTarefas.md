@@ -10,9 +10,18 @@ O objetivo da Avaliação da Análise de Tarefas é validar os processos e docum
 A metodologia escolhida para realizar a avaliação de análise de tarefas, será o teste de usabilidade. O teste de usabilidade visa a avaliar a usabilidade de um sistema interativo a partir de experiências de uso dos seus usuários-alvo (Rubin, 1994; Rubin e Chisnell, 2008).
 </p>
 
-## 3. Teste de Usabilidade
+## 3. Ferramentas
+<p align="justify">
+Para realização das entrevistas foi decidido utilizar as seguintes ferramentas:
+</p>
 
-### 3.1 Definição das atividades
+- Discord: para a realização da entrevista
+- Streamlabs OBS: para a gravação da entrevista
+- Youtube: para a disponibilização do vídeo
+
+## 4. Teste de Usabilidade
+
+### 4.1 Definição das atividades
 <p align="justify">
 Todas as etapas do teste de usabilidade serão realizadas em conformidade com a Tabela 1, seguindo seus passos e orientações.
 </p>
@@ -32,7 +41,7 @@ Relato dos Resultados | <ul>Relatar a performance e opinião dos participantes</
 Fonte: [1] - Tabela 12.4.
 </b></p>
 
-### 4.1 Preparação
+### 4.2 Preparação
 <p align="justify">
 A etapa da preparação será realizada previamente à entrevista para garantir que a mesma seja conduzida da forma correta. Alguns pontos importantes:
 </p>
@@ -42,17 +51,17 @@ A etapa da preparação será realizada previamente à entrevista para garantir 
 - O material preparado para observar e registrar o uso será utilizado para a gravação da entrevista
 - Não será realizado teste piloto pois a quantidade de pessoas a serem entrevistadas será pequena
 
-### 4.2 Coleta de Dados
+### 4.3 Coleta de Dados
 <p align="justify">
 A coleta de dados será feita através da entrevista, no qual o participante será orientado a realizar as tarefas definidas previamente, e durante a realização também será feito uma série de perguntas referentes a essas tarefas, as respostas dessas perguntas fornecerão dados sobre a experiência do usuário com o site.
 </p>
 
-### 4.3 Interpretação e Consolidação dos Resultados
+### 4.4 Interpretação e Consolidação dos Resultados
 <p align="justify">
 A interpretação e consolidação dos resultados será feita através da análise da gravação da entrevista, cabendo ao responsável sumarizar somente aquilo que seja relevante.
 </p>
 
-### 4.4 Relato dos resultados
+### 4.5 Relato dos resultados
 <p align="justify">
 O relato dos resultados será a síntese daquilo que foi analizado, contendo os resultados sobre a performance e opinião dos participantes.
 </p>
