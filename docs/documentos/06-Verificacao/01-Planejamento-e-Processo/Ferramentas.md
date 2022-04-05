@@ -1,4 +1,4 @@
-# INSIRAAQUI
+# Ferramentas
 
 ## 1. Introdução
 
@@ -10,19 +10,18 @@
 
 ## 2. Resultados
 
-#### Tabela 1: Checklist INSIRAAQUI
+#### Tabela 1: Checklist Ferramentas
 
 | Número | Quesito da avaliação | Situação |
 | :----: | :------------------: | :------: |
 | 1 | O documento utiliza uma linguagem clara e sem erros ortográficos? | ❌ |
 | 2 | O documento contém as informações necessárias?                    | ❌ |
-| 3 | Os tópicos/artefatos estão descritos de forma clara e objetiva?   | ❌ |
+| 3 | Os tópicos estão descritos de forma clara e objetiva?             | ❌ |
 | 4 | As imagens possuem legendas?                                      | ❌ |
 | 5 | As tabelas possuem legendas?                                      | ❌ |
 | 6 | O documento possui introdução/objetivo?                           | ❌ |
 | 7 | O documento possui conclusão/resultado                            | ❌ |
 | 8 | O documento possui histórico de versionamento?                    | ❌ |
-| 9 | ----------------------------------------------------------------  | ❌ |
 
 <figcaption>Fonte: Próprio autor</figcaption>
 
