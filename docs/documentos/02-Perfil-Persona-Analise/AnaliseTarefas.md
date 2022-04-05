@@ -83,4 +83,4 @@ Devido a simplicidade do site da Prefeitura de Verdelândia, e o fato de não ha
 | :--:  | :----: | :-------: | :---: | :-----: |
 | 25/02 | 1.0.0  | Criação do documento Análise Hierarquica de Tarefas | [Rodrigo Carvalho](https://github.com/Rocsantos) | [Antonio Igor](https://github.com/AntonioIgorCarvalho) , [Douglas Monteles](https://github.com/DouglasMonteles) e [Valderson Pontes](https://github.com/valdersonjr)
 | 26/02 | 1.1.0  | Adicionado texto de GOMS, Árvore de Tarefas Concorrentes | [Rodrigo Carvalho](https://github.com/Rocsantos) | [Antonio Igor](https://github.com/AntonioIgorCarvalho) , [Douglas Monteles](https://github.com/DouglasMonteles) e [Valderson Pontes](https://github.com/valdersonjr)
-| 05/04 | 1.2.0 | Criação do tópico KLM | [Valderson Pontes](https://github.com/valdersonjr) | - |
+| 05/04 | 1.2.0 | Criação do tópico KLM | [Valderson Pontes](https://github.com/valdersonjr) | [Antonio Igor](https://github.com/AntonioIgorCarvalho) |
