@@ -26,7 +26,13 @@
   Na avaliação do storyboard, serão abordadas algumas questões acerca de cada storyboards produzido, cujo objetivo é identificar se o entrevistado está de fato inserido na realidade retratada nos storyboards e se ele tem algo a acrescentar ou algum ponto de vista (sugestão, crítica, alteração) que gostaria de compartilhar.
 </p>
 
-## 4.2 Elaboração do roteiro de perguntas
+## 4.2 Validação do storyboard
+
+<p align="justify">
+  A validação do storyboard será dada em virtude das respostas dos entrevistados. Dessa forma, para a validação, será observado se os storyboards condizem com a realidade dos entrevistados. Além disso, também serão observadas quaisquer sugestões de melhoria dada, seja por críticas, comentários, identificação de erros ou outros.
+</p>
+
+## 4.3 Elaboração do roteiro de perguntas
 
 <p align="justify">
   Optamos por conduzir uma entrevista semiestruturada, nessas entrevistas: O roteiro é composto dos tópicos ou perguntas (geralmente abertas) que devem ser endereçados na entrevista, em uma ordem lógica. O entrevistador tem liberdade para explorar em maior profundidade as respostas fornecidas pelo entrevistado e até mesmo modificar a ordem dos tópicos bordados, mas deve manter o foco nos objetivos da entrevista (Barbosa, 2021).
@@ -129,7 +135,7 @@
   <figcaption>Figura 1: Questões da entrevista</figcaption>
 </figure>
 
-## 4.3 Aplicação da Avaliação
+## 4.4 Aplicação da Avaliação
 
 <p align="justify">
   Para a entrevista, optou-se por realiza-la através do Microsoft Teams, tendo em vista a simplicidade e o alcançe dessa plataforma. Na data combinada para a realização da entrevista, cada participante deve receber um link para a videoconferencia, com pelo menos 10 minutos de antecedência, e o tempo total da entrevista não pode superar os 30 minutos, para que não haja esgotamento do entrevistado e consequente perca de qualidade nas respostas obtidas. Os próximos passos estão descritos abaixo:
@@ -142,7 +148,7 @@
 
 **Importante:** Sempre que achar necessário, anote algum ponto ou observação que possa ter surgido ao longo da entrevista e que possa vir a contribuir futuramente para o projeto.
 
-## 4.4 Conclusão da avaliação
+## 4.5 Conclusão da avaliação
 
 <p align="justify">
   Dada a conclusão de cada entrevista programada, cabe ao avaliador elaborar um relatório com os resultados da entrevista, onde este deve conter: os pontos apontados pelo entrevistado, tanto positivos quanto negativos, sugestões de melhorias, link da gravação da entrevista e o que mais o avaliador achar pertinente.
