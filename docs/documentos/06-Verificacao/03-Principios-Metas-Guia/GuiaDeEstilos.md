@@ -21,7 +21,7 @@
 | 5 | As tabelas possuem legendas?                                      | ❌ |
 | 6 | O documento possui introdução/objetivo?                           | ❌ |
 | 7 | O documento possui conclusão/resultado                            | ❌ |
-| 8 | ----------------------------------------------------------------  | ❌ |
+| 8 | O documento possui histórico de versionamento?                    | ❌ |
 | 9 | ----------------------------------------------------------------  | ❌ |
 
 <figcaption>Fonte: Próprio autor</figcaption>
