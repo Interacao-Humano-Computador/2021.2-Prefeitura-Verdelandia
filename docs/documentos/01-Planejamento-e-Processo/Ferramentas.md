@@ -15,7 +15,9 @@ Levantamento de todas as ferramentas que serão utilizadas para o desenvolviment
 |<img style="width: 80px; border-radius: 20px" src="../../../assets/logos/ms-teams.png">| <p style="text-align: justify">O Microsoft Teams é um aplicativo para reuniões oficial adotado pela Universidade de Brasília e será utilizado para realizar a gravação das apresentações.</p>|
 |<img style="width: 80px; border-radius: 20px" src="../../../assets/logos/excel.jpg">| <p style="text-align: justify">O Excel é um aplicativo para a criação e edição de planilhas, utilizado pelo grupo para a criação do cronograma.</p>|
 |<img style="width: 80px; border-radius: 20px" src="../../../assets/logos/vscode.jpg">| <p style="text-align: justify">Visual Studio Code é uma ferramenta para a criação e edição de projetos nas mais diversas linguagens de programação, neste projeto ele é utilizado para criar e editar documentos em Markdown (.md).</p>|
-|<img style="width: 80px; border-radius: 20px" src="../../../assets/logos/discord.png">| <p style="text-align: justify">O Discord é utilizado para as reuniões online do grupo para tratar sobre as Sprints e outros assuntos relacionados ao projeto.</p>|
+|<img style="width: 80px; border-radius: 20px" src="../../../assets/logos/discord.png">| <p style="text-align: justify">O Discord é utilizado para as reuniões online do grupo para tratar sobre as Sprints e outros assuntos relacionados ao projeto, também é uma alternativa para a realização das reuniões.</p>|
+|<img style="width: 80px; border-radius: 20px" src="../../../assets/logos/streamlabs.jpg">| <p style="text-align: justify">O streamlabs OBS é uma ferramenta que pode ser utilizada para a gravação de de entrevistas e reuniões realizadas no discord.</p>|
+
 
 <center>
   Tabela 1: Ferramentas utilizadas no projeto
