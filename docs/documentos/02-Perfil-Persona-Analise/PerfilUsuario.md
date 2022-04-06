@@ -14,6 +14,8 @@ A elaboração de um perfil de usuário é um processo iterativo. Em geral, um d
 <p style="text-align: justify">Um questionário é um formulário impresso ou on-line com perguntas que os usuários e demais participantes devem responder , também é uma maneira de otimizar o entendimento do processo. É uma técnica que permite a rápida obtenção de informações quantitativas e qualitativas de um público alvo. Diferente da técnica de entrevista, o questionário permite coletar dados de pessoas até dispersas geograficamente.</p>
 
 
+
+
 ## 3. Questionário
 
 <p style="text-align: justify">
@@ -24,6 +26,20 @@ A fim de obter as características do perfil de usuário que usam sites relacion
 O questionário foi criado a partir do Google Forms, aplicado de forma on-line e respondido mantendo o anonimato do respondente. Abaixo estão o resultado das questões aplicadas que servirão para facilitar a criação das personas. 
 </p>
 
+<p style="text-align: justify">
+Aplicamos o questionario em forma online em plataformas como facebook,linkedin,whatsapp e telegram para conseguir uma mais ampla resposta dos usuarios.
+</p>
+
+
+
+
+
+
+## 4. Comunidade
+
+<p style="text-align: justify">
+A comunidade que respondeu este questionario foram pessoas entre a faixa etaria de 18 a 31 anos 
+</p>
 
 ## 4. Resultado das Questões
 
