@@ -27,7 +27,7 @@ O questionário foi criado a partir do Google Forms, aplicado de forma on-line e
 </p>
 
 <p style="text-align: justify">
-Aplicamos o questionario em forma online em plataformas como facebook,linkedin,whatsapp e telegram para conseguir uma mais ampla resposta dos usuarios.
+Aplicamos o questionário em forma online em plataformas como facebook,Linkedin,Whatsapp e Telegram para conseguir uma maior resposta dos usuários.
 </p>
 
 
@@ -38,10 +38,10 @@ Aplicamos o questionario em forma online em plataformas como facebook,linkedin,w
 ## 4. Comunidade
 
 <p style="text-align: justify">
-A comunidade que respondeu este questionario foram pessoas entre a faixa etaria de 18 a 31 anos 
+A comunidade que respondeu este questionario foram pessoas entre a faixa etaria de 18 a 31 anos que possuem acesso a internet, mas que consideram que um site de prefeitura seja simples e intuito assim sendo facil de utilizar.
 </p>
 
-## 4. Resultado das Questões
+## 5. Resultado das Questões
 
 <p style="text-align: justify">
 Abaixo estão as questões e o seu respectivo resultado após a divulgação do questionário. No total foram obtidas 16 (dezesseis) respostas e o seu resultado está em forma de gráfico para uma melhor visualização e para facilitar durante a análise dos dados.
@@ -57,26 +57,26 @@ Abaixo estão as questões e o seu respectivo resultado após a divulgação do 
   </a>
 </p>
 
-### 4.1 Questão 1
+### 5.1 Questão 1
 
 <figure>
   <img src="../../../assets/questionario/q1.png" alt="Questão 1">
   <figcaption>Figura 1: Questão 1</figcaption>
 </figure>
 
-### 4.2 Questão 2
+### 5.2 Questão 2
 <figure>
   <img src="../../../assets/questionario/q2.png" alt="Questão 2">
   <figcaption>Figura 2: Questão 2</figcaption>
 </figure>
 
-### 4.3 Questão 3
+### 5.3 Questão 3
 <figure>
   <img src="../../../assets/questionario/q3.png" alt="Questão 3">
   <figcaption>Figura 3: Questão 3</figcaption>
 </figure>
 
-### 4.4 Questão 4
+### 5.4 Questão 4
 <figure>
   <img src="../../../assets/questionario/q4.png" alt="Questão 4">
   <figcaption>Figura 4: Questão 4</figcaption>
@@ -88,25 +88,34 @@ Abaixo estão as questões e o seu respectivo resultado após a divulgação do 
   <figcaption>Figura 5: Questão 5</figcaption>
 </figure>
 
-### 4.6 Questão 6
+### 5.6 Questão 6
 <figure>
   <img src="../../../assets/questionario/q6.png" alt="Questão 6">
   <figcaption>Figura 6: Questão 6</figcaption>
 </figure>
 
-### 4.7 Questão 7
+### 5.7 Questão 7
 <figure>
   <img src="../../../assets/questionario/q7.png" alt="Questão 7">
   <figcaption>Figura 7: Questão 7</figcaption>
 </figure>
 
-### 4.8 Questão 8
+### 5.8 Questão 8
 <figure>
   <img src="../../../assets/questionario/q8.png" alt="Questão 8">
   <figcaption>Figura 8: Questão 8</figcaption>
 </figure>
 
-## 5. Conclusão
+
+## 6. Perguntas obtidas com o questionário
+
+<p style="text-align: justify">
+
+</p>
+
+
+
+## 7. Conclusão
 
 <p style="text-align: justify">
 Em posse dos dados obtidos com a aplicação do questionário, podemos perceber que o público mais assíduo encontra-se na faixa de 18 à 22 anos, ou seja, trata-se de usuários jovens que já completaram o ensino superior ou ainda o  estão cursando e que não possuem dificuldade em utilizar-se da tecnologia.
@@ -116,13 +125,13 @@ Em posse dos dados obtidos com a aplicação do questionário, podemos perceber 
 Além disso, observa-se que a grande maioria dos usuários exigem simplicidade e intuitividade nos sites das prefeituras que acessam ou já precisaram acessar em algum momento. Concomitante a isso, ao menos 38.5% julgaram ter tido uma experiência ruim ao acessar o site de alguma prefeitura. Apesar os inconvenientes, a maioria dos respondentes conseguiram atingir o seu objetivo ao acessar o site, e dentre os principais motivos para acessa-lo estão: Acompanhar as notícias de sua respectiva cidade, obter informações sobre o transporte urbano e matrículas em educação infantil. 
 </p>
 
-## 6. Referências
+## 8. Referências
  
 > [1] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação HumanoComputador e Experiência do usuário. Autopublicação. 
 
 > [2] Vazquez, Carlos E. Engenharia de requisitos software orientado a negocios. Rio de Janeiro. Ed. Abreu’s System, 2016
  
-## 7. Histórico de versionamento
+## 9. Histórico de versionamento
  
 | Data  | Versão | Descrição | Autor | Revisor |
 | :--:  | :----: | :-------: | :---: | :---: |
