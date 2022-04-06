@@ -19,7 +19,7 @@
 </p>
 
 <p align="justify">
-Também optamos por adotar o framework DECIDE, que propõem orientar o planejamento, a execução e a análise de uma avaliação de IHC. As atividades do framework são interligadas e executadas iterativamente, à medida que o avaliador articula os objetivos da avaliação, os dados e recursos disponíveis (Preece et al., 2002).
+Também optamos por adotar o framework DECIDE, que propõem orientar o planejamento, a execução e a análise de uma avaliação de IHC. As atividades do framework são interligadas e executadas interativamente, à medida que o avaliador articula os objetivos da avaliação, os dados e recursos disponíveis (Preece et al., 2002).
 
 O acrônimo DECIDE pode ser expandido para os seguintes tópicos:
 </p>
@@ -48,7 +48,7 @@ O acrônimo DECIDE pode ser expandido para os seguintes tópicos:
 ## 4.3 Elaboração do roteiro de perguntas
 
 <p align="justify">
-  Optamos por conduzir uma entrevista semiestruturada, nessas entrevistas: O roteiro é composto dos tópicos ou perguntas (geralmente abertas) que devem ser endereçados na entrevista, em uma ordem lógica. O entrevistador tem liberdade para explorar em maior profundidade as respostas fornecidas pelo entrevistado e até mesmo modificar a ordem dos tópicos bordados, mas deve manter o foco nos objetivos da entrevista (Barbosa, 2021).
+  Optamos por conduzir uma entrevista semiestruturada, nessas entrevistas: O roteiro é composto dos tópicos ou perguntas (geralmente abertas) que devem ser endereçados na entrevista, em uma ordem lógica. O entrevistador tem liberdade para explorar em maior profundidade as respostas fornecidas pelo entrevistado e até mesmo modificar a ordem dos tópicos abordados, mas deve manter o foco nos objetivos da entrevista (Barbosa, 2021).
 </p>
 
 <figure>

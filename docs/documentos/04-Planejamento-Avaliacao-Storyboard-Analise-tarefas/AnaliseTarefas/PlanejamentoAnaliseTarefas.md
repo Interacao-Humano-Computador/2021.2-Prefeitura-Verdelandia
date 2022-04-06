@@ -11,7 +11,7 @@ A metodologia escolhida para realizar a avaliação de análise de tarefas, ser�
 </p>
 
 <p align="justify">
-Também optamos por adotar o framework DECIDE, que propõem orientar o planejamento, a execução e a análise de uma avaliação de IHC. As atividades do framework são interligadas e executadas iterativamente, à medida que o avaliador articula os objetivos da avaliação, os dados e recursos disponíveis (Preece et al., 2002).
+Também optamos por adotar o framework DECIDE, que propõem orientar o planejamento, a execução e a análise de uma avaliação de IHC. As atividades do framework são interligadas e executadas interativamente, à medida que o avaliador articula os objetivos da avaliação, os dados e recursos disponíveis (Preece et al., 2002).
 
 O acrônimo DECIDE pode ser expandido para os seguintes tópicos:
 </p>
