@@ -19,16 +19,7 @@ Ao concordar com esse termo, o participante atesta que entende as garantias e os
 
 ### 2.2 O termo de consentimento
 
-<p align="justify">
-Somos uma equipe da disciplina Interação Humano Computador, da Universidade de Brasília, que está participando do projeto de avaliação do site Prefeitura de Verdelândia. Nessa etapa do projeto, estamos realizando uma validação sobre o documento de <a href="https://interacao-humano-computador.github.io/2021.2-Prefeitura-Verdelandia/documentos/02-Perfil-Persona-Analise/AnaliseHierarquica/">análise de tarefas</a>, e solicitamos seu consentimento para a participação e gravação de uma entrevista. Para decidir sobre o seu consentimento, é importante que você conheça as seguintes informações sobre a pesquisa:
-</p>
-
--   Somente a gravação do áudio e a tela do computador são necessárias.
--   Os dados coletados durante a entrevista destinam-se estritamente a fins acadêmicos.
--   O consentimento para a entrevista é uma escolha livre, feita mediante a prestação de todos os
-    esclarecimentos necessários sobre a pesquisa.
--   A entrevista pode ser interrompida a qualquer momento, segundo a sua disponibilidade e
-    vontade.
+<embed src="../../../assets/termo-consentimento/avaliacao-analise-tarefas.pdf" width="600" height="500" type="application/pdf">
 
 ## 3. Entrevistas
 
@@ -116,4 +107,5 @@ Por fim, ambos os usuários conseguiram atingir o objetivo final da tarefa.
 | 28/03 | 1.2.0  |    Adição da primeira entrevista     | [Antonio Igor](https://github.com/antonioigorcarvalho) e [Valderson Pontes](https://github.com/valdersonjr) | [Rodrigo Carvalho](https://github.com/Rocsantos) e [Eliseu Kadesh](https://github.com/eliseukadesh67) |
 | 28/03 | 1.3.0  |     Adição da segunda entrevista     | [Antonio Igor](https://github.com/antonioigorcarvalho) e [Valderson Pontes](https://github.com/valdersonjr) | [Rodrigo Carvalho](https://github.com/Rocsantos) e [Eliseu Kadesh](https://github.com/eliseukadesh67) |
 | 30/03 | 1.4.0  | Criação da Introdução e do Resultado | [Antonio Igor](https://github.com/antonioigorcarvalho) e [Valderson Pontes](https://github.com/valdersonjr) | [Rodrigo Carvalho](https://github.com/Rocsantos) e [Eliseu Kadesh](https://github.com/eliseukadesh67) |
+| 06/04 | 1.4.1 | Padronizando o termo de consentimento | [Eliseu Kadesh](https://github.com/eliseukadesh67)| A definir
 
