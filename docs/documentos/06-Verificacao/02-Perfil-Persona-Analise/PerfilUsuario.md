@@ -27,12 +27,7 @@
 
 </center>
 
-## 3. Conclusão
-
-<p align='justify'>
-</p>
-
-## 4. Histórico de Versionamento
+## 3. Histórico de Versionamento
 
 |Versão|Data de modificação|Descrição da modificação|Autor|Revisor|
 |-|-|-|-|-|
