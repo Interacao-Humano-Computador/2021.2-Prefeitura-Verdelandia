@@ -21,6 +21,8 @@
 | 6 | O documento possui introdução/objetivo?                           | ❌ |
 | 7 | O documento possui conclusão/resultado                            | ❌ |
 | 8 | O documento possui histórico de versionamento?                    | ❌ |
+| 9 | A estrutura do Guia de Estilo está de acordo com o padrão escolhido? | ❌ |
+|10 | Existem imagens do sistema analisado para referência visual?         | ❌ |
 
 <figcaption>Fonte: Próprio autor</figcaption>
 
