@@ -46,8 +46,8 @@ Fonte: [1] - Tabela 12.4.
 A etapa da preparação será realizada previamente à entrevista para garantir que a mesma seja conduzida da forma correta. Alguns pontos importantes:
 </p>
 
-- A definição das tarefas já foi realizada no documento de AHT
-- O perfil dos participantes já foi definido no documento de Perfil de Usuário
+- A definição das tarefas já foi realizada no documento de [AHT](../../02-Perfil-Persona-Analise/AnaliseHierarquica.md)
+- O perfil dos participantes já foi definido no documento de [Perfil de Usuário](../../02-Perfil-Persona-Analise/PerfilUsuario.md)
 - O material preparado para observar e registrar o uso será utilizado para a gravação da entrevista
 - Não será realizado teste piloto pois a quantidade de pessoas a serem entrevistadas será pequena
 
@@ -85,3 +85,4 @@ Ao final da avaliação, teremos o relato dos resultados, que abrangerá o objet
 | 16/03 | 1.0.0 | Criação do Documento Planejamento da Análise de Tarefas | [Eliseu Kadesh](https://github.com/eliseukadesh67) e [Rodrigo Carvalho](https://github.com/Rocsantos) | [Antonio Igor](https://github.com/AntonioIgorCarvalho) e [Erick Levy](https://github.com/ErickLevy)
 | 16/03 | 1.1.0 | Ajuste nos tópicos e adição de links para outros documentos | [Eliseu Kadesh](https://github.com/eliseukadesh67) | [Antonio Igor](https://github.com/AntonioIgorCarvalho) e [Erick Levy](https://github.com/ErickLevy)
 | 29/03 | 1.2.0 | Atualização do documento conforme orientações | [Antonio Igor](https://github.com/AntonioIgorCarvalho) e [Valderson Pontes](https://github.com/valdersonjr) | [Erick Levy](https://github.com/ErickLevy)
+| 06/04 | 1.2.1 | Adicionando link para outros documentos | [Eliseu Kadesh](https://github.com/eliseukadesh67) | [Valderson Pontes](https://github.com/valdersonjr) e [Antonio Igor](https://github.com/antonioigorcarvalho)
