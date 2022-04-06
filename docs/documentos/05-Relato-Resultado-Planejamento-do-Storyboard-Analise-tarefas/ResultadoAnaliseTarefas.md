@@ -107,5 +107,5 @@ Por fim, ambos os usuários conseguiram atingir o objetivo final da tarefa.
 | 28/03 | 1.2.0  |    Adição da primeira entrevista     | [Antonio Igor](https://github.com/antonioigorcarvalho) e [Valderson Pontes](https://github.com/valdersonjr) | [Rodrigo Carvalho](https://github.com/Rocsantos) e [Eliseu Kadesh](https://github.com/eliseukadesh67) |
 | 28/03 | 1.3.0  |     Adição da segunda entrevista     | [Antonio Igor](https://github.com/antonioigorcarvalho) e [Valderson Pontes](https://github.com/valdersonjr) | [Rodrigo Carvalho](https://github.com/Rocsantos) e [Eliseu Kadesh](https://github.com/eliseukadesh67) |
 | 30/03 | 1.4.0  | Criação da Introdução e do Resultado | [Antonio Igor](https://github.com/antonioigorcarvalho) e [Valderson Pontes](https://github.com/valdersonjr) | [Rodrigo Carvalho](https://github.com/Rocsantos) e [Eliseu Kadesh](https://github.com/eliseukadesh67) |
-| 06/04 | 1.4.1 | Padronizando o termo de consentimento | [Eliseu Kadesh](https://github.com/eliseukadesh67)| [Valderson Pontes](https://github.com/valdersonjr)
+| 06/04 | 1.4.1 | Padronizando o termo de consentimento | [Eliseu Kadesh](https://github.com/eliseukadesh67)| [Valderson Pontes](https://github.com/valdersonjr) e [Antonio Igor](https://github.com/antonioigorcarvalho)
 
