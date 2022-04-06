@@ -107,11 +107,21 @@ Abaixo estão as questões e o seu respectivo resultado após a divulgação do 
 </figure>
 
 
-## 6. Perguntas obtidas com o questionário
+## 6. Perguntas obtidas com o questionário do porque o uso do site de prefeitura
 
 <p style="text-align: justify">
-
+As perguntas foram ordenadas de acordo com a porcentagem de sua importância para os usuários.
 </p>
+
+  - Para acompanhar as notícias da  minha cidade.
+  - Para saber mais sobre o passado da cidade.
+  - Para me informar sobre ações sociais em andamento na cidade.
+  - Para me informar sobre ou solicitar os serviços de limpeza e iluminação pública.
+  - Para me informar sobre os serviços de transporte urbano.
+  - Para saber sobre o CRAS.
+  - Para saber ou acompanhar as vagas na educação infantil e o ensino fundamental.
+  - Atividades relacionadas ao fluxo de emissão e consulta de notas fiscais eletrônicas.
+
 
 
 
