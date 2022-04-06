@@ -109,6 +109,10 @@ analisadas;
 - o conhecimento que os usuários deveriam aprender enquanto realizam as tarefas analisadas;
 - as sugestões de correções na interface.
 
+<p align="justify">
+Consonante ao estabelecido nas orientações do framework DECIDE, este documento aborda os <a href="https://interacao-humano-computador.github.io/2021.2-Prefeitura-Verdelandia/documentos/05-Relato-Resultado-Planejamento-do-Storyboard-Analise-tarefas/PlanejamentoPrototipoPapel/#2-objetivo">objetivos</a> e <a href="https://interacao-humano-computador.github.io/2021.2-Prefeitura-Verdelandia/documentos/05-Relato-Resultado-Planejamento-do-Storyboard-Analise-tarefas/PlanejamentoPrototipoPapel/#1-introducao">questões</a> a serem respondidas com a aplicação desta avaliação, na <a href="https://interacao-humano-computador.github.io/2021.2-Prefeitura-Verdelandia/documentos/05-Relato-Resultado-Planejamento-do-Storyboard-Analise-tarefas/PlanejamentoPrototipoPapel/#3-metodologia">Metodologia</a> é abordada entre outros, o método de avaliação adotado, em <a href="https://interacao-humano-computador.github.io/2021.2-Prefeitura-Verdelandia/documentos/05-Relato-Resultado-Planejamento-do-Storyboard-Analise-tarefas/PlanejamentoPrototipoPapel/#4-planejamento-da-avaliacao">planejamento</a> fica claro a definição das questões práticas bem como das questões éticas também e ao final temos a conclusão com os <a href="https://interacao-humano-computador.github.io/2021.2-Prefeitura-Verdelandia/documentos/05-Relato-Resultado-Planejamento-do-Storyboard-Analise-tarefas/PlanejamentoPrototipoPapel/#5-resultados">resultados</a> obtidos.
+</p>
+
 ## 6. Referências
  
 > BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador, Rio de Janeiro, 2021.
