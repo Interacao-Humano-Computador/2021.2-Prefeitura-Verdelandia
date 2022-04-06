@@ -22,6 +22,8 @@
 | 6 | O documento possui introdução/objetivo?                           | ❌ |
 | 7 | O documento possui conclusão/resultado                            | ❌ |
 | 8 | O documento possui histórico de versionamento?                    | ❌ |
+| 9 | A explicação para cada diagrama está correta?                     | ❌ |
+|10 | Existe uma tabela coerente para cada diagrama?                    | ❌ |
 
 <figcaption>Fonte: Próprio autor</figcaption>
 
