@@ -90,7 +90,7 @@ Caio ressalta que preferiria que existisse um botão para consultar o agendament
 ## 4. Resultados
 
 <p align="justify">
-Em virtude da análise das entrevistas, nota-se um resultado congruente no que se refere às ações esperadas pelos entrevistados, no entanto com algumas ressalvas. O primeiro entrevistado, Gustavo Caponi, demonstrou certa dificuldades para achar o "Fale Conosco" da primeira tarefa, pois acha intuitivo se ter o contato no rodapé do site. Vale ainda ressaltar que o rodapé possuia sim um "Fale Conosco", porém não-funcional. Por outro lado, Caio Lopes, demonstrou certa dificuldade na segunda tarefa, pois está acostumado a encontrar funcionalidades na barra de navegação ou de pesquisa.
+Em virtude da análise das entrevistas, nota-se um resultado congruente no que se refere às ações esperadas pelos entrevistados, no entanto com algumas ressalvas. O primeiro entrevistado, Gustavo Caponi, demonstrou certa dificuldade para achar o "Fale Conosco" da primeira tarefa, pois acha intuitivo se ter o contato no rodapé do site. Vale ainda ressaltar que o rodapé possuia sim um "Fale Conosco", porém não-funcional. Por outro lado, Caio Lopes, demonstrou certa dificuldade na segunda tarefa, pois está acostumado a encontrar funcionalidades na barra de navegação ou de pesquisa.
 Por fim, ambos os usuários conseguiram atingir o objetivo final da tarefa.
 
 </p>
