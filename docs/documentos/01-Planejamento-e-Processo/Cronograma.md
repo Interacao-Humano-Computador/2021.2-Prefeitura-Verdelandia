@@ -84,6 +84,27 @@ O objetivo do cronograma do projeto é prover uma visualização rápida da divi
   Tabela 6 - Tarefas da Sprint 5
 </center>
 
+### 3.6 Sprint 6
+| Tarefas         | Responsável | Revisor   | Entrega Limite |
+| :-----:         | :---------: | :-----:   | :--------------: |
+| Adição do HeatMap                                                     | [Antonio Igor](https://github.com/antonioigorcarvalho) | [Erick Levy](https://github.com/ericklevy) | 05/04 |
+| Melhorar descrição do perfil de usuário                               | [Erick Levy](https://github.com/ericklevy)             | [Antonio Igor](https://github.com/antonioigorcarvalho) | 05/04 |
+| Explicar outra técnica de modelagem na análise de tarefas             | [Valderson Pontes](https://github.com/valdersonjr)     | [Antonio Igor](https://github.com/antonioigorcarvalho) | 05/04 |
+| Melhorar princípios gerais                                            | [Antonio Igor](https://github.com/antonioigorcarvalho) | [Erick Levy](https://github.com/ericklevy) | 05/04 |
+| AHT ser feita a partir do storyboard                                  | [Antonio Igor](https://github.com/antonioigorcarvalho) | [Erick Levy](https://github.com/ericklevy) | 05/04 |
+| Melhorar relato dos resultados no arquivos de planejamento            | [Rodrigo Carvalho](https://github.com/Rocsantos)       | [Antonio Igor](https://github.com/antonioigorcarvalho) e [Eliseu Kadesh](https://github.com/eliseukadesh67) | 05/04 |
+| Detalhar validação dos storyboards                                    | [Valderson Pontes](https://github.com/valdersonjr)     | [Antonio Igor](https://github.com/antonioigorcarvalho) e [Erick Levy](https://github.com/ericklevy) | 05/04 |
+| Melhorar tópicos no planejamento da avaliação da análise de tarefas   | [Eliseu Kadesh](https://github.com/eliseukadesh67)     | [Antonio Igor](https://github.com/antonioigorcarvalho) e [Valderson Pontes](https://github.com/valdersonjr) | 05/04 |
+| Inserir ferramentas que serão utilizadas para fazer as entrevistas    | [Antonio Igor](https://github.com/antonioigorcarvalho) | [Erick Levy](https://github.com/ericklevy) | 05/04 |
+| Utilizar framework DECIDE nos planejamentos                           | [Douglas Monteles](https://github.com/douglasmonteles) | [Antonio Igor](https://github.com/antonioigorcarvalho), [Eliseu Kadesh](https://github.com/eliseukadesh67) e [Valderson Pontes](https://github.com/valdersonjr) | 05/04 |
+| Criação dos documentos para realizar a verificação  | [Antonio Igor](https://github.com/antonioigorcarvalho) | [Erick Levy](https://github.com/ericklevy) e [Valderson Pontes](https://github.com/valdersonjr) | 05/04 |
+| Aplicação da verificação                            | Todos | Todos | 05/04 |
+| Gravação da apresentação 6                          | Todos | Todos | 06/04 |
+
+<center>
+  Tabela 6 - Tarefas da Sprint 6
+</center>
+
 ## 4. Heatmap
 
 Com base nos horários de todos os membros, construímos um heatmap (ou mapa de calor)  para nos organizarmos durante as sprints.
@@ -105,3 +126,4 @@ Com base nos horários de todos os membros, construímos um heatmap (ou mapa de 
 | 16/03 | 1.4.0  | Adição da tabela de sprint 4 | [Antonio Igor](https://github.com/antonioigorcarvalho) | [Erick Levy](https://github.com/ericklevy) |
 | 30/03 | 1.5.0  | Adição da tabela de sprint 5 | [Antonio Igor](https://github.com/antonioigorcarvalho) | [Erick Levy](https://github.com/ericklevy) |
 | 04/04 | 1.6.0  | Adição do heatmap | [Antonio Igor](https://github.com/antonioigorcarvalho) | [Erick Levy](https://github.com/ericklevy) |
+| 06/04 | 1.7.0  | Adição da tabela de sprint 6 | [Antonio Igor](https://github.com/antonioigorcarvalho) | - |
