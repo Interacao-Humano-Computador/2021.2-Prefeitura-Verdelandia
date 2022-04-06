@@ -53,7 +53,7 @@ Uma boa comunicação é crucial para que o desenvolvimento seja efetivo, por is
 A equipe utilizará como meio de comunicação:
  
 - Issues do [Github](https://github.com/) para discussão de melhorias na documentação e descrever as novas atividades;
-- [Telegram](https://telegram.org/) para comunicação rapida e mais efetiva, podendo até ser feita as Dailys utilizando esse meio;
+- [Telegram](https://telegram.org/) para comunicação rápida e mais efetiva, podendo até ser feita as Dailys utilizando esse meio;
 - O aplicativo [Discord](https://discord.com/) para reuniões, e discussões mais longas;
  
 ## 6. Referências

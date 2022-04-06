@@ -3,7 +3,7 @@
 ## 1. O que é processo de design ?
  
 <p align="justify">
-Processo de Design e a junção de atividades básicas como análise de situação, a síntese de uma intervenção projetada ou já aplicada a situação atual do projeto.Em cada processo detalha as atividades básicas: executar cada atividade, sequência a serem executadas, atividades a serem repetidas, artefatos consumidos e produzidos em cada uma delas
+Processo de Design e a junção de atividades básicas como análise de situação, a síntese de uma intervenção projetada ou já aplicada a situação atual do projeto. Em cada processo detalha as atividades básicas: executar cada atividade, sequência a serem executadas, atividades a serem repetidas, artefatos consumidos e produzidos em cada uma delas
 </p>
 
 ## 2. Objetivos
@@ -52,15 +52,15 @@ Nielsen definiu como um conjunto de atividades que devem ser feitas durante o pr
 ### 3.3. Engenharia de Usabilidade de Mayhew
  
 Mayhew  propôs um ciclo de vida para a engenharia de usabilidade em 1999. Com uma visão
-que busca  compreender os fenômenos na sua totalidade , esse processo de design reúne e organiza diferentes atividades em IHC para orientar o trabalho do designer em  uma boa solução interativa.Mayhem apresenta 3 fases de processos iterativos que este são:
+que busca  compreender os fenômenos na sua totalidade , esse processo de design reúne e organiza diferentes atividades em IHC para orientar o trabalho do designer em  uma boa solução interativa. Mayhem apresenta 3 fases de processos iterativos que este são:
 
  
 - **Análise de requisitos:**  são definidas as metas de usabilidade com base no perfil dos
 usuários, análises de tarefas com possibilidades e limitações da plataforma em que o sistema é executado .
  
-- **design, avaliação e desenvolvimento:**  Objetivo conceber uma solução de IHC que
+- **Design, avaliação e desenvolvimento:**  Objetivo conceber uma solução de IHC que
 atenda às metas de usabilidade estabelecidas na fase anterior.
-- **instalação:** O designer deve coletar opiniões dos usuários depois de algum tempo de uso pelo usuário.
+- **Instalação:** O designer deve coletar opiniões dos usuários depois de algum tempo de uso pelo usuário.
  
 ### 3.4. Design Contextual
 É um processo  de IHC que orienta o designer a compreender ao fundo as necessidades dos usuários com uma investigação minuciosa do contexto de uso .
@@ -83,7 +83,7 @@ atenda às metas de usabilidade estabelecidas na fase anterior.
  
 
 O design dirigido por objetivos é um processo sistemático proposto para investigar e atender às
-necessidades e aos objetivos dos usuários.Guiar o designer a projetar uma solução de IHC que seja criativa e apoie os usuários a atingirem seus objetivos, sendo o diferencial incentivar o designar a explorar tecnologias em todo seu potencial para oferecer maneiras diversificados para os usuários chegarem aos seus objetivos. Esse processo é dividido em seis fases : pesquisar, modelar, definir requisitos,projetar, refinar e manter.
+necessidades e aos objetivos dos usuários. Guiar o designer a projetar uma solução de IHC que seja criativa e apoie os usuários a atingirem seus objetivos, sendo o diferencial incentivar o designar a explorar tecnologias em todo seu potencial para oferecer maneiras diversificados para os usuários chegarem aos seus objetivos. Esse processo é dividido em seis fases : pesquisar, modelar, definir requisitos,projetar, refinar e manter.
 
  - **Pesquisa:**  o designer está empenhado em conhecer o usuário e investigar os comportamentos no qual encaminha seus objetivos e motivações nas atividades enquanto manipula alguns artefatos, o domínio do sistema e o contexto de uso.
  
