@@ -10,6 +10,19 @@ O objetivo da Avaliação da Análise de Tarefas é validar os processos e docum
 A metodologia escolhida para realizar a avaliação de análise de tarefas, será o teste de usabilidade. O teste de usabilidade visa a avaliar a usabilidade de um sistema interativo a partir de experiências de uso dos seus usuários-alvo (Rubin, 1994; Rubin e Chisnell, 2008).
 </p>
 
+<p align="justify">
+Também optamos por adotar o framework DECIDE, que propõem orientar o planejamento, a execução e a análise de uma avaliação de IHC. As atividades do framework são interligadas e executadas iterativamente, à medida que o avaliador articula os objetivos da avaliação, os dados e recursos disponíveis (Preece et al., 2002).
+
+O acrônimo DECIDE pode ser expandido para os seguintes tópicos:
+</p>
+
+- **D**: Determinar os objetivos gerais da avaliação e identificar por que e para quem tais objetivos são importantes.
+- **E**: Explorar perguntas a serem respondidas com a avaliação.
+- **C**: Escolher (Choose) os métodos de avaliação a serem utilizados.
+- **I**: Identificar e administrar as questões práticas da avaliação.
+- **D**: Decidir como lidar com as questões éticas.
+- **E**: Avaliar (Evaluate), interpretar e apresentar os dados.
+
 ## 3. Ferramentas
 <p align="justify">
 Para realização das entrevistas foi decidido utilizar as seguintes ferramentas:
@@ -51,6 +64,18 @@ A etapa da preparação será realizada previamente à entrevista para garantir 
 - O material preparado para observar e registrar o uso será utilizado para a gravação da entrevista
 - Não será realizado teste piloto pois a quantidade de pessoas a serem entrevistadas será pequena
 
+### 4.3 Termo de Consentimento
+
+<p align="justify">
+Antes de iniciar com a entrevista, deve-se apresentar ao entrevistado o Termo de Consentimento, que estabelece os objetivo do estudo, a duração estimada, os procedimentos de coleta de dados, o uso que será feito da informação coletada, os seus direitos enquanto participante do estudo e quaisquer riscos, desconfortos ou efeitos adversos relacionados a participação do usuário no estudo.
+</p>
+
+<iframe 
+	src="https://docs.google.com/document/d/e/2PACX-1vRXPQBNjxONrbhkkgCa4BpQ6ywhmbLZlwwbqEnxSLV4y3osECuEYdbBhGHWwTtNxYwFCMnLSFuVlCcs/pub?embedded=true" 
+	width="100%" 
+	height="500px"
+></iframe>
+
 ### 4.3 Coleta de Dados
 <p align="justify">
 A coleta de dados será feita através da entrevista, no qual o participante será orientado a realizar as tarefas definidas previamente, e durante a realização também será feito uma série de perguntas referentes a essas tarefas, as respostas dessas perguntas fornecerão dados sobre a experiência do usuário com o site.
@@ -71,6 +96,10 @@ O relato dos resultados será a síntese daquilo que foi analizado, contendo os 
 <p align="justify">
 Ao final da avaliação, teremos o relato dos resultados, que abrangerá o objetivo do planejamento. E os dados desse relatório irão expor as qualidades e os defeitos encontrados ao longo da Avaliação, e se é necessário uma modificação na Análise de Tarefas. E com isso decidir se poderemos prosseguir para as próximas etapas do ciclo de vida da Mayhew.
 </p>
+
+<p align="justify">
+Consonante ao estabelecido nas orientações do framework DECIDE, este documento aborda em sua <a href="https://interacao-humano-computador.github.io/2021.2-Prefeitura-Verdelandia/documentos/04-Planejamento-Avaliacao-Storyboard-Analise-tarefas/AnaliseTarefas/PlanejamentoAnaliseTarefas/#1-introducao">Introdução</a> os objetivos e questões a serem respondidas com a aplicação deste avaliação, na <a href="https://interacao-humano-computador.github.io/2021.2-Prefeitura-Verdelandia/documentos/04-Planejamento-Avaliacao-Storyboard-Analise-tarefas/AnaliseTarefas/PlanejamentoAnaliseTarefas/#2-metodologia">Metodologia</a> é abordada em outros, o método de avaliação adotado, em <a href="https://interacao-humano-computador.github.io/2021.2-Prefeitura-Verdelandia/documentos/04-Planejamento-Avaliacao-Storyboard-Analise-tarefas/AnaliseTarefas/PlanejamentoAnaliseTarefas/#4-teste-de-usabilidade">Testes de Usabilidade</a> fica claro a definição das questões práticas bem como das questões éticas também e ao final temos a <a href="https://interacao-humano-computador.github.io/2021.2-Prefeitura-Verdelandia/documentos/04-Planejamento-Avaliacao-Storyboard-Analise-tarefas/AnaliseTarefas/PlanejamentoAnaliseTarefas/#44-interpretacao-e-consolidacao-dos-resultados">Interpretação</a> e <a href="https://interacao-humano-computador.github.io/2021.2-Prefeitura-Verdelandia/documentos/04-Planejamento-Avaliacao-Storyboard-Analise-tarefas/AnaliseTarefas/PlanejamentoAnaliseTarefas/#45-relato-dos-resultados">Relato</a> dos dados obtidos.
+</p>
  
 ## 6. Referências
 
@@ -78,6 +107,7 @@ Ao final da avaliação, teremos o relato dos resultados, que abrangerá o objet
 
 > [2] Rubin, Jeffrey e Chisnell, Dana (2008). Handbook of Usability Testing: How to Plan, Design, and Conduct Effective Tests. Wiley, Indianapolis, IN, 2nd edition edition.
 
+> Preece, Jennifer, Rogers, Yvonne, e Sharp, Helen (2002). Interaction Design: Beyond Human-Computer Interaction. John Wiley & Sons.
 
 ## 7. Histórico de versionamento
 | Data  | Versão | Descrição | Autor | Revisor |
