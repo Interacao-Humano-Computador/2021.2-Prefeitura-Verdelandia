@@ -14,14 +14,14 @@
 
 | Número | Quesito da avaliação | Situação |
 | :----: | :------------------: | :------: |
-| 1 | O documento utiliza uma linguagem clara e sem erros ortográficos? | ❌ |
-| 2 | O documento contém as informações necessárias?                    | ❌ |
-| 3 | As sprints estão descritas de forma clara e objetiva?             | ❌ |
-| 4 | As sprints possuem um detalhamento individual?                    | ❌ |
-| 5 | As tabelas possuem legendas?                                      | ❌ |
-| 6 |  As imagens possuem legendas?                                     | ❌ |
-| 7 | O documento possui introdução/objetivo?                           | ❌ |
-| 8 | O documento possui histórico de versionamento?                    | ❌ |
+| 1 | O documento utiliza uma linguagem clara e sem erros ortográficos? | ✔️ |
+| 2 | O documento contém as informações necessárias?                    | ✔️ |
+| 3 | As sprints estão descritas de forma clara e objetiva?             | ✔️ |
+| 4 | As sprints possuem um detalhamento individual?                    | ✔️ |
+| 5 | Todas as tabelas possuem legendas?                                | ❌ |
+| 6 | As imagens possuem legendas?                                      | ✔️ |
+| 7 | O documento possui introdução/objetivo?                           | ✔️ |
+| 8 | O documento possui histórico de versionamento?                    | ✔️ |
 
 <figcaption>Fonte: Próprio autor</figcaption>
 
