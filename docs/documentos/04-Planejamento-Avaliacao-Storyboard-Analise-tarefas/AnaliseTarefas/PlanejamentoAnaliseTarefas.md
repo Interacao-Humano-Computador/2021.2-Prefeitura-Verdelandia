@@ -76,17 +76,17 @@ Antes de iniciar com a entrevista, deve-se apresentar ao entrevistado o Termo de
 	height="500px"
 ></iframe>
 
-### 4.3 Coleta de Dados
+### 4.4 Coleta de Dados
 <p align="justify">
 A coleta de dados será feita através da entrevista, no qual o participante será orientado a realizar as tarefas definidas previamente, e durante a realização também será feito uma série de perguntas referentes a essas tarefas, as respostas dessas perguntas fornecerão dados sobre a experiência do usuário com o site.
 </p>
 
-### 4.4 Interpretação e Consolidação dos Resultados
+### 4.5 Interpretação e Consolidação dos Resultados
 <p align="justify">
 A interpretação e consolidação dos resultados será feita através da análise da gravação da entrevista, cabendo ao responsável sumarizar somente aquilo que seja relevante.
 </p>
 
-### 4.5 Relato dos resultados
+### 4.6 Relato dos resultados
 <p align="justify">
 O relato dos resultados será a síntese daquilo que foi analizado, contendo os resultados sobre a performance e opinião dos participantes.
 </p>
@@ -114,4 +114,5 @@ Consonante ao estabelecido nas orientações do framework DECIDE, este documento
 | :--:  | :----: | :-------: | :---: | :-----: |
 | 16/03 | 1.0.0 | Criação do Documento Planejamento da Análise de Tarefas | [Eliseu Kadesh](https://github.com/eliseukadesh67) e [Rodrigo Carvalho](https://github.com/Rocsantos) | [Antonio Igor](https://github.com/AntonioIgorCarvalho) e [Erick Levy](https://github.com/ErickLevy)
 | 16/03 | 1.1.0 | Ajuste nos tópicos e adição de links para outros documentos | [Eliseu Kadesh](https://github.com/eliseukadesh67) | [Antonio Igor](https://github.com/AntonioIgorCarvalho) e [Erick Levy](https://github.com/ErickLevy)
-| 29/03 | 1.2.0 | Atualização do documento conforme orientações | [Antonio Igor](https://github.com/AntonioIgorCarvalho) e [Valderson Pontes](https://github.com/valdersonjr) | [Erick Levy](https://github.com/ErickLevy)
+| 29/03 | 1.2.0 | Atualização do documento conforme orientações | [Antonio Igor](https://github.com/AntonioIgorCarvalho) e [Valderson Pontes](https://github.com/valdersonjr) | [Erick Levy](https://github.com/ErickLevy) |
+| 06/04 | 1.3.0 | Atualização do documento: Adição do framework DECIDE | [Douglas Monteles](https://github.com/DouglasMonteles) | A definir |
