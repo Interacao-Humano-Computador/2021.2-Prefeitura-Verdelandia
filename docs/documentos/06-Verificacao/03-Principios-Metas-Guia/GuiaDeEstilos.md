@@ -15,14 +15,13 @@
 | Número | Quesito da avaliação | Situação |
 | :----: | :------------------: | :------: |
 | 1 | O documento utiliza uma linguagem clara e sem erros ortográficos? | ❌ |
-| 2 | O documento contém as informações necessárias?                    | ❌ |
-| 3 | Os tópicos/artefatos estão descritos de forma clara e objetiva?   | ❌ |
-| 4 | As imagens possuem legendas?                                      | ❌ |
-| 6 | O documento possui introdução/objetivo?                           | ❌ |
+| 2 | O documento contém as informações necessárias?                    | ✔️ |
+| 3 | Os tópicos/artefatos estão descritos de forma clara e objetiva?   | ✔️ |
+| 4 | As imagens possuem legendas?                                      | ✔️ |
+| 6 | O documento possui introdução/objetivo?                           | ✔️ |
 | 7 | O documento possui conclusão/resultado                            | ❌ |
-| 8 | O documento possui histórico de versionamento?                    | ❌ |
-| 9 | A estrutura do Guia de Estilo está de acordo com o padrão escolhido? | ❌ |
-|10 | Existem imagens do sistema analisado para referência visual?         | ❌ |
+| 8 | O documento possui histórico de versionamento?                    | ✔️ |
+| 9 | Existem imagens do sistema analisado para referência visual?      | ✔️ |
 
 <figcaption>Fonte: Próprio autor</figcaption>
 
