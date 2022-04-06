@@ -2,8 +2,9 @@
 
 ## 1. Introdução
 
-O objetivo da Avaliação da Análise de Tarefas é validar os processos e documentos feitos na etapa da [Análise de Tarefas](../../02-Perfil-Persona-Analise/AnaliseTarefas.md), verificando se os usuários e suas ações foram identificadas corretamente e se o perfil das [personas](../../02-Perfil-Persona-Analise/Personas.md) corresponde ao [perfil de usuário](../../02-Perfil-Persona-Analise/PerfilUsuario.md) ideal para a análise do site da Prefeitura de Verdelândia e suas funcionalidades.
-
+<p align="justify">
+O objetivo da Avaliação da Análise de Tarefas é validar os processos e documentos feitos na etapa da <a href="../../../02-Perfil-Persona-Analise/AnaliseTarefas">Análise de Tarefas</a>, verificando se os usuários e suas ações foram identificadas corretamente e se o perfil das <a href="../../../02-Perfil-Persona-Analise/Personas">Personas</a> corresponde ao <a href="../../../02-Perfil-Persona-Analise/PerfilUsuario">Perfil de Usuário</a> ideal para a análise do site da Prefeitura de Verdelândia e suas funcionalidades.
+</p>
 ## 2. Metodologia
 
 <p align="justify">
@@ -63,7 +64,7 @@ A interpretação e consolidação dos resultados será feita através da análi
 
 ### 4.5 Relato dos resultados
 <p align="justify">
-O relato dos resultados será a síntese daquilo que foi analizado, contendo os resultados sobre a performance e opinião dos participantes.
+O Relato dos Resultados é a síntese dos resultados obtidos, conforme a descrição do planejamento deste documento. Contendo os resultados sobre a performance e opinião dos participantes. Você pode acessar o resultado deste documento em <a href="../../../05-Relato-Resultado-Planejamento-do-Storyboard-Analise-tarefas/ResultadoAnaliseTarefas">Resultado Análise de Tarefas</a>.
 </p>
 
 ## 5. Conclusão
