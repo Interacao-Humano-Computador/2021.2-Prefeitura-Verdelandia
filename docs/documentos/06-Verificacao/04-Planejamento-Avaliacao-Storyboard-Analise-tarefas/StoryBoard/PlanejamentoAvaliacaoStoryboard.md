@@ -21,6 +21,10 @@
 | 5 | O documento possui introdução/objetivo?                           | ❌ |
 | 6 | O documento possui conclusão/resultado                            | ❌ |
 | 7 | O documento possui histórico de versionamento?                    | ❌ |
+| 8 | O objetivo está bem especificado?                                 | ❌ |
+| 9 | O método selecionado é explicado claramente?                      | ❌ |
+|10 |	O termo de consentimento é claro?                                 | ❌ |
+|11 | As etapas da avaliação estão bem especificadas?                   | ❌ |
 
 <figcaption>Fonte: Próprio autor</figcaption>
 
