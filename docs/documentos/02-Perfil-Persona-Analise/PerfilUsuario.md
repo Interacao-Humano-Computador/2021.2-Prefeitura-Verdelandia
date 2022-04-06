@@ -110,7 +110,7 @@ Abaixo estão as questões e o seu respectivo resultado após a divulgação do 
 ## 6. Perguntas obtidas com o questionário do porque o uso do site de prefeitura
 
 <p style="text-align: justify">
-As perguntas foram ordenadas de acordo com a porcentagem de sua importância para os usuários apresenta na questão 5.8 e em grande maioria as pessoas atingem seus objetivos de acordo com a questão 5.7.
+As perguntas foram ordenadas de acordo com a porcentagem de sua importância para os usuários que está presente na questão 5.8 e também grande maioria das pessoas atingem seus objetivos de acordo com a questão 5.7.
 </p>
 
   - Para acompanhar as notícias da  minha cidade.
