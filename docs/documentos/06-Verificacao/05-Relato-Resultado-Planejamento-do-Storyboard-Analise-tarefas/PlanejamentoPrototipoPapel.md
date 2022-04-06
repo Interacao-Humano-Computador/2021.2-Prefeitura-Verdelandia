@@ -22,6 +22,7 @@
 | 6 | O documento possui introdução/objetivo?                           | ❌ |
 | 7 | O documento possui conclusão/resultado                            | ❌ |
 | 8 | O documento possui histórico de versionamento?                    | ❌ |
+| 9 | É apresentado um Termo de Consentimento?                          | ❌ |
 
 <figcaption>Fonte: Próprio autor</figcaption>
 
