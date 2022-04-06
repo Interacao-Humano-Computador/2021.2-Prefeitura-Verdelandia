@@ -2,9 +2,20 @@
 
 Como explicado no [Planejamento do Storyboard](../../../documentos/04-Planejamento-Avaliacao-Storyboard-Analise-tarefas/StoryBoard/PlanejamentoAvaliacaoStoryboard), a avaliação será realizada com a metodologia de entrevista, a qual será feita algumas questões sobre o Storyboard.
 
-## 2. Termo de Consentimento
+## 2. Termo de consentimento
 
-<embed src="../../../assets/termo-consentimento/avaliacao-storyboard.pdf" width="500" height="375" type="application/pdf">
+### 2.1 O que é o termo de consentimento
+
+<p align="justify">
+A participação na pesquisa deve ocorrer apenas com o consentimento livre e esclarecido dos participantes. Todo participante de qualquer estudo tem o direito de saber o objetivo do estudo, a duração estimada, os procedimentos de coleta de dados, o uso que será feito da informação coletada, os seus direitos enquanto participante do estudo e quaisquer riscos, desconfortos ou efeitos adversos relacionados à sua participação no estudo. Essas informações devem ser comunicadas ao participante durante o processo de recrutamento e depois reiteradas no início da atividade através de um termo de consentimento.
+</p> 
+<p align="justify">
+Ao concordar com esse termo, o participante atesta que entende as garantias e os riscos do estudo e concorda com sua participação naquelas condições.
+</p>
+
+### 2.2 O termo de consentimento
+
+<embed src="../../../assets/termo-consentimento/avaliacao-storyboard.pdf" width="600" height="500" type="application/pdf">
 
 ## 3. Video da Entrevista
 
@@ -49,3 +60,4 @@ Dado ao Resultado da Entrevista, o entrevistado ressalva que a informação de c
 | 30/03 | 1.1.2  | Corrigindo padronização de numeração | [Eliseu Kadesh](https://github.com/eliseukadesh67) | [Antonio Igor](https://github.com/antonioigorcarvalho) e [Erick Levy](https://github.com/ericklevy) |
 | 30/03 | 1.2.0  | Realização da segunda entrevista | [Rodrigo Carvalho](https://github.com/RocSantos) | [Antonio Igor](https://github.com/antonioigorcarvalho) e [Erick Levy](https://github.com/ericklevy) |
 | 30/03 | 1.2.1  | Corrigindo a falta de resultado e descrição de qual entrevista | [Rodrigo Carvalho](https://github.com/RocSantos) | [Antonio Igor](https://github.com/antonioigorcarvalho) e [Erick Levy](https://github.com/ericklevy) |
+| 06/04 | 1.2.2 | Padronizando o termo de consentimento  | [Eliseu Kadesh](https://github.com/eliseukadesh67) | [Valderson Pontes](https://github.com/valdersonjr) e [Antonio Igor](https://github.com/antonioigorcarvalho)
