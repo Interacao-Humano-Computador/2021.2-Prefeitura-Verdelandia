@@ -60,4 +60,4 @@ Dado ao Resultado da Entrevista, o entrevistado ressalva que a informação de c
 | 30/03 | 1.1.2  | Corrigindo padronização de numeração | [Eliseu Kadesh](https://github.com/eliseukadesh67) | [Antonio Igor](https://github.com/antonioigorcarvalho) e [Erick Levy](https://github.com/ericklevy) |
 | 30/03 | 1.2.0  | Realização da segunda entrevista | [Rodrigo Carvalho](https://github.com/RocSantos) | [Antonio Igor](https://github.com/antonioigorcarvalho) e [Erick Levy](https://github.com/ericklevy) |
 | 30/03 | 1.2.1  | Corrigindo a falta de resultado e descrição de qual entrevista | [Rodrigo Carvalho](https://github.com/RocSantos) | [Antonio Igor](https://github.com/antonioigorcarvalho) e [Erick Levy](https://github.com/ericklevy) |
-| 06/04 | 1.2.2 | Padronizando o termo de consentimento  | [Eliseu Kadesh](https://github.com/eliseukadesh67) | [Valderson Pontes](https://github.com/valdersonjr)
+| 06/04 | 1.2.2 | Padronizando o termo de consentimento  | [Eliseu Kadesh](https://github.com/eliseukadesh67) | [Valderson Pontes](https://github.com/valdersonjr) e [Antonio Igor](https://github.com/antonioigorcarvalho)
