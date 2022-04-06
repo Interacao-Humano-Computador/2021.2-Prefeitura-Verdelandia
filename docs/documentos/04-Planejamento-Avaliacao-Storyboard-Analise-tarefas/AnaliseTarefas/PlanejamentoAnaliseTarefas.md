@@ -85,4 +85,4 @@ Ao final da avaliação, teremos o relato dos resultados, que abrangerá o objet
 | 16/03 | 1.0.0 | Criação do Documento Planejamento da Análise de Tarefas | [Eliseu Kadesh](https://github.com/eliseukadesh67) e [Rodrigo Carvalho](https://github.com/Rocsantos) | [Antonio Igor](https://github.com/AntonioIgorCarvalho) e [Erick Levy](https://github.com/ErickLevy)
 | 16/03 | 1.1.0 | Ajuste nos tópicos e adição de links para outros documentos | [Eliseu Kadesh](https://github.com/eliseukadesh67) | [Antonio Igor](https://github.com/AntonioIgorCarvalho) e [Erick Levy](https://github.com/ErickLevy)
 | 29/03 | 1.2.0 | Atualização do documento conforme orientações | [Antonio Igor](https://github.com/AntonioIgorCarvalho) e [Valderson Pontes](https://github.com/valdersonjr) | [Erick Levy](https://github.com/ErickLevy)
-| 06/04 | 1.2.1 | Adicionando link para outros documentos | [Eliseu Kadesh](https://github.com/eliseukadesh67) | A definir
+| 06/04 | 1.2.1 | Adicionando link para outros documentos | [Eliseu Kadesh](https://github.com/eliseukadesh67) | [Valderson Pontes](https://github.com/valdersonjr)
