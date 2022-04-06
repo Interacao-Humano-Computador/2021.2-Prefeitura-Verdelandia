@@ -110,7 +110,7 @@ Abaixo estão as questões e o seu respectivo resultado após a divulgação do 
 ## 6. Perguntas obtidas com o questionário do porque o uso do site de prefeitura
 
 <p style="text-align: justify">
-As perguntas foram ordenadas de acordo com a porcentagem de sua importância para os usuários que está presente na questão 5.8 e também grande maioria das pessoas atingem seus objetivos de acordo com a questão 5.7.
+As perguntas foram ordenadas de acordo com o percentual de sua importância para os usuários que responderam a questão 5.8, também foi analizado que a grande maioria das pessoas conseguiram atingir seus objetivos de acordo com a questão 5.7.
 </p>
 
   - Para acompanhar as notícias da  minha cidade.
@@ -150,3 +150,4 @@ Além disso, observa-se que a grande maioria dos usuários exigem simplicidade e
 | 24/02 | 1.2.0  | Criando a definição do tópico de questionário | [Douglas Monteles](https://github.com/DouglasMonteles) e [Erick Levy](https://github.com/ErickLevy) | [Antonio Igor](https://github.com/antonioigorcarvalho) e [Eliseu Kadesh](https://github.com/eliseukadesh67) |
 | 24/02 | 1.3.0  | Adicionando coluna de revisor | [Douglas Monteles](https://github.com/DouglasMonteles) e [Erick Levy](https://github.com/ErickLevy) | [Antonio Igor](https://github.com/antonioigorcarvalho) e [Eliseu Kadesh](https://github.com/eliseukadesh67) |
 | 25/02 | 1.4.0  | Adicionando as questões e resultados do questionário | [Douglas Monteles](https://github.com/DouglasMonteles) e [Erick Levy](https://github.com/ErickLevy) | [Antonio Igor](https://github.com/antonioigorcarvalho) e [Eliseu Kadesh](https://github.com/eliseukadesh67) |
+| 06/04 | 1.5.0  | Melhorias no documento | [Erick Levy](https://github.com/ErickLevy) | [Antonio Igor](https://github.com/antonioigorcarvalho) |
