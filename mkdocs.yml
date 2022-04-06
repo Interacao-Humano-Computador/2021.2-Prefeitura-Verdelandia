@@ -45,6 +45,33 @@ nav:
     - Resultado Storyboard: documentos/05-Relato-Resultado-Planejamento-do-Storyboard-Analise-tarefas/ResultadoStoryboard.md
     - Planejamento do protótipo em papel: documentos/05-Relato-Resultado-Planejamento-do-Storyboard-Analise-tarefas/PlanejamentoPrototipoPapel.md
 
+  - VI. Verificação:
+    - Introdução: documentos/06-Verificacao/Introducao.md
+    - I:
+      - Cronograma do Projeto: documentos/06-Verificacao/01-Planejamento-e-Processo/Cronograma.md
+      - Metodologia: documentos/06-Verificacao/01-Planejamento-e-Processo/Metodologia.md
+      - Ferramentas: documentos/06-Verificacao/01-Planejamento-e-Processo/Ferramentas.md
+      - Sites Avaliados: documentos/06-Verificacao/01-Planejamento-e-Processo/SitesAvaliados.md
+      - Site Escolhido: documentos/06-Verificacao/01-Planejamento-e-Processo/SiteEscolhido.md
+      - Processos de Design: documentos/06-Verificacao/01-Planejamento-e-Processo/Processos.md
+    - II:
+      - Perfil do Usuário: documentos/06-Verificacao/02-Perfil-Persona-Analise/PerfilUsuario.md
+      - Personas: documentos/06-Verificacao/02-Perfil-Persona-Analise/Personas.md
+      - Análise de Tarefas: documentos/06-Verificacao/02-Perfil-Persona-Analise/AnaliseTarefas.md
+      - Análise Hierárquica de Tarefas (AHT): documentos/06-Verificacao/02-Perfil-Persona-Analise/AnaliseHierarquica.md
+    - III:
+      - Principios Gerais: documentos/06-Verificacao/03-Principios-Metas-Guia/GuiaDeEstilos.md
+      - Metas de Usabilidade: documentos/06-Verificacao/03-Principios-Metas-Guia/MetasUsabilidade.md
+      - Guia de Estilos: documentos/06-Verificacao/03-Principios-Metas-Guia/GuiaDeEstilos.md
+    - IV:
+      - Planejamento de Análise de Tarefas: documentos/06-Verificacao/04-Planejamento-Avaliacao-Storyboard-Analise-tarefas/PlanejamentoAnaliseTarefas.md
+      - Storyboard: documentos/06-Verificacao/04-Planejamento-Avaliacao-Storyboard-Analise-tarefas/Storyboard.md
+      - Planejamento da Avaliação do Storyboard: documentos/06-Verificacao/04-Planejamento-Avaliacao-Storyboard-Analise-tarefas/PlanejamentoAvaliacaoStoryboard.md
+    - V:
+      - Resultado Análise de Tarefas: documentos/06-Verificacao/05-Relato-Resultado-Planejamento-do-Storyboard-Analise-tarefas/ResultadoAnaliseTarefas.md
+      - Resultado Storyboard: documentos/06-Verificacao/05-Relato-Resultado-Planejamento-do-Storyboard-Analise-tarefas/ResultadoStoryboard.md
+      - Planejamento do protótipo em papel: documentos/06-Verificacao/05-Relato-Resultado-Planejamento-do-Storyboard-Analise-tarefas/PlanejamentoPrototipoPapel.md
+
   - Apresentações:
     - Ponto de controle 1: documentos/Apresentações/Apresentacao_PC1.md
     - Ponto de controle 2: documentos/Apresentações/Apresentacao_PC2.md

@@ -179,10 +179,12 @@ Antes de iniciar com a entrevista, deve-se apresentar ao entrevistado o Termo de
   Dada a conclusão de cada entrevista programada, cabe ao avaliador elaborar um relatório com os resultados da entrevista, onde este deve conter: os pontos apontados pelo entrevistado, tanto positivos quanto negativos, sugestões de melhorias, link da gravação da entrevista e o que mais o avaliador achar pertinente.
 </p>
 
-## 5. Resultados
+## 5. Relato dos Resultados
 
 <p align="justify">
-  A criação deste documento visa servir de base para o avaliador da entrevista se orientar a certa de como proceder frente as entrevistas e de como lidar com os entrevistados, a fim de obter o máximo proveito destas entrevistas para avaliação dos storyboards.
+
+  O Relato dos Resultados é a síntese dos resultados obtidos, conforme a descrição do planejamento deste documento. A criação deste documento visa servir de base, para o avaliador da entrevista se orientar a cerca de como proceder frente as entrevistas e de como lidar com os entrevistados, a fim de obter o máximo proveito destas entrevistas para avaliação dos storyboards. Você pode acessar o resultado deste documento em <a href="../../../05-Relato-Resultado-Planejamento-do-Storyboard-Analise-tarefas/ResultadoStoryboard">Resultado da Avaliação do Storyboard</a>.
+
 </p>
 
 <p align="justify">

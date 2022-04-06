@@ -2,8 +2,9 @@
 
 ## 1. Introdução
 
-O objetivo da Avaliação da Análise de Tarefas é validar os processos e documentos feitos na etapa da [Análise de Tarefas](../../02-Perfil-Persona-Analise/AnaliseTarefas.md), verificando se os usuários e suas ações foram identificadas corretamente e se o perfil das [personas](../../02-Perfil-Persona-Analise/Personas.md) corresponde ao [perfil de usuário](../../02-Perfil-Persona-Analise/PerfilUsuario.md) ideal para a análise do site da Prefeitura de Verdelândia e suas funcionalidades.
-
+<p align="justify">
+O objetivo da Avaliação da Análise de Tarefas é validar os processos e documentos feitos na etapa da <a href="../../../02-Perfil-Persona-Analise/AnaliseTarefas">Análise de Tarefas</a>, verificando se os usuários e suas ações foram identificadas corretamente e se o perfil das <a href="../../../02-Perfil-Persona-Analise/Personas">Personas</a> corresponde ao <a href="../../../02-Perfil-Persona-Analise/PerfilUsuario">Perfil de Usuário</a> ideal para a análise do site da Prefeitura de Verdelândia e suas funcionalidades.
+</p>
 ## 2. Metodologia
 
 <p align="justify">
@@ -59,8 +60,8 @@ Fonte: [1] - Tabela 12.4.
 A etapa da preparação será realizada previamente à entrevista para garantir que a mesma seja conduzida da forma correta. Alguns pontos importantes:
 </p>
 
-- A definição das tarefas já foi realizada no documento de AHT
-- O perfil dos participantes já foi definido no documento de Perfil de Usuário
+- A definição das tarefas já foi realizada no documento de [AHT](../../02-Perfil-Persona-Analise/AnaliseHierarquica.md)
+- O perfil dos participantes já foi definido no documento de [Perfil de Usuário](../../02-Perfil-Persona-Analise/PerfilUsuario.md)
 - O material preparado para observar e registrar o uso será utilizado para a gravação da entrevista
 - Não será realizado teste piloto pois a quantidade de pessoas a serem entrevistadas será pequena
 
@@ -88,7 +89,7 @@ A interpretação e consolidação dos resultados será feita através da análi
 
 ### 4.6 Relato dos resultados
 <p align="justify">
-O relato dos resultados será a síntese daquilo que foi analizado, contendo os resultados sobre a performance e opinião dos participantes.
+O Relato dos Resultados é a síntese dos resultados obtidos, conforme a descrição do planejamento deste documento. Contendo os resultados sobre a performance e opinião dos participantes. Você pode acessar o resultado deste documento em <a href="../../../05-Relato-Resultado-Planejamento-do-Storyboard-Analise-tarefas/ResultadoAnaliseTarefas">Resultado Análise de Tarefas</a>.
 </p>
 
 ## 5. Conclusão
@@ -115,4 +116,5 @@ Consonante ao estabelecido nas orientações do framework DECIDE, este documento
 | 16/03 | 1.0.0 | Criação do Documento Planejamento da Análise de Tarefas | [Eliseu Kadesh](https://github.com/eliseukadesh67) e [Rodrigo Carvalho](https://github.com/Rocsantos) | [Antonio Igor](https://github.com/AntonioIgorCarvalho) e [Erick Levy](https://github.com/ErickLevy)
 | 16/03 | 1.1.0 | Ajuste nos tópicos e adição de links para outros documentos | [Eliseu Kadesh](https://github.com/eliseukadesh67) | [Antonio Igor](https://github.com/AntonioIgorCarvalho) e [Erick Levy](https://github.com/ErickLevy)
 | 29/03 | 1.2.0 | Atualização do documento conforme orientações | [Antonio Igor](https://github.com/AntonioIgorCarvalho) e [Valderson Pontes](https://github.com/valdersonjr) | [Erick Levy](https://github.com/ErickLevy) |
+| 06/04 | 1.2.1 | Adicionando link para outros documentos | [Eliseu Kadesh](https://github.com/eliseukadesh67) | [Valderson Pontes](https://github.com/valdersonjr) e [Antonio Igor](https://github.com/antonioigorcarvalho)
 | 06/04 | 1.3.0 | Atualização do documento: Adição do framework DECIDE | [Douglas Monteles](https://github.com/DouglasMonteles) | A definir |
