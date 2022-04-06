@@ -22,6 +22,9 @@
 | 6 | O documento possui introdução/objetivo?                           | ❌ |
 | 7 | O documento possui conclusão/resultado                            | ❌ |
 | 8 | O documento possui histórico de versionamento?                    | ❌ |
+| 9 | O roteino do storyboard está bem definido?                        | ❌ |
+|10 | A situação representada no storyboard condiz com a realidade?     | ❌ |
+
 
 <figcaption>Fonte: Próprio autor</figcaption>
 
