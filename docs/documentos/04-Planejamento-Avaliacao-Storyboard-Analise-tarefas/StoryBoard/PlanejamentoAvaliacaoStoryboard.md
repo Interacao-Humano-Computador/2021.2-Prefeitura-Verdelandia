@@ -18,6 +18,19 @@
   A metodologia selecionada após a análise das personas e a criação do storyboard foi a entrevista que usa perguntas elaboradas antecipadamente e segue um roteiro com exatidão. Entrevistas completamente não estruturadas são usadas às vezes quando é  particularmente importante minimizar as pré-concepções do designer ou quando muito pouca informação dos antecedentes está disponível(BENYON, David . Interação Humano Computador). Com o uso desse método podemos compreender melhor os usuários.
 </p>
 
+<p align="justify">
+Também optamos por adotar o framework DECIDE, que propõem orientar o planejamento, a execução e a análise de uma avaliação de IHC. As atividades do framework são interligadas e executadas interativamente, à medida que o avaliador articula os objetivos da avaliação, os dados e recursos disponíveis (Preece et al., 2002).
+
+O acrônimo DECIDE pode ser expandido para os seguintes tópicos:
+</p>
+
+- **D**: Determinar os objetivos gerais da avaliação e identificar por que e para quem tais objetivos são importantes.
+- **E**: Explorar perguntas a serem respondidas com a avaliação.
+- **C**: Escolher (Choose) os métodos de avaliação a serem utilizados.
+- **I**: Identificar e administrar as questões práticas da avaliação.
+- **D**: Decidir como lidar com as questões éticas.
+- **E**: Avaliar (Evaluate), interpretar e apresentar os dados.
+
 ## 4. Planejamento da avaliação
 
 ## 4.1 Definição das tarefas
@@ -35,7 +48,7 @@
 ## 4.3 Elaboração do roteiro de perguntas
 
 <p align="justify">
-  Optamos por conduzir uma entrevista semiestruturada, nessas entrevistas: O roteiro é composto dos tópicos ou perguntas (geralmente abertas) que devem ser endereçados na entrevista, em uma ordem lógica. O entrevistador tem liberdade para explorar em maior profundidade as respostas fornecidas pelo entrevistado e até mesmo modificar a ordem dos tópicos bordados, mas deve manter o foco nos objetivos da entrevista (Barbosa, 2021).
+  Optamos por conduzir uma entrevista semiestruturada, nessas entrevistas: O roteiro é composto dos tópicos ou perguntas (geralmente abertas) que devem ser endereçados na entrevista, em uma ordem lógica. O entrevistador tem liberdade para explorar em maior profundidade as respostas fornecidas pelo entrevistado e até mesmo modificar a ordem dos tópicos abordados, mas deve manter o foco nos objetivos da entrevista (Barbosa, 2021).
 </p>
 
 <figure>
@@ -135,7 +148,19 @@
   <figcaption>Figura 1: Questões da entrevista</figcaption>
 </figure>
 
-## 4.4 Aplicação da Avaliação
+### 4.4 Termo de Consentimento
+
+<p align="justify">
+Antes de iniciar com a entrevista, deve-se apresentar ao entrevistado o Termo de Consentimento, que estabelece os objetivo do estudo, a duração estimada, os procedimentos de coleta de dados, o uso que será feito da informação coletada, os seus direitos enquanto participante do estudo e quaisquer riscos, desconfortos ou efeitos adversos relacionados a participação do usuário no estudo.
+</p>
+
+<iframe 
+	src="https://docs.google.com/document/d/e/2PACX-1vRXPQBNjxONrbhkkgCa4BpQ6ywhmbLZlwwbqEnxSLV4y3osECuEYdbBhGHWwTtNxYwFCMnLSFuVlCcs/pub?embedded=true" 
+	width="100%" 
+	height="500px"
+></iframe>
+
+## 4.5 Aplicação da Avaliação
 
 <p align="justify">
   Para a entrevista, optou-se por realiza-la através do Microsoft Teams, tendo em vista a simplicidade e o alcançe dessa plataforma. Na data combinada para a realização da entrevista, cada participante deve receber um link para a videoconferencia, com pelo menos 10 minutos de antecedência, e o tempo total da entrevista não pode superar os 30 minutos, para que não haja esgotamento do entrevistado e consequente perca de qualidade nas respostas obtidas. Os próximos passos estão descritos abaixo:
@@ -162,6 +187,11 @@
 
 </p>
 
+<p align="justify">
+Consonante ao estabelecido nas orientações do framework DECIDE, este documento aborda em sua os <a href="https://interacao-humano-computador.github.io/2021.2-Prefeitura-Verdelandia/documentos/04-Planejamento-Avaliacao-Storyboard-Analise-tarefas/StoryBoard/PlanejamentoAvaliacaoStoryboard/#2-objetivo">objetivos</a> e <a href="https://interacao-humano-computador.github.io/2021.2-Prefeitura-Verdelandia/documentos/04-Planejamento-Avaliacao-Storyboard-Analise-tarefas/StoryBoard/PlanejamentoAvaliacaoStoryboard/#1-introducao">questões</a> a serem respondidas com a aplicação desta avaliação, na <a href="https://interacao-humano-computador.github.io/2021.2-Prefeitura-Verdelandia/documentos/04-Planejamento-Avaliacao-Storyboard-Analise-tarefas/StoryBoard/PlanejamentoAvaliacaoStoryboard/#3-metodologia">Metodologia</a> é abordada em outros, o método de avaliação adotado, em <a href="https://interacao-humano-computador.github.io/2021.2-Prefeitura-Verdelandia/documentos/04-Planejamento-Avaliacao-Storyboard-Analise-tarefas/StoryBoard/PlanejamentoAvaliacaoStoryboard/#4-planejamento-da-avaliacao">planejamento</a> fica claro a definição das questões práticas bem como das questões éticas também e ao final temos a <a href="https://interacao-humano-computador.github.io/2021.2-Prefeitura-Verdelandia/documentos/04-Planejamento-Avaliacao-Storyboard-Analise-tarefas/StoryBoard/PlanejamentoAvaliacaoStoryboard/#45-conclusao-da-avaliacao">conclusão</a> e <a href="https://interacao-humano-computador.github.io/2021.2-Prefeitura-Verdelandia/documentos/04-Planejamento-Avaliacao-Storyboard-Analise-tarefas/StoryBoard/PlanejamentoAvaliacaoStoryboard/#5-resultados">resultados</a> obtidos.
+</p>
+ 
+
 ## 6. Referências
  
 > BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador, Rio de Janeiro, 2021.
@@ -176,3 +206,4 @@
 | 15/03 | 1.1.0  | Desenvolvimento do tópico de planejamento da avaliação | [Douglas Monteles](https://github.com/DouglasMonteles) | [Antonio Igor](https://github.com/antonioigorcarvalho), [Eliseu Kadesh](https://github.com/eliseukadesh67) e [Valderson Pontes](https://github.com/valdersonjr)  |
 | 16/03 | 1.1.1  | Correção de erros de ortografia e título | [Eliseu Kadesh](https://github.com/eliseukadesh67) e [Valderson Pontes](https://github.com/valdersonjr) | [Antonio Igor](https://github.com/antonioigorcarvalho)  |
 | 05/04 | 1.2.0  | Criação do tópico Validação do storyboard | [Valderson Pontes](https://github.com/valdersonjr) | [Antonio Igor](https://github.com/antonioigorcarvalho) e [Erick Levy](https://github.com/ErickLevy) |
+| 06/04 | 1.3.0  | Atualização do documento: Adição do framework DECIDE | [Douglas Monteles](https://github.com/DouglasMonteles) | A definir |
