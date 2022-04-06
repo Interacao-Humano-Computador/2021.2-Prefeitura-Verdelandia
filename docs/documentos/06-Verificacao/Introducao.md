@@ -12,7 +12,10 @@ Sendo assim, este documento tem como objetivo dar uma introdução ao conceito d
 ## 2. Metodologia
 
 <p align="justify">
- O método escolhido foi o de inspeção, quer irá auxiliar a avaliar se o sistema cumpre com o esperado, para a aplicação desse método checklists foram criados para cada um dos documentos a serem análisados.
+Para realizar a etapa de verificação, cada documento do projeto será verificado. O método utilizado será o de inspeção com o auxílio de checklists para verificação dos documentos, com o objetivo de avaliar se os mesmos cumprem o esperado.
+</p>
+<p align="justify">
+Para a aplicação do método iremos realizar uma reunião com todos os membros da equipe e realizar a técnica de inspeção.
 </p>
 
 ## 3. Checklists
