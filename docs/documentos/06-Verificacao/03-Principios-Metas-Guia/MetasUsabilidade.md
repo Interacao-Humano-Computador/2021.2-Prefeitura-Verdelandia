@@ -20,6 +20,9 @@
 | 4 | O documento possui introdução/objetivo?                           | ❌ |
 | 5 | O documento possui conclusão/resultado                            | ❌ |
 | 6 | O documento possui histórico de versionamento?                    | ❌ |
+| 7 | Todas as metas estão listadas?                                    | ❌ |
+| 8 | Existe uma explicação para as metas listadas?                     | ❌ |
+| 9 | Existe uma explicação coerente para as metas aplicadas para a Prefeitura de Verdelândia? | ❌ |
 
 <figcaption>Fonte: Próprio autor</figcaption>
 
