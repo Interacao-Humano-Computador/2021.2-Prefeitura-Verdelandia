@@ -14,12 +14,12 @@
 
 | Número | Quesito da avaliação | Situação |
 | :----: | :------------------: | :------: |
-| 1 | O documento utiliza uma linguagem clara e sem erros ortográficos? | ❌ |
-| 2 | O documento contém as informações necessárias?                    | ❌ |
-| 3 | Os tópicos estão descritos de forma clara e objetiva?   | ❌ |
-| 4 | O documento possui introdução/objetivo?                           | ❌ |
+| 1 | O documento utiliza uma linguagem clara e sem erros ortográficos? | ✔️ |
+| 2 | O documento contém as informações necessárias?                    | ✔️ |
+| 3 | Os tópicos estão descritos de forma clara e objetiva?             | ✔️ |
+| 4 | O documento possui introdução/objetivo?                           | ✔️ |
 | 5 | O documento possui conclusão/resultado                            | ❌ |
-| 6 | O documento possui histórico de versionamento?                    | ❌ |
+| 6 | O documento possui histórico de versionamento?                    | ✔️ |
 
 <figcaption>Fonte: Próprio autor</figcaption>
 
