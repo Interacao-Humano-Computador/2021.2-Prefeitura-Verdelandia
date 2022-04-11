@@ -15,7 +15,7 @@
 ## 3. Avaliação
 
 <p align="justify">
-	A entrevista contou a com a participação de um avaliador e um entrevistado, respectivamente, Douglas Silva e Erick Levy.
+	A entrevista contou a com a participação de um avaliador e um entrevistado, respectivamente, .
 </p>
 
 <p align="justify">
@@ -27,30 +27,46 @@
 ### Entrevista com o participante 1
 
 <p align="justify">
-
+	O participante 1 ao executar a tarefa x demonstrou ser bastante prestativo e seu feedback sobre a terefa é que a tela do protótipo em conjunto com a funcionalidade trabalhada estão...
 </p>
 
 ### Entrevista com o participante 2
 
 <p align="justify">
-
+	O participante 2 ao executar a tarefa x demonstrou ser bastante prestativo e seu feedback sobre a terefa é que a tela do protótipo em conjunto com a funcionalidade trabalhada estão...
 </p>
 
 ## 3.2 Tarefas
 
 ### Tarefa 1
 
+<center>
+
+#### Tabela 1: Tarefa 1
+
 |Número|Problema/Sugestão|
 |:----:|:---------------:|
-|||
+|1||
+
+<figcaption>Próprio autor</figcaption>
+
+</center>
 
 ### Tarefa 2
 
+<center>
+
+#### Tabela 1: Tarefa 1
+
 |Número|Problema/Sugestão|
 |:----:|:---------------:|
-|||
+|1||
 
-## Resultado
+<figcaption>Próprio autor</figcaption>
+
+</center>
+
+## Resultados
 
 <p align="justify">
 	Com base nas entrevistas, foi observado que tanto no protótipo de papel quanto no próprio site da Prefeitura de Verdelândia, a página inicial possui excesso de informações que pode confundir o usuário, e dificultar a localização de deterninada funcionalidade. As metas de usabilidade foram parcialmente atingidas, uma vez que o protótipo de papel não possui navegação entre telas, mas ele possui duas telas que exemplificam funcionalidades importantes dentro do sistema, que, durante as entrevistas, ficou clara a necessidade de ajustes na página inicial do site, e que a página do formulário atende bem ao seu propósito.
