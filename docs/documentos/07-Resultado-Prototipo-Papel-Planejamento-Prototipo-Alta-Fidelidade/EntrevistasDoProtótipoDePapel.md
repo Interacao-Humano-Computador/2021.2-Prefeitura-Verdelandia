@@ -12,9 +12,13 @@
 	Abaixo estão as entrevistas realizadas e disponibilizadas na plataforma do YouTube.
 </p>
 
-### Entrevista com o participante 1
+### Entrevista com a persona Luiz Oliveira
 
-### Entrevista com o participante 2
+<iframe width="711" height="400" src="https://www.youtube.com/embed/d7-DpubsYbQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Entrevista com a persona Camila Gomes
+
+<iframe width="711" height="400" src="https://www.youtube.com/embed/kUEItLy3kaA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## 3. Histórico de versionamento
