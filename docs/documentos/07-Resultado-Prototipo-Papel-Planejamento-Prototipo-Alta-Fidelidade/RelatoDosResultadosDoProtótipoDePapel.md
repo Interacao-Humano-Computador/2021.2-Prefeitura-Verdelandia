@@ -46,7 +46,9 @@
 
 |Número|Problema/Sugestão|
 |:----:|:---------------:|
-|1||
+|1|Poluição visual - Problema|
+|2|Melhorar o site atraves do Minimalismo - Sugestão |
+|3|Opções clicáveis que não funcionam -  Problema |
 
 <figcaption>Próprio autor</figcaption>
 
