@@ -25,4 +25,4 @@
 
 |Data|Versão|Descrição|Autor|Revisor
 |-|-|-|-|-|
-|1.0.0|05/04/2022| Criação do documento | [Douglas Monteles](https://github.com/douglasmonteles) e [Erick Levy](https://github.com/ericklevy) | a definir |
+|1.0.0|05/04/2022| Criação do documento | [Douglas Monteles](https://github.com/douglasmonteles) e [Erick Levy](https://github.com/ericklevy) | [Antonio Igor](https://github.com/antonioigorcarvalho) e [Eliseu Kadesh](https://github.com/eliseukadesh67) |
