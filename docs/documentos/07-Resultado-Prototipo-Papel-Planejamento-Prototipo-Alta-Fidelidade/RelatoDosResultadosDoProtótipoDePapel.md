@@ -27,7 +27,7 @@
 ### Entrevista com o participante 1
 
 <p align="justify">
-	O participante 1 ao executar a tarefa x demonstrou ser bastante prestativo e seu feedback sobre a terefa é que a tela do protótipo em conjunto com a funcionalidade trabalhada estão...
+	O participante 1 ao executar a tarefa do protótipo verificou que têm uma poluição visual de efeito e ícones no site Prefeitura Verdelândia. Seu feedback sobre o site e que precisa de melhorar visuais para evitar uma poluição visual e ajudar o usuário a procurar o que precisar sem perder o foco.
 </p>
 
 ### Entrevista com a persona Camila Gomes
