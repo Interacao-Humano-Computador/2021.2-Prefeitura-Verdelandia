@@ -102,7 +102,19 @@ O objetivo do cronograma do projeto é prover uma visualização rápida da divi
 | Gravação da apresentação 6                          | Todos | Todos | 06/04 |
 
 <center>
-  Tabela 6 - Tarefas da Sprint 6
+  Tabela 7 - Tarefas da Sprint 6
+</center>
+
+### 3.7 Sprint 7
+| Tarefas         | Responsável | Revisor   | Entrega Limite |
+| :-----:         | :---------: | :-----:   | :--------------: |
+| Criação do documento de planejamento da avaliação do protótipo de alta fidelidade  | [Antonio Igor](https://github.com/antonioigorcarvalho), [Rodrigo Carvalho](https://github.com/Rocsantos), [Valderson Pontes](https://github.com/valdersonjr) e [Eliseu Kadesh](https://github.com/eliseukadesh67) | [Erick Levy](https://github.com/ericklevy) | 10/04 |
+| Criação do documento de resultados protótipo papel  | [Douglas Monteles](https://github.com/douglasmonteles) e [Erick Levy](https://github.com/ericklevy) | [Antonio Igor](https://github.com/antonioigorcarvalho) e [Eliseu Kadesh](https://github.com/eliseukadesh67) | 10/04 |
+| Criação do documento de entrevista | [Erick Levy](https://github.com/ericklevy), [Douglas Monteles](https://github.com/douglasmonteles), [Rodrigo Carvalho](https://github.com/Rocsantos) e [Antonio Igor](https://github.com/antonioigorcarvalho) | [Eliseu Kadesh](https://github.com/eliseukadesh67) e [Valderson Pontes](https://github.com/valdersonjr) | 10/04 |
+| Gravação da apresentação 7 | Todos | Todos | 11/04 |
+
+<center>
+  Tabela 8 - Tarefas da Sprint 7
 </center>
 
 ## 4. Heatmap
@@ -126,4 +138,5 @@ Com base nos horários de todos os membros, construímos um heatmap (ou mapa de 
 | 16/03 | 1.4.0  | Adição da tabela de sprint 4 | [Antonio Igor](https://github.com/antonioigorcarvalho) | [Erick Levy](https://github.com/ericklevy) |
 | 30/03 | 1.5.0  | Adição da tabela de sprint 5 | [Antonio Igor](https://github.com/antonioigorcarvalho) | [Erick Levy](https://github.com/ericklevy) |
 | 04/04 | 1.6.0  | Adição do heatmap | [Antonio Igor](https://github.com/antonioigorcarvalho) | [Erick Levy](https://github.com/ericklevy) |
-| 06/04 | 1.7.0  | Adição da tabela de sprint 6 | [Antonio Igor](https://github.com/antonioigorcarvalho) | - |
+| 06/04 | 1.7.0  | Adição da tabela de sprint 6 | [Antonio Igor](https://github.com/antonioigorcarvalho) | [Erick Levy](https://github.com/ericklevy), [Rodrigo Carvalho](https://github.com/Rocsantos), [Eliseu Kadesh](https://github.com/eliseukadesh67), [Valderson Pontes](https://github.com/valdersonjr) e [Douglas Monteles](https://github.com/douglasmonteles) |
+| 11/04 | 1.8.0  | Adição da tabela de sprint 7 | [Antonio Igor](https://github.com/antonioigorcarvalho) | [Erick Levy](https://github.com/ericklevy), [Rodrigo Carvalho](https://github.com/Rocsantos), [Eliseu Kadesh](https://github.com/eliseukadesh67), [Valderson Pontes](https://github.com/valdersonjr) e [Douglas Monteles](https://github.com/douglasmonteles) |
