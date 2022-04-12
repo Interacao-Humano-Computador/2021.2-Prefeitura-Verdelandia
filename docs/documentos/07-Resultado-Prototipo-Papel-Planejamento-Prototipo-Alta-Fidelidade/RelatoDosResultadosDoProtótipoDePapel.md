@@ -42,7 +42,7 @@
 
 <center>
 
-#### Tabela 1: Tarefaas feitas na 1ª entrevista
+#### Tabela 1: Tarefas feitas na 1ª entrevista
 
 |Número|Problema/Sugestão|
 |:----:|:---------------:|
