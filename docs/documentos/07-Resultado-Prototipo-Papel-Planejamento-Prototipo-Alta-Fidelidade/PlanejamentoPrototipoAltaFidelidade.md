@@ -85,7 +85,7 @@ Deve ser acordado com o entrevistado e o entrevistador o momento oportuno para a
  
 | Data  | Versão | Descrição | Autor | Revisor |
 | :---: | :----: | :-------: | :---: | :-----: |
-| 11/04 | 1.0.0  | Criação do documento | | |
-| 11/04 | 1.1.0  | Adição da introdução e metodologia | [Antonio Igor](https://github.com/antonioigorcarvalho) e [Valderson Pontes](https://github.com/valdersonjr) | |
-| 11/04 | 1.2.0  | Adição de tópicos do framework DECIDE | [Antonio Igor](https://github.com/antonioigorcarvalho) e [Valderson Pontes](https://github.com/valdersonjr) | |
-| 11/04 | 1.3.0  | Mudança no termo de consimento e adição do tópico "Avaliar". | [Eliseu Kadesh](https://github.com/eliseukadesh67) e [Rodrigo Carvalho](https://github.com/Rocsantos)
+| 11/04 | 1.0.0  | Criação do documento | [Antonio Igor](https://github.com/antonioigorcarvalho) | [Eliseu Kadesh](https://github.com/eliseukadesh67), [Rodrigo Carvalho](https://github.com/Rocsantos) e [Erick Levy](https://github.com/ErickLevy)|
+| 11/04 | 1.1.0  | Adição da introdução e metodologia | [Antonio Igor](https://github.com/antonioigorcarvalho) e [Valderson Pontes](https://github.com/valdersonjr) | [Eliseu Kadesh](https://github.com/eliseukadesh67), [Rodrigo Carvalho](https://github.com/Rocsantos) e [Erick Levy](https://github.com/ErickLevy)|
+| 11/04 | 1.2.0  | Adição de tópicos do framework DECIDE | [Antonio Igor](https://github.com/antonioigorcarvalho) e [Valderson Pontes](https://github.com/valdersonjr) | [Eliseu Kadesh](https://github.com/eliseukadesh67), [Rodrigo Carvalho](https://github.com/Rocsantos) e [Erick Levy](https://github.com/ErickLevy) |
+| 11/04 | 1.3.0  | Mudança no termo de consimento e adição do tópico "Avaliar". | [Eliseu Kadesh](https://github.com/eliseukadesh67) e [Rodrigo Carvalho](https://github.com/Rocsantos) | [Antonio Igor](https://github.com/antonioigorcarvalho) e [Erick Levy](https://github.com/ErickLevy) |
