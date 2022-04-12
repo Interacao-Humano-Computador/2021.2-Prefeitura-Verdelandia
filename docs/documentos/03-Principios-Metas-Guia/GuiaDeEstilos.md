@@ -358,7 +358,7 @@
   Todos os elementos do site são selecionáveis, mas a maioria das imagens não funciona e redirecionam para o início do site.  
 </p>
 
-[Prefeitura de verdelândia](http://www.verdelandia.mg.gov.br/)
+[Prefeitura de Verdelândia](http://www.verdelandia.mg.gov.br/)
 
 ### 10.3 Ativação
 <p align="justify">

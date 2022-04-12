@@ -18,17 +18,17 @@ O site foi avaliado pelo integrante Douglas Monteles, entre os principais proble
 
 
 
-## **Prefeitura de Verdelandia**
+## **Prefeitura de Verdelândia**
 ### Sugestão: Antonio Igor Carvalho
 
 <figure>
 <img align=center width="250" src="../../../assets/logos/logo.png">
 <br>
-<figcaption>Fig. 2 - Brasão de Verdelandia</a></figcaption>
+<figcaption>Fig. 2 - Brasão de Verdelândia</a></figcaption>
 </figure>
 
-<p align="justify">O site da Prefeitura de Verdelandia contém notícias sobre a cidade, serviços online, informações uteis e sobre secretárias, além de dar acesso ao portal da transparência da cidade.<br>
-O site foi avaliado pelo integrante Antonio Igor Carvalho, entre os principais problemas de usabilidade se destacam os links não funcionais, a alta aparição de janelas Pop-up e a interface poluida.</p>
+<p align="justify">O site da Prefeitura de Verdelândia contém notícias sobre a cidade, serviços online, informações uteis e sobre secretárias, além de dar acesso ao portal da transparência da cidade.<br>
+O site foi avaliado pelo integrante Antonio Igor Carvalho, entre os principais problemas de usabilidade se destacam os links não funcionais, a alta aparição de janelas Pop-up e a interface poluída.</p>
 <br></br>
 
 
@@ -85,9 +85,9 @@ Em sua avaliação do site, o aluno Rodrigo Carvalho dos Santos notou que ele n�
 <figcaption>Fig. 6 - Logo do Website RPC Studio</a></figcaption>
 </figure>
 
-<p align="justify"> O site RPC Studio é um site que trabalha com vendas de fantasias dos mais diversos herois e de alta qualidade.
+<p align="justify"> O site RPC Studio é um site que trabalha com vendas de fantasias dos mais diversos heróis e de alta qualidade.
 <br>
-Ao realizar a avaliação heurística do site, o estudante Eliseu Kadesh notou que o mesmo não atendia às heurísticas de prevenção de erros e de estética e design minimalista..</p>
+Ao realizar a avaliação heurística do site, o estudante Eliseu Kadesh notou que o mesmo não atendia às heurísticas de prevenção de erros e de estética e design minimalista.</p>
 <br></br>
 
 
