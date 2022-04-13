@@ -18,7 +18,7 @@
 | 2 | O documento contém as informações necessárias?                    | ✔️ |
 | 3 | As sprints estão descritas de forma clara e objetiva?             | ✔️ |
 | 4 | As sprints possuem um detalhamento individual?                    | ✔️ |
-| 5 | Todas as tabelas possuem legendas?                                | ❌ |
+| 5 | Todas as tabelas possuem legendas?                                | ✔️ |
 | 6 | As imagens possuem legendas?                                      | ✔️ |
 | 7 | O documento possui introdução/objetivo?                           | ✔️ |
 | 8 | O documento possui histórico de versionamento?                    | ✔️ |
@@ -32,4 +32,6 @@
 |Versão|Data de modificação|Descrição da modificação|Autor|Revisor|
 |-|-|-|-|-|
 |1.0.0|05/04/2022| Criação do documento | [Antonio Igor](https://github.com/antonioigorcarvalho) |  |
-|1.0.1|06/04/2022| Realização da Verificação do Checklist | [Antonio Igor](https://github.com/antonioigorcarvalho), [Douglas Monteles](https://github.com/douglasmonteles), [Eliseu Kadesh](https://github.com/eliseukadesh67), [Erick Levy](https://github.com/ericklevy), [Rodrigo Carvalho](https://github.com/Rocsantos) e  [Valderson Pontes](https://github.com/valdersonjr)
+|1.0.1|06/04/2022| Realização da Verificação do Checklist | [Antonio Igor](https://github.com/antonioigorcarvalho), [Douglas Monteles](https://github.com/douglasmonteles), [Eliseu Kadesh](https://github.com/eliseukadesh67), [Erick Levy](https://github.com/ericklevy), [Rodrigo Carvalho](https://github.com/Rocsantos) e  [Valderson Pontes](https://github.com/valdersonjr)|todos |
+|1.0.1|06/04/2022| Checklist fechado e finalizado  | [Erick Levy](https://github.com/ericklevy)  |
+
