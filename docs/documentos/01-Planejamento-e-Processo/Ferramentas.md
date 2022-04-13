@@ -1,8 +1,21 @@
-## 1. Ferramentas
+#  Ferramentas
+
+
+## 1. Introdução
+
 
 <p style="text-align: justify">
 Levantamento de todas as ferramentas que serão utilizadas para o desenvolvimento deste projeto, bem como uma breve descrição de sua utilidade para a execução das tarefas.
 </p>
+
+## 2. Objetivo
+
+<p style="text-align: justify">
+Este documento tem como objetivo transparecer sobre as ferramentas utilizadas no decorrer de todo o projeto.
+</p>
+
+
+
 
 | Ferramenta | Descrição |
 |-|-|
