@@ -9,7 +9,7 @@
 ## 2. Objetivo
 
 <p align="justify">
-  Por isso, optamos pela prototipação em papel, pois ela permite que seja realizada a avaliação formativa junto aos usuários, onde é possível realizar a avaliação parcial, em que detalhes da composição das interfaces ainda não estão bem definidos. Objetiva-se com este documento explicitar as etapas que tratam do planejamento da avalialção através do uso de protótipos feitos em papel.
+  Por isso, optamos pela prototipação em papel, pois ela permite que seja realizada a avaliação formativa junto aos usuários, onde é possível realizar a avaliação parcial, em que detalhes da composição das interfaces ainda não estão bem definidos. Objetiva-se com este documento explicitar as etapas que tratam do planejamento da avaliação através do uso de protótipos feitos em papel.
 </p>
 
 ## 3. Metodologia
@@ -36,7 +36,7 @@
 ## 4. Planejamento da avaliação
 
 <p align="justify">
-  Para que se possa obter o máximo de proveito em um perído de tempo razoável, durante a entrevista deve-se seguir os passos descritos abaixo:
+  Para que se possa obter o máximo de proveito em um período de tempo razoável, durante a entrevista deve-se seguir os passos descritos abaixo:
 </p>
 
 ### 4.1 Termo de Consentimento
