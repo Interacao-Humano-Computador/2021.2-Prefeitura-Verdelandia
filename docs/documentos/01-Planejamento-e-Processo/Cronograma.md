@@ -141,7 +141,18 @@ Com base nos horários de todos os membros, construímos um heatmap (ou mapa de 
   <figcaption>Figura 1: Mapa de calor (Heatmap)</figcaption>
 </figure>
 
-## 5. Histórico de versionamento
+## 5. Conclusão
+
+<p align="justify">
+Conclui-se que o uso de cronograma com o uso de práticas ágeis foi essencial para produzir e melhorar ao todo o projeto, além de ajudar a dividir em pequenas tarefas e ser útil para determinar o que deveria ser entregue com base no cronograma.
+</p>
+
+
+
+
+## 6. Histórico de versionamento
+
+
 
 | Data  | Versão | Descrição | Autor | Revisor |
 | :--:  | :----: | :-------: | :---: | :-----: |
@@ -156,3 +167,4 @@ Com base nos horários de todos os membros, construímos um heatmap (ou mapa de 
 | 06/04 | 1.7.0  | Adição da tabela de sprint 6 | [Antonio Igor](https://github.com/antonioigorcarvalho) | [Erick Levy](https://github.com/ericklevy), [Rodrigo Carvalho](https://github.com/Rocsantos), [Eliseu Kadesh](https://github.com/eliseukadesh67), [Valderson Pontes](https://github.com/valdersonjr) e [Douglas Monteles](https://github.com/douglasmonteles) |
 | 11/04 | 1.8.0  | Adição da tabela de sprint 7 | [Antonio Igor](https://github.com/antonioigorcarvalho) | [Erick Levy](https://github.com/ericklevy), [Rodrigo Carvalho](https://github.com/Rocsantos), [Eliseu Kadesh](https://github.com/eliseukadesh67), [Valderson Pontes](https://github.com/valdersonjr) e [Douglas Monteles](https://github.com/douglasmonteles) |
 | 12/04 | 1.8.1 | Correção das legendas nas tabelas | [Erick Levy](https://github.com/ericklevy) |   |
+| 17/04 | 1.8.2 | Finalização das correções | [Erick Levy](https://github.com/ericklevy) |   |

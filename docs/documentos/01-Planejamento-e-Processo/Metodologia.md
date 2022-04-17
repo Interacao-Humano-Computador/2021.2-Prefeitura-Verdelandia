@@ -75,3 +75,5 @@ As metodologias propostas foram de grande importância para a produção do proj
 | Data  | Versão | Descrição | Autor | Revisor |
 | :--:  | :----: | :-------: | :---: | :-----: |
 | 10/02 | 1.0.0  | Abertura do documento | [Eliseu Kadesh](https://github.com/eliseukadesh67) | [Antonio Igor](https://github.com/antonioigorcarvalho) e [Erick Levy](https://github.com/ericklevy) |
+| 17/04 | 1.1.0  | Abertura do documento | [Erick Levy](https://github.com/ericklevy) |  |
+

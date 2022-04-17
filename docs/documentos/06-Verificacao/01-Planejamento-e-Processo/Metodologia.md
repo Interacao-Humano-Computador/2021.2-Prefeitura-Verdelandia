@@ -31,12 +31,13 @@
 
 
 <p align='justify'>
-  Com a verificação de checklist concluímos todos os tópicos e finalizamos a correção deste documento de acordo com a tua tabela.Também foi muito essencial as práticas ágeis.
+  Com a verificação de checklist concluímos todos os tópicos e finalizamos a correção deste documento de acordo com a tua tabela.Também foi muito essencial as práticas ágeis. Alem de todos os integrantes verificarem o documento com o uso do discord.
 </p>
 
 ## 4. Histórico de Versionamento
 
 |Versão|Data de modificação|Descrição da modificação|Autor|Revisor|
 |-|-|-|-|-|
-|1.0.0|05/04/2022| Criação do documento | [Antonio Igor](https://github.com/antonioigorcarvalho) |  |
-|1.0.1|06/04/2022| Realização da Verificação do Checklist | [Antonio Igor](https://github.com/antonioigorcarvalho), [Douglas Monteles](https://github.com/douglasmonteles), [Eliseu Kadesh](https://github.com/eliseukadesh67), [Erick Levy](https://github.com/ericklevy), [Rodrigo Carvalho](https://github.com/Rocsantos) e  [Valderson Pontes](https://github.com/valdersonjr)
+|1.0.0|05/04/2022| Criação do documento | [Antonio Igor](https://github.com/antonioigorcarvalho) | todos integrantes |
+|1.0.1|06/04/2022| Realização da Verificação do Checklist | [Antonio Igor](https://github.com/antonioigorcarvalho), [Douglas Monteles](https://github.com/douglasmonteles), [Eliseu Kadesh](https://github.com/eliseukadesh67), [Erick Levy](https://github.com/ericklevy)|[Rodrigo Carvalho](https://github.com/Rocsantos) e  [Valderson Pontes](https://github.com/valdersonjr)
+|1.1.0|17/04/2022| Ajuste finais | [Erick Levy](https://github.com/ericklevy) |  |
