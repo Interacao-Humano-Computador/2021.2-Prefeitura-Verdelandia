@@ -114,11 +114,11 @@ O design centrado na comunicação (Barbosa et al., 2005) tem como base teórica
 Escolhemos o Mayhem após uma reunião com todo o time e a realização de uma votação.
 </p>
  
-## Referências
+## 5. Referências
 
 > Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021);Interação Humano-Computador e Experiência do usuário.
  
-## Histórico de versionamento
+## 6. Histórico de versionamento
  
 | Data  | Versão | Descrição | Autor | Revisor |
 | :--:  | :----: | :-------: | :---: | :-----: |
