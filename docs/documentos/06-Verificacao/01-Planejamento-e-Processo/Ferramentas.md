@@ -3,7 +3,7 @@
 ## 1. Introdução
 
 <p align='justify'>
-  Após a criação do documento de <a href="https://interacao-humano-computador.github.io/2021.2-Prefeitura-Verdelandia/documentos/01-Planejamento-e-Processo/Ferramentas/">ferramentas</a>, tem-se a necessidade de averiguar se suas especificações atendem ao que é exigido, no caso o método escolhido foi a inspeção. Para maiores detalhes da metodologia utilizada <a href="../../Introducao">clique aqui</a>.
+  Este documento foi criado para verificar faltas no artefato de ferramentas e adicionar melhorias em <a href="https://interacao-humano-computador.github.io/2021.2-Prefeitura-Verdelandia/documentos/01-Planejamento-e-Processo/Ferramentas/">ferramentas</a>, tem-se a necessidade de averiguar se suas especificações atendem ao que é exigido, no caso o método escolhido foi a inspeção. Para maiores detalhes da metodologia utilizada <a href="../../Introducao">clique aqui</a>.
 </p>
 
 <center>
@@ -22,12 +22,20 @@
 | 6 | O documento possui conclusão/resultado                            | ✔️ |
 | 7 | O documento possui histórico de versionamento?                    | ✔️ |
 | 8 | O documento possui links para os sites das ferramentas            | ✔️ |
+| 8 | O documento possui links para os sites das ferramentas            | ✔️ |
 
 <figcaption>Fonte: Próprio autor</figcaption>
 
 </center>
 
-## 3. Histórico de Versionamento
+## 3. Conclusão
+
+<p align='justify'>
+  Com a verificação deste documento corrigimos as faltas que faltava para este documento estar mais de acordo com os padrão de Interação Humano e Computador.
+</p>
+
+
+## 4. Histórico de Versionamento
 
 |Versão|Data de modificação|Descrição da modificação|Autor|Revisor|
 |-|-|-|-|-|
