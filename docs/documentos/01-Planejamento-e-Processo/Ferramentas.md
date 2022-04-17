@@ -11,7 +11,7 @@ Levantamento de todas as ferramentas que serão utilizadas para o desenvolviment
 ## 2. Objetivo
 
 <p style="text-align: justify">
-Este documento tem como objetivo transparecer sobre as ferramentas utilizadas no decorrer de todo o projeto.
+Este documento tem como objetivo transparecer sobre todas as ferramentas utilizadas no decorrer de todo o projeto.
 </p>
 
 

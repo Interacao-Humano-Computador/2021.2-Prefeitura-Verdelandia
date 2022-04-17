@@ -16,11 +16,12 @@
 | :----: | :------------------: | :------: |
 | 1 | O documento utiliza uma linguagem clara e sem erros ortográficos? | ✔️ |
 | 2 | O documento contém as informações necessárias?                    | ✔️ |
-| 3 | Os tópicos estão descritos de forma clara e objetiva?             | ❌ |
+| 3 | Os tópicos estão descritos de forma clara e objetiva?             | ✔️ |
 | 4 | As tabelas possuem legendas?                                      | ✔️ |
 | 5 | O documento possui introdução/objetivo?                           | ❌ |
 | 6 | O documento possui conclusão/resultado                            | ❌ |
 | 7 | O documento possui histórico de versionamento?                    | ✔️ |
+| 8 | O documento possui links para os sites das ferramentas            | ✔️ |
 
 <figcaption>Fonte: Próprio autor</figcaption>
 
