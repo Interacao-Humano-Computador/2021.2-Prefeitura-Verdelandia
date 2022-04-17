@@ -68,3 +68,5 @@ Este documento tem como objetivo transparecer sobre todas as ferramentas utiliza
 |11/02/2022|1.0.3|Corringindo a axibição de algumas imagens das ferramentas.| [Douglas Monteles](https://github.com/DouglasMonteles) | [Erick Levy](https://github.com/ErickLevy) |
 |12/02/2022|1.0.4|Corringindo o caminho das imagens| [Douglas Monteles](https://github.com/DouglasMonteles) | [Erick Levy](https://github.com/ErickLevy) |
 |19/02/2022|1.0.5|Correções após o feedback da entrega 1| [Douglas Monteles](https://github.com/DouglasMonteles) | [Antonio Igor](https://github.com/AntonioIgorCarvalho) |
+
+|17/04/2022|1.0.5|Correções após o feedback e para entrega final|[Erick Levy](https://github.com/ErickLevy) |  |

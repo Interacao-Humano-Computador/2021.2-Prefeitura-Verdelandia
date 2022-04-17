@@ -18,8 +18,8 @@
 | 2 | O documento contém as informações necessárias?                    | ✔️ |
 | 3 | Os tópicos estão descritos de forma clara e objetiva?             | ✔️ |
 | 4 | As tabelas possuem legendas?                                      | ✔️ |
-| 5 | O documento possui introdução/objetivo?                           | ❌ |
-| 6 | O documento possui conclusão/resultado                            | ❌ |
+| 5 | O documento possui introdução/objetivo?                           | ✔️ |
+| 6 | O documento possui conclusão/resultado                            | ✔️ |
 | 7 | O documento possui histórico de versionamento?                    | ✔️ |
 | 8 | O documento possui links para os sites das ferramentas            | ✔️ |
 
@@ -32,4 +32,5 @@
 |Versão|Data de modificação|Descrição da modificação|Autor|Revisor|
 |-|-|-|-|-|
 |1.0.0|05/04/2022| Criação do documento | [Antonio Igor](https://github.com/antonioigorcarvalho) |  |
-|1.0.1|06/04/2022| Realização da Verificação do Checklist | [Antonio Igor](https://github.com/antonioigorcarvalho), [Douglas Monteles](https://github.com/douglasmonteles), [Eliseu Kadesh](https://github.com/eliseukadesh67), [Erick Levy](https://github.com/ericklevy), [Rodrigo Carvalho](https://github.com/Rocsantos) e  [Valderson Pontes](https://github.com/valdersonjr)
+|1.0.1|06/04/2022| Realização da Verificação do Checklist | [Antonio Igor](https://github.com/antonioigorcarvalho), [Douglas Monteles](https://github.com/douglasmonteles), [Eliseu Kadesh](https://github.com/eliseukadesh67), [Erick Levy](https://github.com/ericklevy), [Rodrigo Carvalho](https://github.com/Rocsantos) e  [Valderson Pontes](https://github.com/valdersonjr)| |
+|1.0.2|17/04/2022| Criação do documento | [Erick Levy](https://github.com/ericklevy) |  |
