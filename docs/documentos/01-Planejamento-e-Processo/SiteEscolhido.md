@@ -49,4 +49,4 @@ uma usabilidade e acessibilidade pensada para toda a população. </p>
 | - | - | - | - | - |
 | 11/02/2022 | 1.0.0 | Criação da página do site escolhido. | [Valderson Pontes](https://github.com/valdersonjr) e [Antonio Igor](https://github.com/AntonioIgorCarvalho) | [Rodrigo Carvalho](https://github.com/Rocsantos) |
 | 13/02/2022 | 1.0.1 | Atualização da página. | [Valderson Pontes](https://github.com/valdersonjr) | [Antonio Igor](https://github.com/AntonioIgorCarvalho) |
-| 17/04/2022 | 1.1.0 | Melhorias finais do site escolhido. | [Erick Levy](https://github.com/ericklevy)  |  |
+| 17/04/2022 | 1.1.0 | Melhorias finais do site escolhido. | [Erick Levy](https://github.com/ericklevy)  | [Antonio Igor](https://github.com/AntonioIgorCarvalho) |
