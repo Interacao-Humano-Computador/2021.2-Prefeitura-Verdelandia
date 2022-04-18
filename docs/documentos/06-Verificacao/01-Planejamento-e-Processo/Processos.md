@@ -30,7 +30,7 @@
 ## 3. Conclusão
 
 <p align='justify'>
- Com o uso da tabela de Checklist verificamos que todos os apontamentos no artefato processos de design valida com a tabela proposta.
+ Com o uso da tabela de Checklist verificamos que todos os apontamentos no artefato "processos de design" estão válidos conforme o esperado.
 </p>
 
 
@@ -40,4 +40,4 @@
 |-|-|-|-|-|
 |1.0.0|05/04/2022| Criação do documento | [Antonio Igor](https://github.com/antonioigorcarvalho) |  |
 |1.0.1|06/04/2022| Realização da Verificação do Checklist | [Antonio Igor](https://github.com/antonioigorcarvalho), [Douglas Monteles](https://github.com/douglasmonteles), [Eliseu Kadesh](https://github.com/eliseukadesh67), [Erick Levy](https://github.com/ericklevy), [Rodrigo Carvalho](https://github.com/Rocsantos) e  [Valderson Pontes](https://github.com/valdersonjr)
-|1.0.2|17/04/2022| Melhorias finais | [Erick Levy](https://github.com/ericklevy) |  |
+|1.0.2|17/04/2022| Melhorias finais | [Erick Levy](https://github.com/ericklevy) | [Antonio Igor](https://github.com/antonioigorcarvalho) |
