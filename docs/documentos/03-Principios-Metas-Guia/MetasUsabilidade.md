@@ -1,5 +1,5 @@
 ## 1. Introdução
- 
+
 <p align="justify">
 As metas de usabilidade definem os fatores de qualidade de uso que serão priorizados no projeto, como serão avaliados ao longo do processo de design, e quais faixas de valores são inaceitáveis, aceitáveis e ideais para cada indicador de interesse.
  
@@ -23,13 +23,13 @@ Os fatores de usabilidade considerados por Nielsen (1994) são:
 Além desses fatores de usabilidade considerados por Nielsen, podemos considerar outros que são propostos por (Preece, Rogers e Sharp, 2013):
 </p>
 
-- Ser eficaz no uso (eficácia)
-- Ter boa utilidade (utilidade)
- 
+-   Ser eficaz no uso (eficácia)
+-   Ter boa utilidade (utilidade)
+
 Para cada critério de usabilidade listado, serão definidas metas de usabilidade.<br>
- 
+
 ### 2.1 Facilidade de Aprendizagem
- 
+
 <p align="justify">
 Refere-se à facilidade de aprender a usar um sistema. As pessoas não gostam de perder tempo aprendendo como usar um sistema. Preferem utilizá-lo logo e se tornarem competentes realizando tarefas sem muito esforço.
 </p>
@@ -69,19 +69,29 @@ Eficácia é uma meta bastante geral e se refere a quanto um produto é bom em f
 ### 2.7 Utilidade
  
 <p align="justify">
-Utilidade é medida que o produto oferece o tipo certo de funcionalidade, de modo que os usuários façam o que precisam e/ou desejam.
+Utilidade é uma medida de que o produto oferece o tipo certo de funcionalidade, de modo que os usuários façam o que precisam e/ou desejam.
 </p>
  
 ## 3. Metas a serem atingidas no projeto
  
 <p align="justify">
-As principais metas a serem atingidas no processo são: Utilidade, Segurança no Uso, Eficiência, Eficácia e Facilidade de Recordação, sendo essas as metas consideradas mais importantes para o contexto do projeto.<br>
- 
+As principais metas a serem atingidas no processo são: facilidade de aprendizagem, facilidade de recordação, eficácia, segurança no uso, utilidade, sendo essas as metas consideradas mais importantes para o contexto do projeto.<br>
+
+-   Facilidade de aprendizagem: por ser um sistema utilizado por diversos tipos de usuários.
+-   Facilidade de recordação: evitar que o usuário tenha que aprender a realizar a tarefa novamente. Essa meta também é importante devido a diversidade de usuário.
+-   Eficácia: por ser um <i> website </i> governamental, é imprescindível o produto ser bom no que foi feito para fazer, devido sua importância.
+-   Segurança no uso: os usuário que utilizam o sistema podem não possuir certa familiaridade com utilização de tecnologia. Dessa forma, se faz importante protege-lo de condições adversas.
+-   Utilidade: o <i> website </i> deve fornecer vários tipos de funcionalidade, no seu contexto de existência, para que os usuários possam fazer o que procuram.
+
+<br>
+As cinco metas escolhidas são consideradas mais importantes para o projeto em razão do sistema analisado ser um site de prefeitura. Sendo assim, as demais, eficiência e satisfação, são menos importantes do que as demais nesse contexto, pois o mais importante é que o usuário consiga chegar ao final de sua tarefa, relevando seu nível de satisfação ou sua produtividade.<br>
+
 Utilizando o formato sugerido por (Preece, Rogers e Sharp, 2013), as metas de usabilidade escolhidas serão dirigidas como perguntas. O objetivo é fornecer um meio concreto de avaliar os vários aspectos de um produto interativo e da experiência de usuário. Respondendo às perguntas, podemos ser alertados em estágios iniciais no processo de design sobre problemas potenciais.
+
 </p>
  
 - Facilidade de Aprendizagem:
-   - Pergunta: O sistema permite que as pessoas aprendam, realizem seu trabalho de forma   eficiente, acessem a informação de que necessitam?
+   - Pergunta: O sistema permite que as pessoas aprendam, realizem seu trabalho de forma eficiente, acessem a informação de que necessitam?
        - O site deve possuir uma interface intuitiva, com objetivo de facilitar que os usuários consigam ter acesso às informações sobre a prefeitura, e que essas atividades sejam fáceis de realizar, especialmente para o perfil de usuário definido que são em sua maioria pessoas de idade mais avançada.
 - Facilidade de Recordação:
    - Pergunta: Que tipos de suporte de interface foram fornecidos com o objetivo de ajudar os usuários a lembrarem como realizar as tarefas, especialmente para produtos e operações que são utilizados com pouca frequência?
@@ -99,7 +109,7 @@ Utilizando o formato sugerido por (Preece, Rogers e Sharp, 2013), as metas de us
 ## 4. Conclusão
  
 <p align="justify">
-Tendo sido definidas as metas de usabilidade para o projeto, temos uma base mais sólida de quais as características devemos alcançar para que o sistema esteja satisfatório para o usuário. E com base nessas metas, é possível desenvolver um guia de estilo para o projeto.
+Tendo sido definidas as metas de usabilidade para o projeto e especificado o que se deseja alcançar através delas, temos uma base mais sólida de quais as características devemos alcançar para que o sistema esteja satisfatório para o usuário. E com base nessas metas, é possível desenvolver um guia de estilo para o projeto.
 </p>
  
 ## 5. Referências
@@ -115,3 +125,5 @@ Tendo sido definidas as metas de usabilidade para o projeto, temos uma base mais
 | 10/03 | 1.0.0 | Criação de Documento Metas de Usabilidade | [Rodrigo Carvalho](https://github.com/Rocsantos) e [Eliseu Kadesh](https://github.com/eliseukadesh67) | [Antonio Igor Carvalho](https://github.com/AntonioIgorCarvalho) e [Douglas Monteles](https://github.com/DouglasMonteles) |
 | 11/03 | 1.0.1 | Corrigindo Formatação de Texto | [Rodrigo Carvalho](https://github.com/Rocsantos) | [Antonio Igor Carvalho](https://github.com/AntonioIgorCarvalho) e [Douglas Monteles](https://github.com/DouglasMonteles) |
 | 11/03 | 1.1.0 | Adição da conclusão | [Eliseu Kadesh](https://github.com/eliseukadesh67) | [Antonio Igor Carvalho](https://github.com/AntonioIgorCarvalho) e [Douglas Monteles](https://github.com/DouglasMonteles) |
+| 18/04 | 1.1.1 | Adição de mais informações | [Valderson Pontes](https://github.com/valdersonjr) | [Antonio Igor](https://github.com/antonioigorcarvalho) |
+
