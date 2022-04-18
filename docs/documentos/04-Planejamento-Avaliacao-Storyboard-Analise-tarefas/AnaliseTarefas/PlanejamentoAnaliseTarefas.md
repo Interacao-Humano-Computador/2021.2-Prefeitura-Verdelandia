@@ -31,7 +31,7 @@ Para realização das entrevistas foi decidido utilizar as seguintes ferramentas
 
 - Discord: para a realização da entrevista
 - Streamlabs OBS: para a gravação da entrevista
-- Youtube: para a disponibilização do vídeo
+- YouTube: para a disponibilização do vídeo
 
 ## 4. Teste de Usabilidade
 

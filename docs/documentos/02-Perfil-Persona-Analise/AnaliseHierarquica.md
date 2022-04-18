@@ -2,8 +2,8 @@
 
 <p align="justify">
 A Análise Hierárquica de Tarefas compreende as competências e habilidades exibidas em tarefas complexas e não repetitivas, assim como ajuda identificar problemas de desempenho. Ela se baseia em psicologia funcional, e não comportamental, como as abordagens da época que foi criada.<br>
-Toda tarefa é definida com o termo de seu(s) objetivo(s). Tarefas complexas são definidas em termos de objetivos e subobjetivos, em um desdobramento hierárquico. Esse desdobramento é chamado de decomposição de tarefas ou redescrição. Observer que a definição é mais ampla e difere da definição adotada pelo design baseado em objetivo.<br>
-Um objetivo é um estado específico de coisa, um estado final. Esse estado pode ser definido por um ou mais eventos ou por valores fisicamente observáveis de uma ou mais variáveis, que atuam como critério de alcance do objetivo. Em vez de identificar uma lista de ações, a HTA inicia com uma definição dos objetivos das pessoas.
+Toda tarefa é definida com o termo de seu(s) objetivo(s). Tarefas complexas são definidas em termos de objetivos e subobjetivos, em um desdobramento hierárquico. Esse desdobramento é chamado de decomposição de tarefas ou redescrição. Observe que a definição é mais ampla e difere da definição adotada pelo design baseado em objetivo.<br>
+Um objetivo é um estado específico de coisa, um estado final. Esse estado pode ser definido por um ou mais eventos, ou por valores fisicamente observáveis de uma ou mais variáveis, que atuam como critério de alcance do objetivo. Em vez de identificar uma lista de ações, a HTA inicia com uma definição dos objetivos das pessoas.
 </p>
  
 ## 2. Objetivo
@@ -35,7 +35,7 @@ A representação textual é um dos tipos de representação sugeridos por (Pree
 <br>&emsp;&emsp;&emsp;**2.1** Inserir número do protocolo e senha
 <br>&emsp;&emsp;**3**. Consultar Protocolo
 <br>&emsp;&emsp;&emsp;**3.1** Validar Dados do Protocolo
-<br>&emsp;&emsp;&emsp;**3.2** Redireccionar para página de consulta (SUS)
+<br>&emsp;&emsp;&emsp;**3.2** Redirecionar para página de consulta (SUS)
 
 ### 3.2 Representação textual do objetivo de entrar em contato com a Prefeitura de Verdelândia
 
@@ -75,7 +75,7 @@ A notação gráfica para a Análise Hierárquica de Tarefas tem como base os au
 | 2.1 Inserir número do protocolo e senha | |
 | 3. Consultar Protocolo | **Input**: Dados de protocolo;<br>**Feedback**: Caso os dados estejam corretos, será redirecionado para a página de acompanhamento de consulta (SUS);**Action**: Clicar em "Entrar"|
 | 3.1 Validar Dados do Protocolo | | |
-| 3.2 Redireccionar para página de consulta (SUS) | |
+| 3.2 Redirecionar para página de consulta (SUS) | |
 
 <p align='right'><b>Fonte: Elaboração própria<b></p>
  
