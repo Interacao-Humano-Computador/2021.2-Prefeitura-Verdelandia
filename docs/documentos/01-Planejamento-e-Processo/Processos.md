@@ -111,7 +111,7 @@ O design centrado na comunicação (Barbosa et al., 2005) tem como base teórica
 ## 4. Conclusão de escolha do tipo de processo de Design
 
 <p align="justify">
-Escolhemos o Mayhem após uma reunião com todo o time e a realização de uma votação.
+Escolhemos o Mayhem após uma reunião com todos os integrantes e a realização de uma votação.
 </p>
  
 ## 5. Referências

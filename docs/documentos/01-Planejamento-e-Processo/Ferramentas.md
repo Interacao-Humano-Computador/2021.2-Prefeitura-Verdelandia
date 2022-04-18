@@ -61,7 +61,7 @@ Este documento tem como objetivo transparecer sobre todas as ferramentas utiliza
 ## 3. conclusão
 
 <p style="text-align: justify">
-Desta forma notamos que as ferramentas apresentadas foram uma forma de melhorar o projeto ao todo no desenvolvimento dele ,sem elas possivelmente teríamos dificuldades em concluir o projeto.
+Desta forma notamos que as ferramentas apresentadas foram uma forma de melhorar o projeto ao todo no desenvolvimento dele, sem elas possivelmente teriam aparecido  dificuldades em concluir o projeto.
 </p>
 
 

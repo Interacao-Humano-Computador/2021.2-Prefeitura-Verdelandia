@@ -31,7 +31,7 @@
 
 
 <p align='justify'>
-  Com a verificação de checklist concluímos todos os tópicos e finalizamos a correção deste documento de acordo com a tua tabela.Também foi muito essencial as práticas ágeis. Alem de todos os integrantes verificarem o documento com o uso do discord.
+  Com a verificação de checklist concluímos todos os tópicos e finalizamos a correção deste documento conforme a  tabela. Também foi muito essencial as práticas ágeis. Além de todos os integrantes verificarem o documento com o uso do Discord.
 </p>
 
 ## 4. Histórico de Versionamento

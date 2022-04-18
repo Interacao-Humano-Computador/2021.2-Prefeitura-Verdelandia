@@ -40,7 +40,7 @@ uma usabilidade e acessibilidade pensada para toda a população. </p>
 <p align="justify"> As questões éticas serão pautadas futuramente quando estabelecermos contato com o usuário.</p>
 
 ## 6. Conclusão
-<p align="justify"> Escolhemos o site verdelândia atraves uma votação e para o uso melhor do estudo sobre Interação Humano e computador.</p>
+<p align="justify">Escolhemos o site Verdelândia através uma votação e para o uso melhor do estudo sobre Interação Humano e computador.</p>
 
 
 ## 7. Histórico de Versionamento

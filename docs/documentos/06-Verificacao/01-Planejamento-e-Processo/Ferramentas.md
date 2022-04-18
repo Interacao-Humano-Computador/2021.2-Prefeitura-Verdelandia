@@ -31,7 +31,7 @@
 ## 3. Conclusão
 
 <p align='justify'>
-  Com a verificação deste documento corrigimos as faltas que faltava para este documento estar mais de acordo com os padrão de Interação Humano e Computador.
+  Com a verificação deste documento corrigimos as faltas que faltava para este documento estar mais conforme o padrão de Interação Humano e Computador.
 </p>
 
 

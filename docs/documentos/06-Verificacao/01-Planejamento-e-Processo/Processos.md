@@ -30,7 +30,7 @@
 ## 3. Conclusão
 
 <p align='justify'>
-    Com o uso da tabela de Checklist verificamos que todos os apontamentos no artefato processos de design esta de acordo com a tabela proposta.
+ Com o uso da tabela de Checklist verificamos que todos os apontamentos no artefato processos de design valida com a tabela proposta.
 </p>
 
 

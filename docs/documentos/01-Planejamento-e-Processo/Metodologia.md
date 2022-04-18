@@ -59,7 +59,7 @@ A equipe utilizará como meio de comunicação:
 ## 6. Conclusão
 
 <p align="justify">
-As metodologias propostas foram de grande importância para a produção do projeto no decorrer do curso , o uso de práticas ágeis foi essencial junto da divisão de papéis pelos membros e o pair programming na divisão de tarefas em dupla para uma produção acelerada.
+As metodologias propostas foram de grande importância para a produção do projeto no decorrer do curso, o uso de práticas ágeis foi essencial junto da divisão de papéis pelos membros e o pair programming na divisão de tarefas em dupla para uma produção acelerada.
 </p>
  
 ## 7. Referências

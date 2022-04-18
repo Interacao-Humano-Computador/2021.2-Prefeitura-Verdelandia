@@ -32,7 +32,7 @@
 ## 3. Conclusão
 
 <p align='justify'>
-   Com base neste documento utilizamos o checklist para verificar o artefato do site escolhido , assim aplicando as melhorias que foram feitas para a finalização deste documento.
+   Com base neste documento utilizamos o checklist para verificar o artefato do site escolhido, assim aplicando as melhorias feitas para a finalização deste documento.
 </p>
 
 ## 4. Histórico de Versionamento
