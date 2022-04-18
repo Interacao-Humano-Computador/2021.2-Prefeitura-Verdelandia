@@ -35,4 +35,4 @@ PREECE, J.; ROGERS, Y; SHARP, H. Design de Interação: Além da interação hom
  
 | Data  | Versão | Descrição | Autor | Revisor |
 | :---: | :----: | :-------: | :---: | :-----: |
-| 17/04 | 1.0.0  | Criação do documento | [Antonio Igor](https://github.com/antonioigorcarvalho) | - |
+| 17/04 | 1.0.0  | Criação do documento | [Antonio Igor](https://github.com/antonioigorcarvalho) | [ErickLevy](https://github.com/ErickLevy) e [ValdersonPontes](https://github.com/valdersonjr) |
