@@ -1,7 +1,7 @@
 # Metodologia
  
 ## 1. Introdução
- a
+
 <p align="justify">
 Este documento tem como objetivo apresentar as metodologias e abordagens que serão utilizadas durante o desenvolvimento do projeto. Estas metodologias serão utilizadas para facilitar o desenvolvimento, sabendo que as atividades propostas por essas metodologias serão adaptadas de acordo com a realidade do desenvolvimento do projeto, e de acordo com a dinâmica da disciplina, focando principalmente utilizar as metodologias como facilitadores do aprendizado de IHC através do desenvolvimento.
 </p>
@@ -75,5 +75,5 @@ As metodologias propostas foram de grande importância para a produção do proj
 | Data  | Versão | Descrição | Autor | Revisor |
 | :--:  | :----: | :-------: | :---: | :-----: |
 | 10/02 | 1.0.0  | Abertura do documento | [Eliseu Kadesh](https://github.com/eliseukadesh67) | [Antonio Igor](https://github.com/antonioigorcarvalho) e [Erick Levy](https://github.com/ericklevy) |
-| 17/04 | 1.1.0  | Abertura do documento | [Erick Levy](https://github.com/ericklevy) |  |
+| 17/04 | 1.1.0  | Abertura do documento | [Erick Levy](https://github.com/ericklevy) | [Antonio Igor](https://github.com/antonioigorcarvalho) |
 
