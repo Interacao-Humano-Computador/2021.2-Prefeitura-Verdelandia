@@ -31,7 +31,7 @@
 ## 3. Conclusão
 
 <p align='justify'>
-  Com a verificação deste documento corrigimos as faltas que faltava para este documento estar mais conforme o padrão de Interação Humano e Computador.
+  Com a verificação deste documento corrigimos as faltas para que este documento esteja conforme o padrão esperado.
 </p>
 
 
@@ -41,4 +41,4 @@
 |-|-|-|-|-|
 |1.0.0|05/04/2022| Criação do documento | [Antonio Igor](https://github.com/antonioigorcarvalho) |  |
 |1.0.1|06/04/2022| Realização da Verificação do Checklist | [Antonio Igor](https://github.com/antonioigorcarvalho), [Douglas Monteles](https://github.com/douglasmonteles), [Eliseu Kadesh](https://github.com/eliseukadesh67), [Erick Levy](https://github.com/ericklevy), [Rodrigo Carvalho](https://github.com/Rocsantos) e  [Valderson Pontes](https://github.com/valdersonjr)| |
-|1.0.2|17/04/2022| Criação do documento | [Erick Levy](https://github.com/ericklevy) |  |
+|1.0.2|17/04/2022| Criação do documento | [Erick Levy](https://github.com/ericklevy) | [Antonio Igor](https://github.com/antonioigorcarvalho) |
