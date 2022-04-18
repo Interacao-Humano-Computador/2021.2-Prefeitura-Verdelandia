@@ -6,6 +6,10 @@
     Portanto, sempre deve ser elaborado com base nas metas de usabilidade.  
 </p>
 
+<p align="justify">
+	Este documento elabora o Guia de Estilo com base no site atual da <a href="http://www.verdelandia.mg.gov.br/">Prefeitura de Verdelândia</a>, uma vez que o site da prefeitura é composto por elementos característicos da própria cidade, e optamos por manter assim.
+</p>
+
 <center>
   <figcaption>Figura 1: Guia de estilo</figcaption>
 
@@ -445,7 +449,13 @@
   </figcaption>
 </figure>
 
-## 12. Referências
+## 12. Conclusão
+
+<p align="justify">
+	Neste documento foi apresentado os componentes do Guia de Estilo identificados e classificados por tópico, com base nos elementos do site da <a href="http://www.verdelandia.mg.gov.br/">Prefeitura de Verdelândia</a>. Dentro do ciclo de vida da Mayhew, este documento visa se estabelecer como um dos pilares das Metas de Usabilidade, que define como a equide de desenvolvimento e de design devem estabelecer uma comunicação e convenção sobre o uso dos elementos.
+</p>
+
+## 13. Referências
  
 > BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador, Rio de Janeiro, 2021.
 
@@ -459,3 +469,4 @@
 | :---: | :----: | :-------------------------------------: | :-------------------------------------------------------------------------------------------------: | :-----: |
 | 10/03 | 1.0.0  | Criação do documento de Guia de Estilos | [Douglas Monteles](https://github.com/DouglasMonteles) e [Erick Levy](https://github.com/ErickLevy) | [Antonio Igor](https://github.com/antonioigorcarvalho), [Eliseu Kadesh](https://github.com/eliseukadesh67) e [Rodrigo Carvalho](https://github.com/Rocsantos) |
 | 12/03 | 1.0.1  | Alterando a posição das legendas das figuras e adicionando a fonte | [Douglas Monteles](https://github.com/DouglasMonteles) e [Erick Levy](https://github.com/ErickLevy) | [Antonio Igor](https://github.com/antonioigorcarvalho), [Eliseu Kadesh](https://github.com/eliseukadesh67) e [Rodrigo Carvalho](https://github.com/Rocsantos) |
+| 18/04 | 1.1.0  | Adicionando tópicos sobre o Guia de Estilos e processo da Mayhew | [Douglas Monteles](https://github.com/DouglasMonteles) | a definir |
