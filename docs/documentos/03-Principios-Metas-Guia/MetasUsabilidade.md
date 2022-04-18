@@ -125,5 +125,5 @@ Tendo sido definidas as metas de usabilidade para o projeto e especificado o que
 | 10/03 | 1.0.0 | Criação de Documento Metas de Usabilidade | [Rodrigo Carvalho](https://github.com/Rocsantos) e [Eliseu Kadesh](https://github.com/eliseukadesh67) | [Antonio Igor Carvalho](https://github.com/AntonioIgorCarvalho) e [Douglas Monteles](https://github.com/DouglasMonteles) |
 | 11/03 | 1.0.1 | Corrigindo Formatação de Texto | [Rodrigo Carvalho](https://github.com/Rocsantos) | [Antonio Igor Carvalho](https://github.com/AntonioIgorCarvalho) e [Douglas Monteles](https://github.com/DouglasMonteles) |
 | 11/03 | 1.1.0 | Adição da conclusão | [Eliseu Kadesh](https://github.com/eliseukadesh67) | [Antonio Igor Carvalho](https://github.com/AntonioIgorCarvalho) e [Douglas Monteles](https://github.com/DouglasMonteles) |
-| 18/04 | 1.1.1 | Adição de mais informações | [Valderson Pontes](https://github.com/valdersonjr) | - |
+| 18/04 | 1.1.1 | Adição de mais informações | [Valderson Pontes](https://github.com/valdersonjr) | [Antonio Igor](https://github.com/antonioigorcarvalho) |
 
