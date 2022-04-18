@@ -12,7 +12,7 @@ A elaboração de um perfil de usuário é um processo iterativo. Em geral, um d
 
 ## 2. Objetivos
 
-<p style="text-align: justify">Um questionário é um formulário impresso ou on-line com perguntas que os usuários e demais participantes devem responder , também é uma maneira de otimizar o entendimento do processo. É uma técnica que permite a rápida obtenção de informações quantitativas e qualitativas de um público alvo. Diferente da técnica de entrevista, o questionário permite coletar dados de pessoas até dispersas geograficamente.</p>
+<p style="text-align: justify">Um questionário é um formulário impresso ou on-line com perguntas que os usuários e demais participantes devem responder, também é uma maneira de otimizar o entendimento do processo. É uma técnica que permite a rápida obtenção de informações quantitativas e qualitativas de um público alvo. Diferente da técnica de entrevista, o questionário permite coletar dados de pessoas até dispersas geograficamente.</p>
 
 ## 3. Questionário
 
@@ -25,13 +25,13 @@ O questionário foi criado a partir do Google Forms, aplicado de forma on-line e
 </p>
 
 <p style="text-align: justify">
-Aplicamos o questionário em forma online em plataformas como facebook,Linkedin,Whatsapp e Telegram para conseguir uma maior resposta dos usuários.
+Aplicamos o questionário em forma online em plataformas como Facebook, Linkedin, Whatsapp e Telegram para conseguir uma maior resposta dos usuários.
 </p>
 
 ## 4. Comunidade
 
 <p style="text-align: justify">
-A comunidade que respondeu este questionario foram pessoas entre a faixa etaria de 18 a 31 anos que possuem acesso a internet, mas que consideram que um site de prefeitura seja simples e intuito assim sendo facil de utilizar.
+A comunidade que respondeu este questionário foram pessoas entre a faixa etária de 18 a 31 anos que possuem acesso à internet, mas que consideram que um site de prefeitura seja simples e intuito assim sendo fácil de utilizar.
 </p>
 
 ## 5. Resultado das Questões
@@ -109,7 +109,7 @@ Abaixo estão as questões e o seu respectivo resultado após a divulgação do 
 ## 6. Perguntas obtidas com o questionário do porque o uso do site de prefeitura
 
 <p style="text-align: justify">
-As perguntas foram ordenadas de acordo com o percentual de sua importância para os usuários que responderam a questão 5.8, também foi analizado que a grande maioria das pessoas conseguiram atingir seus objetivos de acordo com a questão 5.7.
+As perguntas foram ordenadas de acordo com o percentual de sua importância para os usuários que responderam à questão 5.8, também foi analisado que a grande maioria das pessoas conseguiram atingir seus objetivos de acordo com a questão 5.7.
 </p>
 
 -   Para acompanhar as notícias da minha cidade.
@@ -128,7 +128,7 @@ Em posse dos dados obtidos com a aplicação do questionário, podemos perceber 
 </p>
 
 <p style="text-align: justify">
-Além disso, observa-se que a grande maioria dos usuários exigem simplicidade e intuitividade nos sites das prefeituras que acessam ou já precisaram acessar em algum momento. Concomitante a isso, ao menos 38.5% julgaram ter tido uma experiência ruim ao acessar o site de alguma prefeitura. Apesar os inconvenientes, a maioria dos respondentes conseguiram atingir o seu objetivo ao acessar o site, e dentre os principais motivos para acessa-lo estão: Acompanhar as notícias de sua respectiva cidade, obter informações sobre o transporte urbano e matrículas em educação infantil. 
+Além disso, observa-se que a grande maioria dos usuários exigem simplicidade e intuitividade nos sites das prefeituras que acessam ou já precisaram acessar em algum momento. Concomitante a isso, ao menos 38.5% julgaram ter tido uma experiência ruim ao acessar o site de alguma prefeitura. Apesar os inconvenientes, a maioria dos respondentes conseguiram atingir o seu objetivo ao acessar o site, e dentre os principais motivos para acessa-lo estão: acompanhar as notícias de sua respectiva cidade, obter informações sobre o transporte urbano e matrículas em educação infantil. 
 </p>
 
 ## 8. Referências

@@ -1,7 +1,7 @@
 # Metodologia
  
 ## 1. Introdução
- 
+
 <p align="justify">
 Este documento tem como objetivo apresentar as metodologias e abordagens que serão utilizadas durante o desenvolvimento do projeto. Estas metodologias serão utilizadas para facilitar o desenvolvimento, sabendo que as atividades propostas por essas metodologias serão adaptadas de acordo com a realidade do desenvolvimento do projeto, e de acordo com a dinâmica da disciplina, focando principalmente utilizar as metodologias como facilitadores do aprendizado de IHC através do desenvolvimento.
 </p>
@@ -55,8 +55,14 @@ A equipe utilizará como meio de comunicação:
 - Issues do [Github](https://github.com/) para discussão de melhorias na documentação e descrever as novas atividades;
 - [Telegram](https://telegram.org/) para comunicação rápida e mais efetiva, podendo até ser feita as Dailys utilizando esse meio;
 - O aplicativo [Discord](https://discord.com/) para reuniões, e discussões mais longas;
+
+## 6. Conclusão
+
+<p align="justify">
+As metodologias propostas foram de grande importância para a produção do projeto no decorrer do curso, o uso de práticas ágeis foi essencial junto da divisão de papéis pelos membros e o pair programming na divisão de tarefas em dupla para uma produção acelerada.
+</p>
  
-## 6. Referências
+## 7. Referências
  
 > SCRUM, Metodologia Ágil. Disponível em: <https://www.scrum.org/>
 
@@ -64,8 +70,10 @@ A equipe utilizará como meio de comunicação:
 
 > Extreme Programming (XP). Disponível em <http://www.extremeprogramming.org/>
  
-## 7. Histórico de versionamento
+## 8. Histórico de versionamento
  
 | Data  | Versão | Descrição | Autor | Revisor |
 | :--:  | :----: | :-------: | :---: | :-----: |
 | 10/02 | 1.0.0  | Abertura do documento | [Eliseu Kadesh](https://github.com/eliseukadesh67) | [Antonio Igor](https://github.com/antonioigorcarvalho) e [Erick Levy](https://github.com/ericklevy) |
+| 17/04 | 1.1.0  | Abertura do documento | [Erick Levy](https://github.com/ericklevy) | [Antonio Igor](https://github.com/antonioigorcarvalho) |
+

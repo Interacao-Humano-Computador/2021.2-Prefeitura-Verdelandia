@@ -163,13 +163,13 @@ Antes de iniciar com a entrevista, deve-se apresentar ao entrevistado o Termo de
 ## 4.5 Aplicação da Avaliação
 
 <p align="justify">
-  Para a entrevista, optou-se por realiza-la através do Microsoft Teams, tendo em vista a simplicidade e o alcançe dessa plataforma. Na data combinada para a realização da entrevista, cada participante deve receber um link para a videoconferencia, com pelo menos 10 minutos de antecedência, e o tempo total da entrevista não pode superar os 30 minutos, para que não haja esgotamento do entrevistado e consequente perca de qualidade nas respostas obtidas. Os próximos passos estão descritos abaixo:
+  Para a entrevista, optou-se por realiza-la através do Microsoft Teams, tendo em vista a simplicidade e o alcance dessa plataforma. Na data combinada para a realização da entrevista, cada participante deve receber um link para a videoconferência, com pelo menos 10 minutos de antecedência, e o tempo total da entrevista não pode superar os 30 minutos, para que não haja esgotamento do entrevistado e consequente perca de qualidade nas respostas obtidas. Os próximos passos estão descritos abaixo:
 </p>
 
 - No inicio da entrevista, explique ao entrevistado sobre o assunto que será tratado e como ocorrerá a avaliação.
 - Antes de começar com as perguntas, deixe o entrevistado a par do Termo de Compromisso, e se ele está de acordo com os termos, caso não esteja, a entrevista deve ser encerrada neste ponto.
 - Neste momento, inicie a gravação e siga com o roteiro de questões presente na Figura 1.
-- Ao final, agradeça ao entrevistado pela contribuição e finalize a gravação da videoconferencia.
+- Ao final, agradeça ao entrevistado pela contribuição e finalize a gravação da videoconferência.
 
 **Importante:** Sempre que achar necessário, anote algum ponto ou observação que possa ter surgido ao longo da entrevista e que possa vir a contribuir futuramente para o projeto.
 

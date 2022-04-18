@@ -29,7 +29,7 @@ nav:
       - Análise Hierárquica de Tarefas (AHT): documentos/02-Perfil-Persona-Analise/AnaliseHierarquica.md
 
   - III. Metas de Usabilidade e Guias de Estilo:
-    - Principios Gerais: documentos/03-Principios-Metas-Guia/PrincipiosGerais.md
+    - Princípios Gerais: documentos/03-Principios-Metas-Guia/PrincipiosGerais.md
     - Metas de Usabilidade: documentos/03-Principios-Metas-Guia/MetasUsabilidade.md
     - Guia de Estilos: documentos/03-Principios-Metas-Guia/GuiaDeEstilos.md
     
@@ -76,6 +76,9 @@ nav:
       - Planejamento da Avaliação do Protótipo de Alta Fidelidade: documentos/07-Resultado-Prototipo-Papel-Planejamento-Prototipo-Alta-Fidelidade/PlanejamentoPrototipoAltaFidelidade.md
       - Entrevistas do Protótipo de Papel: documentos/07-Resultado-Prototipo-Papel-Planejamento-Prototipo-Alta-Fidelidade/EntrevistasDoProtótipoDePapel.md
       - Relato dos Resultados do Protótipo de Papel: documentos/07-Resultado-Prototipo-Papel-Planejamento-Prototipo-Alta-Fidelidade/RelatoDosResultadosDoProtótipoDePapel.md  
+
+  - VIII. Protótipo de Alta Fidelidade:
+    - Protótipo: documentos/08-Prototipo-Alta-Fidelidade/PrototipoAltaFidelidade.md
 
   - Apresentações:
     - Ponto de controle 1: documentos/Apresentações/Apresentacao_PC1.md
