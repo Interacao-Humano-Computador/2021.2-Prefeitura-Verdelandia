@@ -41,7 +41,7 @@ O objetivo do cronograma do projeto é prover uma visualização rápida da divi
   Tabela 2 - Referente as Tarefas da Sprint 1 
 </center>
 
-### 3.2 Sprint 2   -  Análise de tarefas , Análise hierárquica , Perfil de usuário e Personas
+### 3.2 Sprint 2   -  Análise de tarefas, Análise hierárquica, Perfil de usuário e Personas
 
 
 | Tarefas         | Responsável | Revisor   | Entrega Limite |
@@ -55,7 +55,7 @@ O objetivo do cronograma do projeto é prover uma visualização rápida da divi
   Tabela 3 - Referente as Tarefas da Sprint 2
 </center>
 
-### 3.3 Sprint 3   -  Guia de estilo , Metas de usabilidade e Princípios gerais 
+### 3.3 Sprint 3   -  Guia de estilo, Metas de usabilidade e Princípios gerais 
 
 | Tarefas         | Responsável | Revisor   | Entrega Limite |
 | :-----:         | :---------: | :-----:   | :--------------: |
@@ -166,5 +166,5 @@ Conclui-se que o uso de cronograma com o uso de práticas ágeis foi essencial p
 | 04/04 | 1.6.0  | Adição do heatmap | [Antonio Igor](https://github.com/antonioigorcarvalho) | [Erick Levy](https://github.com/ericklevy) |
 | 06/04 | 1.7.0  | Adição da tabela de sprint 6 | [Antonio Igor](https://github.com/antonioigorcarvalho) | [Erick Levy](https://github.com/ericklevy), [Rodrigo Carvalho](https://github.com/Rocsantos), [Eliseu Kadesh](https://github.com/eliseukadesh67), [Valderson Pontes](https://github.com/valdersonjr) e [Douglas Monteles](https://github.com/douglasmonteles) |
 | 11/04 | 1.8.0  | Adição da tabela de sprint 7 | [Antonio Igor](https://github.com/antonioigorcarvalho) | [Erick Levy](https://github.com/ericklevy), [Rodrigo Carvalho](https://github.com/Rocsantos), [Eliseu Kadesh](https://github.com/eliseukadesh67), [Valderson Pontes](https://github.com/valdersonjr) e [Douglas Monteles](https://github.com/douglasmonteles) |
-| 12/04 | 1.8.1 | Correção das legendas nas tabelas | [Erick Levy](https://github.com/ericklevy) |   |
-| 17/04 | 1.8.2 | Finalização das correções | [Erick Levy](https://github.com/ericklevy) |   |
+| 12/04 | 1.8.1 | Correção das legendas nas tabelas | [Erick Levy](https://github.com/ericklevy) | [Antonio Igor](https://github.com/antonioigorcarvalho)  |
+| 17/04 | 1.8.2 | Finalização das correções | [Erick Levy](https://github.com/ericklevy) |  [Antonio Igor](https://github.com/antonioigorcarvalho) |
