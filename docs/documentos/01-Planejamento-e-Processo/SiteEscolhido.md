@@ -1,5 +1,6 @@
 # Site Escolhido
 
+
 <figure>
 <img align=center width="250" src="../../../assets/logos/logo.png">
 <br>
@@ -8,7 +9,7 @@
 
 
 ## 1. Introdução
-<p align="justify"> O site escolhido para ser feito uma avaliação foi o da [Prefeitura de Verdelândia-MG] (http://www.verdelandia.mg.gov.br). O site possui diversas funcionalidades, assim como informar os moradores da cidade sobre todas as notícias da cidade, informações
+<p align="justify"> O site escolhido para ser feito uma avaliação foi o da <a href="http://www.verdelandia.mg.gov.br">Prefeitura de Verdelândia-MG</a> . O site possui diversas funcionalidades, assim como informar os moradores da cidade sobre todas as notícias da cidade, informações
 sobre serviços, convênios, contatos, portal da transparência entre outros. </p>
 
 ## 2. Objetivos
@@ -38,9 +39,14 @@ uma usabilidade e acessibilidade pensada para toda a população. </p>
 ## 5. Questões Éticas
 <p align="justify"> As questões éticas serão pautadas futuramente quando estabelecermos contato com o usuário.</p>
 
+## 6. Conclusão
+<p align="justify"> Escolhemos o site verdelândia atraves uma votação e para o uso melhor do estudo sobre Interação Humano e computador.</p>
+
+
 ## 7. Histórico de Versionamento
 
 | Data | Versão | Descrição | Autor | Revisor |
 | - | - | - | - | - |
 | 11/02/2022 | 1.0.0 | Criação da página do site escolhido. | [Valderson Pontes](https://github.com/valdersonjr) e [Antonio Igor](https://github.com/AntonioIgorCarvalho) | [Rodrigo Carvalho](https://github.com/Rocsantos) |
 | 13/02/2022 | 1.0.1 | Atualização da página. | [Valderson Pontes](https://github.com/valdersonjr) | [Antonio Igor](https://github.com/AntonioIgorCarvalho) |
+| 17/04/2022 | 1.1.0 | Melhorias finais do site escolhido. | [Erick Levy](https://github.com/ericklevy)  |  |
