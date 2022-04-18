@@ -107,4 +107,4 @@ Ao realizar a avaliação heurística do site, o estudante Eliseu Kadesh notou q
 | - | - | - | - | - |
 | 12/02/2022 | 1.0.0 | Criação da página de sites avaliados. |[Valderson Pontes](https://github.com/valdersonjr) e [Antonio Igor](https://github.com/AntonioIgorCarvalho) | [Douglas Monteles](https://github.com/douglasmonteles) |
 | 20/02/2022 | 1.0.1 | Erro de gramática corrigido. | [Antonio Igor](https://github.com/AntonioIgorCarvalho) | [Valderson Pontes](https://github.com/valdersonjr) |
-| 12/02/2022 | 1.0.0 | Criação da página de sites avaliados. |[Erick Levy](https://github.com/ericklevy) |  |
+| 12/02/2022 | 1.0.0 | Criação da página de sites avaliados. |[Erick Levy](https://github.com/ericklevy) | [Antonio Igor](https://github.com/AntonioIgorCarvalho) |
