@@ -23,6 +23,11 @@
 | 6 | O documento possui conclusão/resultado                            | ✔️ |
 | 7 | O documento possui histórico de versionamento?                    | ✔️ |
 | 8 | As imagens possuem legendas?                                      | ✔️ |
+| 9 | Os dados do usuário foram especificados em dados demográficos? Através de documento ou entrevista com o usuário? | ❌ |
+| 10 | O grau de educação foi especificado? | ✔️ |
+| 11 | Os idiomas e jargões foram especificados? | ❌ |
+| 12 | Os dados referentes a relação com a tecnologia, experiência foram especificados? | ✔️ |
+| 13 | Os dados referentes ao domínio do conhecimento foram especificados? | ✔️ |
 
 <figcaption>Fonte: Próprio autor</figcaption>
 
@@ -31,7 +36,7 @@
 ## 3. Conclusão
 
 <p align='justify'>
-  Com a verificação deste documento, observou-se que houve apenas um quesito não atendido, que avalia o uso de linguagem clara e objetiva no documento. Sendo assim, as alterações estarão sendo realizadas para que o documento que trata do perfil do usuário esteja totalmente coerente com o esperado, ou seja, que atenda a todos os quesitos avaliados na Tabela 1.
+  Com a verificação deste documento, observou-se que houveram três quesitos não atendidos, que avalia o uso de linguagem clara e objetiva no documento, os dados demográficos dos usuários e os idiomas ou jargões utilizados. Sendo assim, as alterações estarão sendo realizadas para que o documento que trata do perfil do usuário esteja totalmente coerente com o esperado, ou seja, que atenda a todos os quesitos avaliados na Tabela 1.
 </p>
 
 ## 4. Histórico de Versionamento
