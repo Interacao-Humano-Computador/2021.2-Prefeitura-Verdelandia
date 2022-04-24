@@ -29,7 +29,7 @@
 ## 3. Conclusão
 
 <p align='justify'>
-  Com a verificação deste documento, observou-se que houve apenas um quesito não atendido, que avalia o uso de linguagem clara e objetiva no documento. Sendo assim, as alterações estarão sendo realizadas para que o documento que trata da verificação do resultado da análise de tarefas esteja totalmente coerente com o esperado, ou seja, que atenda a todos os quesitos avaliados na Tabela 1.
+  Com a verificação deste documento, observou-se que houve apenas um quesito não atendido, que avalia o uso de linguagem clara e objetiva no documento. Sendo assim, as alterações estarão sendo realizadas para que o documento que trata do resultado da análise de tarefas esteja totalmente coerente com o esperado, ou seja, que atenda a todos os quesitos avaliados na Tabela 1.
 </p>
 
 ## 4. Histórico de Versionamento
