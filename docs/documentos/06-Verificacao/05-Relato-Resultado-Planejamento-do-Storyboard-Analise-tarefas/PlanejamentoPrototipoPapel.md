@@ -23,6 +23,10 @@
 | 7 | O documento possui conclusão/resultado                            | ✔️ |
 | 8 | O documento possui histórico de versionamento?                    | ✔️ |
 | 9 | É apresentado um Termo de Consentimento?                          | ✔️ |
+| 10 | O protótipo está bem definido e com boa resolução?                          | ✔️ |
+| 11 | O protótipo foi desenhado junto com o usuário?                          | ❌ |
+| 12 | O protótipo foi desenhado junto com a persona?                          | ✔️ |
+| 13 | Os campos obrigatórios são identificados no protótipo?                          | ✔️ |
 
 <figcaption>Fonte: Próprio autor</figcaption>
 
@@ -31,7 +35,7 @@
 ## 3. Conclusão
 
 <p align='justify'>
-  Com a verificação deste documento, observou-se que houve apenas um quesito não atendido, que avalia o uso de linguagem clara e objetiva no documento. Sendo assim, as alterações estarão sendo realizadas para que o documento que trata do planejamento do protótipo de papel esteja totalmente coerente com o esperado.
+  Com a verificação deste documento, observou-se que houve apenas dois quesitos não atendidos, que avalia o uso de linguagem clara e objetiva no documento e se o protótipo foi desenhado junto com o usuário, que apesar de não está sendo atendido, deve-se considerar que foram utilizadas personas durante o desenvolvimento e avaliação do protótipo. Sendo assim, as alterações estarão sendo realizadas para que o documento que trata do planejamento do protótipo de papel esteja totalmente coerente com o esperado.
 </p>
 
 ## 4. Histórico de Versionamento
