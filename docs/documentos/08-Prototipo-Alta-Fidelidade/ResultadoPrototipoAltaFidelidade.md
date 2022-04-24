@@ -53,3 +53,16 @@ Julio nunca havia acessado o site da Prefeitura de Verdelândia, então todo o f
 <p align="justify">
 Em relação à página inicial o entrevistado achou o design intuitivo e organizado. Os links que redirecionavam novamente para a página inicial agora levam à uma mensagem de que a página está indisponível, Julio também comenta que é melhor assim para a pessoa receber um feedback de que aquilo ainda não está funcionando. No final o entrevistado ressalta que agora o site apresenta um bom design, ele nota que todas as páginas realmente pertencem ao site.
 </p>
+
+## 5. Conclusão
+
+<p align="justify">
+Diante de todo o exposto, quando comparamos os resultados das entrevistas deste documento com o <a src="https://interacao-humano-computador.github.io/2021.2-Prefeitura-Verdelandia/documentos/05-Relato-Resultado-Planejamento-do-Storyboard-Analise-tarefas/ResultadoAnaliseTarefas/"> documento de  resultado da análise de tarefas</a>, percebemos claramente que as melhorias implementadas no protótipo de alta-fidelidade contribuiram para uma melhor concordância com o escopo das metas de usabilidade, descritas no <a src="https://interacao-humano-computador.github.io/2021.2-Prefeitura-Verdelandia/documentos/03-Principios-Metas-Guia/MetasUsabilidade/" >documento de metas de usabilidade</a>.
+</p>
+
+## 6. Histórico de versionamento
+
+| Data  | Versão |      Descrição       |                                                    Autor                                                    | Revisor |
+| :---: | :----: | :------------------: | :---------------------------------------------------------------------------------------------------------: | :-----: |
+| 24/04 | 1.0.0  | Criação do documento | [Antonio Igor](https://github.com/antonioigorcarvalho) e [Valderson Pontes](https://github.com/valdersonjr) |    -    |
+
