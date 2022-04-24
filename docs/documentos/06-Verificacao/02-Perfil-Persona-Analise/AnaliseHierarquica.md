@@ -42,4 +42,4 @@
 |-|-|-|-|-|
 |1.0.0|05/04/2022| Criação do documento | [Antonio Igor](https://github.com/antonioigorcarvalho) |  |
 |1.0.1|06/04/2022| Realização da Verificação do Checklist | [Antonio Igor](https://github.com/antonioigorcarvalho), [Douglas Monteles](https://github.com/douglasmonteles), [Eliseu Kadesh](https://github.com/eliseukadesh67), [Erick Levy](https://github.com/ericklevy), [Rodrigo Carvalho](https://github.com/Rocsantos) e  [Valderson Pontes](https://github.com/valdersonjr)|  |
-|1.1.0|24/04/2022| Adição do tópico de conclusão | [Douglas Monteles](https://github.com/douglasmonteles) |  |
+|1.1.0|24/04/2022| Adição do tópico de conclusão | [Douglas Monteles](https://github.com/douglasmonteles) | [Antonio Igor](https://github.com/antonioigorcarvalho) |
