@@ -31,7 +31,7 @@
 ## 3. Conclusão
 
 <p align='justify'>
-  Com a verificação deste documento, observou-se que ouve apenas um quesito não atendido, que avalia o uso de linguagem clara e objetiva no documento. Sendo assim, as alterações estarão sendo realizadas para que o documento que trata do planejamento do protótipo de papel esteja totalmente coerente com o esperado.
+  Com a verificação deste documento, observou-se que houve apenas um quesito não atendido, que avalia o uso de linguagem clara e objetiva no documento. Sendo assim, as alterações estarão sendo realizadas para que o documento que trata do planejamento do protótipo de papel esteja totalmente coerente com o esperado.
 </p>
 
 ## 4. Histórico de Versionamento

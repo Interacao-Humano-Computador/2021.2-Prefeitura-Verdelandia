@@ -6,9 +6,10 @@
   Após a criação do documento de <a href="https://interacao-humano-computador.github.io/2021.2-Prefeitura-Verdelandia/documentos/05-Relato-Resultado-Planejamento-do-Storyboard-Analise-tarefas/ResultadoAnaliseTarefas/">verificação resultado análise de tarefas</a>, tem-se a necessidade de averiguar se suas especificações atendem ao que é exigido, no caso o método escolhido foi a inspeção. Para maiores detalhes da metodologia utilizada <a href="../../Introducao">clique aqui</a>.
 </p>
 
-<center>
 
 ## 2. Resultados
+
+<center>
 
 #### Tabela 1: Checklist Verificação Resultado Análise de Tarefas
 
@@ -25,7 +26,13 @@
 
 </center>
 
-## 3. Histórico de Versionamento
+## 3. Conclusão
+
+<p align='justify'>
+  Com a verificação deste documento, observou-se que houve apenas um quesito não atendido, que avalia o uso de linguagem clara e objetiva no documento. Sendo assim, as alterações estarão sendo realizadas para que o documento que trata da verificação do resultado da análise de tarefas esteja totalmente coerente com o esperado, ou seja, que atenda a todos os quesitos avaliados na Tabela 1.
+</p>
+
+## 4. Histórico de Versionamento
 
 |Versão|Data de modificação|Descrição da modificação|Autor|Revisor|
 |-|-|-|-|-|
