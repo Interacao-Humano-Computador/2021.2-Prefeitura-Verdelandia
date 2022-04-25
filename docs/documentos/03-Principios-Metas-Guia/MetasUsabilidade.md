@@ -106,7 +106,7 @@ Utilizando o formato sugerido por (Preece, Rogers e Sharp, 2013), as metas de us
    - Pergunta: Qual é a gama de erros possíveis ao se utilizar o site e quais as medidas que o produto permite que o usuário tome para corrigir os erros facilmente?
        - O site deve ser estável e não apresentar erros de interface (html, css) e deve sempre manter o usuário informado de erros que possam ocorrer, e auxiliar o usuário a corrigir este erro.
 - Utilidade:
-   - O produto fornece um conjunto adequado de funções que permitam aos usuários realizar todas as suas tarefas da maneira que desejam?
+   - Pergunta: O produto fornece um conjunto adequado de funções que permitam aos usuários realizar todas as suas tarefas da maneira que desejam?
        - O site deve possuir ferramentas de acessibilidade para pessoas mais velhas, contando com funções de aumento de fonte, alto contraste e ferramenta de busca.
  
 ## 4. Conclusão
