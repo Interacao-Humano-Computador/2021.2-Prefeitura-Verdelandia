@@ -75,20 +75,23 @@ Utilidade é uma medida de que o produto oferece o tipo certo de funcionalidade,
 ## 3. Metas a serem atingidas no projeto
  
 <p align="justify">
-As principais metas a serem atingidas no processo são: facilidade de aprendizagem, facilidade de recordação, eficácia, segurança no uso, utilidade, sendo essas as metas consideradas mais importantes para o contexto do projeto.<br>
-
--   Facilidade de aprendizagem: por ser um sistema utilizado por diversos tipos de usuários.
--   Facilidade de recordação: evitar que o usuário tenha que aprender a realizar a tarefa novamente. Essa meta também é importante devido a diversidade de usuário.
--   Eficácia: por ser um <i> website </i> governamental, é imprescindível o produto ser bom no que foi feito para fazer, devido sua importância.
--   Segurança no uso: os usuário que utilizam o sistema podem não possuir certa familiaridade com utilização de tecnologia. Dessa forma, se faz importante protege-lo de condições adversas.
--   Utilidade: o <i> website </i> deve fornecer vários tipos de funcionalidade, no seu contexto de existência, para que os usuários possam fazer o que procuram.
-
-<br>
-As cinco metas escolhidas são consideradas mais importantes para o projeto em razão do sistema analisado ser um site de prefeitura. Sendo assim, as demais, eficiência e satisfação, são menos importantes do que as demais nesse contexto, pois o mais importante é que o usuário consiga chegar ao final de sua tarefa, relevando seu nível de satisfação ou sua produtividade.<br>
-
-Utilizando o formato sugerido por (Preece, Rogers e Sharp, 2013), as metas de usabilidade escolhidas serão dirigidas como perguntas. O objetivo é fornecer um meio concreto de avaliar os vários aspectos de um produto interativo e da experiência de usuário. Respondendo às perguntas, podemos ser alertados em estágios iniciais no processo de design sobre problemas potenciais.
-
+As principais metas a serem atingidas no processo são: facilidade de aprendizagem, facilidade de recordação, eficácia, segurança no uso, utilidade, sendo essas as metas consideradas mais importantes para o contexto do projeto.
 </p>
+
+- Facilidade de aprendizagem: por ser um sistema utilizado por diversos tipos de usuários.
+- Facilidade de recordação: evitar que o usuário tenha que aprender a realizar a tarefa novamente. Essa meta também é importante devido a diversidade de usuário.
+- Eficácia: por ser um <i> website </i> governamental, é imprescindível o produto ser bom no que foi feito para fazer, devido sua importância.
+- Segurança no uso: os usuário que utilizam o sistema podem não possuir certa familiaridade com utilização de tecnologia. Dessa forma, se faz importante protege-lo de condições adversas.
+- Utilidade: o <i> website </i> deve fornecer vários tipos de funcionalidade, no seu contexto de existência, para que os usuários possam fazer o que procuram.
+
+<p align="justify">
+As cinco metas escolhidas são consideradas mais importantes para o projeto em razão do sistema analisado ser um site de prefeitura. Sendo assim, as demais, eficiência e satisfação, são menos importantes do que as demais nesse contexto, pois o mais importante é que o usuário consiga chegar ao final de sua tarefa, relevando seu nível de satisfação ou sua produtividade.
+</p>
+<p align="justify">
+Utilizando o formato sugerido por (Preece, Rogers e Sharp, 2013), as metas de usabilidade escolhidas serão dirigidas como perguntas. O objetivo é fornecer um meio concreto de avaliar os vários aspectos de um produto interativo e da experiência de usuário. Respondendo às perguntas, podemos ser alertados em estágios iniciais no processo de design sobre problemas potenciais.
+</p>
+
+
  
 - Facilidade de Aprendizagem:
    - Pergunta: O sistema permite que as pessoas aprendam, realizem seu trabalho de forma eficiente, acessem a informação de que necessitam?
