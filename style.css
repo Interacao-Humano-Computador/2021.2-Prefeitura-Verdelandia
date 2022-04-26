@@ -1,0 +1,41 @@
+[data-md-color-primary="spring-green"] .md-header {
+  background-color: #5d934c !important;
+}
+
+.md-logo img {
+  width: auto !important;
+  height: 35px !important;
+  margin: 0 !important;
+}
+
+.md-header-nav__button {
+  margin: 0;
+}
+
+.md-main {
+  background-color: whitesmoke;
+}
+
+.md-typeset table:not([class]) th {
+  background-color: mediumseagreen;
+}
+.md-nav__link:hover, .md-typeset a:hover {
+  color: darkgreen;
+}
+
+.md-nav__link--active, .md-typeset a {
+  color: seagreen;
+  transition: color .125s;
+}
+
+.md-search__input{
+  background-color: seagreen;
+  border: 1px;
+  border-radius: 1rem;
+  border-color: black;
+}
+
+.md-search__input:hover {
+  background-color: seagreen;
+}
+
